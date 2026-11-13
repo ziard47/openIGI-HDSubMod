@@ -6,6 +6,22 @@ It replaces the low-resolution retail bitmap cutscene font with crisp, modern Tr
 
 ---
 
+## 📸 Before & After Comparison
+
+### ❌ Before: Retail Low-Resolution Subtitles
+> Low-resolution bitmap typography placed directly over the 3D scene with poor readability, awkward line wrapping, and no speaker differentiation.
+
+![Before - Retail Subtitles](screenshots/before.png)
+
+---
+
+### ✨ After: HDSubMod High-Definition Typography
+> Crisp vector typography positioned cleanly in the cinematic letterbox bar, dynamic tactical speaker color coding, drop shadows for high contrast, and full multi-language support.
+
+![After - HDSubMod](screenshots/after.png)
+
+---
+
 ## ✨ Features
 
 - **🎬 Cinematic Letterbox Placement**:
@@ -28,9 +44,13 @@ It replaces the low-resolution retail bitmap cutscene font with crisp, modern Tr
     - **Russian (Русский)**
     - **Spanish (Español)**
     - **German (Deutsch)**
-- **🔤 Native Unicode TrueType Fonts**:
-  - Bundled with official **Google Noto** fonts (`Noto Sans Sinhala`, `Noto Sans Tamil`, `Noto Sans Devanagari`) and TrueType Cyrillic fonts.
-  - Dynamic font atlas baking ensures non-Latin Unicode scripts render without question marks (`????`).
+- **🔤 Native TrueType Fonts & Advanced Typography**:
+  - Powered by **Google Sans** & authentic typography across all languages:
+    - `GoogleSans-Regular.ttf` & `GoogleSans-Bold.ttf` for Latin & Cyrillic (English, Russian, Spanish, German).
+    - `fm-abhaya.ttf` with pre-composed visual glyph encoding for Sinhala script, ensuring 100% accurate Kombuwa positioning, ligatures, and vowel signs without shaper artifacts.
+    - `GoogleSans-Tamil.ttf` for Tamil script + Google Sans Latin.
+    - `GoogleSans-Hindi.ttf` for Devanagari script + Google Sans Latin.
+  - Dedicated multi-font speaker rendering guarantees that character names (`ANYA:`, `JONES:`, `PRIBOI:`) always render in clean Google Sans Latin with zero missing glyph boxes (`[][][][]`).
 - **⚙️ In-Game Mod Settings**:
   - Select your preferred subtitle language anytime via the OpenIGI Launcher (`Settings` → `Mods` → `HDSubMod`).
 - **🛡️ Full HUD Preservation**:
@@ -46,10 +66,15 @@ HDSubMod/
 ├── HDSubMod.cs               # Main mod source code & CustomHudPresenter
 ├── HDSubMod.csproj           # OpenIGI Modding SDK project file
 ├── README.md                 # This documentation
+├── screenshots/              # Before and after in-game comparison images
+│   ├── before.png
+│   └── after.png
 ├── fonts/                    # High-definition TrueType fonts
-│   ├── NotoSansSinhala-Regular.ttf
-│   ├── NotoSansTamil-Regular.ttf
-│   └── NotoSansDevanagari-Regular.ttf
+│   ├── GoogleSans-Regular.ttf
+│   ├── GoogleSans-Bold.ttf
+│   ├── fm-abhaya.ttf
+│   ├── GoogleSans-Tamil.ttf
+│   └── GoogleSans-Hindi.ttf
 ├── translations/             # Runtime translation dictionaries
 │   ├── english.json
 │   ├── sinhala.json
@@ -58,7 +83,7 @@ HDSubMod/
 │   ├── russian.json
 │   ├── spanish.json
 │   └── german.json
-└── *_detailed.json           # Detailed side-by-side translation files
+└── detailed_subtitles/       # Human-readable side-by-side translation archives
     ├── english_detailed.json
     ├── sinhala_detailed.json
     ├── tamil_detailed.json

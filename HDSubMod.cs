@@ -139,6 +139,29 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
     {
         if (_defaultFont != null) return;
 
+        try
+        {
+            byte[]? gsBytes = LoadFontBytes("GoogleSans-Regular.ttf");
+            if (gsBytes != null && _device != null)
+            {
+                var codepoints = GetCodepointsForLanguage(SubtitleLanguage.English);
+                var atlas = FontAtlasBuilder.Build(
+                    gsBytes,
+                    28f,
+                    FontAtlasKind.Coverage,
+                    codepoints,
+                    1024,
+                    4,
+                    128);
+                _defaultFont = RhiFontExtensions.Upload(_device, atlas);
+                return;
+            }
+        }
+        catch
+        {
+            // Silently fallback to engine typography
+        }
+
         if (_bodyField != null)
         {
             _defaultFont = (UiFont?)_bodyField.GetValue(_statusRenderer);
@@ -157,15 +180,29 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
         }
     }
 
-    private UiFont GetFontForLanguage(SubtitleLanguage language)
+    private byte[]? LoadFontBytes(string fileName)
     {
-        EnsureDefaultFont();
+        string[] searchDirs = {
+            Path.Combine(_modDirectory, "fonts"),
+            Path.Combine(AppContext.BaseDirectory, "fonts"),
+            Path.Combine(AppContext.BaseDirectory, "mod", "fonts"),
+            Path.Combine(Directory.GetCurrentDirectory(), "Modding", "HDSubMod", "fonts")
+        };
 
-        if (language == SubtitleLanguage.English)
+        foreach (var dir in searchDirs)
         {
-            return _defaultFont!;
+            string candidate = Path.Combine(dir, fileName);
+            if (File.Exists(candidate))
+            {
+                return File.ReadAllBytes(candidate);
+            }
         }
 
+        return null;
+    }
+
+    private UiFont GetFontForLanguage(SubtitleLanguage language)
+    {
         if (_languageFonts.TryGetValue(language, out var cached))
         {
             return cached;
@@ -173,50 +210,18 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
 
         try
         {
-            byte[]? fontBytes = null;
             string fontFileName = language switch
             {
-                SubtitleLanguage.Sinhala => "NotoSansSinhala-Regular.ttf",
-                SubtitleLanguage.Tamil => "NotoSansTamil-Regular.ttf",
-                SubtitleLanguage.Hindi => "NotoSansDevanagari-Regular.ttf",
-                _ => ""
+                SubtitleLanguage.Sinhala => "fm-abhaya.ttf",
+                SubtitleLanguage.Tamil => "GoogleSans-Tamil.ttf",
+                SubtitleLanguage.Hindi => "GoogleSans-Hindi.ttf",
+                _ => "GoogleSans-Regular.ttf"
             };
 
-            if (!string.IsNullOrEmpty(fontFileName))
+            byte[]? fontBytes = LoadFontBytes(fontFileName);
+            if (fontBytes == null && fontFileName != "GoogleSans-Regular.ttf")
             {
-                string[] searchDirs = {
-                    Path.Combine(_modDirectory, "fonts"),
-                    Path.Combine(AppContext.BaseDirectory, "fonts"),
-                    Path.Combine(AppContext.BaseDirectory, "mod", "fonts"),
-                    Path.Combine(Directory.GetCurrentDirectory(), "Modding", "HDSubMod", "fonts")
-                };
-
-                foreach (var dir in searchDirs)
-                {
-                    string candidate = Path.Combine(dir, fontFileName);
-                    if (File.Exists(candidate))
-                    {
-                        fontBytes = File.ReadAllBytes(candidate);
-                        break;
-                    }
-                }
-            }
-            else if (language == SubtitleLanguage.Russian)
-            {
-                string[] winFonts = {
-                    @"C:\Windows\Fonts\segoeui.ttf",
-                    @"C:\Windows\Fonts\arial.ttf",
-                    @"C:\Windows\Fonts\tahoma.ttf"
-                };
-
-                foreach (var wf in winFonts)
-                {
-                    if (File.Exists(wf))
-                    {
-                        fontBytes = File.ReadAllBytes(wf);
-                        break;
-                    }
-                }
+                fontBytes = LoadFontBytes("GoogleSans-Regular.ttf");
             }
 
             if (fontBytes != null && _device != null)
@@ -241,6 +246,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             // Silently fallback if font atlas build fails
         }
 
+        EnsureDefaultFont();
         return _defaultFont!;
     }
 
@@ -249,6 +255,17 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
         var set = new HashSet<int>();
         // Standard printable ASCII (32..126)
         for (int i = 32; i <= 126; i++) set.Add(i);
+
+        // Typographic punctuation & symbols
+        set.Add(0x2018); // ‘
+        set.Add(0x2019); // ’
+        set.Add(0x201C); // “
+        set.Add(0x201D); // ”
+        set.Add(0x2013); // –
+        set.Add(0x2014); // —
+        set.Add(0x2026); // …
+        set.Add(0x00AB); // «
+        set.Add(0x00BB); // »
 
         switch (lang)
         {
@@ -259,10 +276,11 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 break;
 
             case SubtitleLanguage.Sinhala:
-                for (int i = 0x0D80; i <= 0x0DFF; i++) set.Add(i); // Sinhala Unicode block
-                set.Add(0x200B); // Zero Width Space
-                set.Add(0x200C); // Zero Width Non-Joiner
-                set.Add(0x200D); // Zero Width Joiner
+                for (int i = 32; i <= 255; i++) set.Add(i); // FM font mapping (ASCII + Extended Latin)
+                set.Add(0x201C); // “
+                set.Add(0x201D); // ”
+                set.Add(0x2022); // •
+                set.Add(0x2219); // ∙
                 break;
 
             case SubtitleLanguage.Tamil:
@@ -438,13 +456,15 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                     string prefix = line.Substring(0, speaker.Length + 1);
                     string remainder = line.Substring(prefix.Length);
 
-                    float prefixWidth = font.MeasureWidth(prefix.AsSpan(), fontSize);
-                    float lineWidth = font.MeasureWidth(line.AsSpan(), fontSize);
+                    UiFont speakerFont = _defaultFont ?? font;
+                    float prefixWidth = speakerFont.MeasureWidth(prefix.AsSpan(), fontSize);
+                    float remainderWidth = font.MeasureWidth(remainder.AsSpan(), fontSize);
+                    float lineWidth = prefixWidth + remainderWidth;
                     float startX = (screenWidth - lineWidth) * 0.5f;
 
-                    // 1. Draw speaker prefix with character color & drop shadow
+                    // 1. Draw speaker prefix with character color & drop shadow (using Google Sans)
                     painter.DrawTextShadowed(
-                        font,
+                        speakerFont,
                         prefix.AsSpan(),
                         new UiVec2(startX, currentY),
                         fontSize,
@@ -452,7 +472,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                         shadowColor,
                         shadowOffset);
 
-                    // 2. Draw dialog body in crisp white & drop shadow
+                    // 2. Draw dialog body in crisp white & drop shadow (using language font)
                     if (!string.IsNullOrEmpty(remainder))
                     {
                         painter.DrawTextShadowed(
