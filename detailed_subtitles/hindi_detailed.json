@@ -1,0 +1,1234 @@
+[
+  {
+    "Id": "INTRO_0a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "NARRATOR",
+    "English": "Somewhere in Russia.",
+    "Hindi": "रूस में कहीं।"
+  },
+  {
+    "Id": "INTRO_1a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he talked yet?",
+    "Hindi": "PRIBOI: क्या उसने अभी तक कुछ बोला?"
+  },
+  {
+    "Id": "INTRO_1b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he started talking yet?",
+    "Hindi": "PRIBOI: क्या उसने बोलना शुरू किया?"
+  },
+  {
+    "Id": "INTRO_1c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Is he still not talking?",
+    "Hindi": "PRIBOI: क्या वह अब भी नहीं बोल रहा है?"
+  },
+  {
+    "Id": "INTRO_2a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No!",
+    "Hindi": "RUSSIAN GUARD: नहीं!"
+  },
+  {
+    "Id": "INTRO_2b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, boss",
+    "Hindi": "RUSSIAN GUARD: नहीं, बॉस।"
+  },
+  {
+    "Id": "INTRO_2c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, he's a tough one",
+    "Hindi": "RUSSIAN GUARD: नहीं, वह बहुत सख्त है।"
+  },
+  {
+    "Id": "INTRO_3a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I'll make him talk...",
+    "Hindi": "PRIBOI: मैं उसे बोलने पर मजबूर करूँगा..."
+  },
+  {
+    "Id": "INTRO_3b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Well, let's see about that",
+    "Hindi": "PRIBOI: अच्छा, चलो देखते हैं।"
+  },
+  {
+    "Id": "INTRO_3c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I think I have to pay him a little visit",
+    "Hindi": "PRIBOI: मुझे लगता है कि मुझे उससे व्यक्तिगत रूप से मिलना होगा।"
+  },
+  {
+    "Id": "INTRO_3d",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Hmmm...Now let's do it my way",
+    "Hindi": "PRIBOI: हम्म... अब इसे मेरे तरीके से करते हैं।"
+  },
+  {
+    "Id": "INTRO_3e",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Cover your ears - things are about to change",
+    "Hindi": "PRIBOI: अपने कान बंद कर लो - अब खेल बदलने वाला है।"
+  },
+  {
+    "Id": "M1_CUT_01",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.",
+    "Hindi": "ANYA: इतनी जल्दी यहाँ पहुँचने के लिए बहुत अच्छा काम। इस मिशन को सर्वोच्च प्राथमिकता दी गई है। लक्ष्य: जोसेफ प्रिबोई। आपको उसे ढूँढना है और पूछताछ के लिए बाहर लाना है। वॉरहेड की चोरी में जोसेफ ही हमारी एकमात्र कड़ी है।"
+  },
+  {
+    "Id": "M1_CUT_02",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah, yeah. I need to know one thing, where he is.",
+    "Hindi": "JONES: हाँ, हाँ। मुझे बस एक बात जाननी है, वह कहाँ है?"
+  },
+  {
+    "Id": "M1_CUT_03",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.",
+    "Hindi": "ANYA: जोसेफ को एक सैन्य हवाई क्षेत्र में रखा गया है। पूरे क्षेत्र में मजबूत हवाई सुरक्षा है। जब तक वे सुरक्षा प्रणालियाँ निष्क्रिय नहीं हो जातीं, हमें आपको लक्ष्य से कुछ दूरी पर उतारना होगा।"
+  },
+  {
+    "Id": "M1_CUT_04",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: What? Is transport waiting?",
+    "Hindi": "JONES: क्या? क्या कोई वाहन तैयार है?"
+  },
+  {
+    "Id": "M1_CUT_05",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll cover the ground using locally resourced transportation assets.",
+    "Hindi": "ANYA: आपको स्थानीय रूप से उपलब्ध वाहनों का उपयोग करके आगे बढ़ना होगा।"
+  },
+  {
+    "Id": "M1_CUT_06",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: You mean I have to steal something?",
+    "Hindi": "JONES: मतलब मुझे कुछ चुराना पड़ेगा?"
+  },
+  {
+    "Id": "M1_CUT_07",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:",
+    "Hindi": "ANYA: बिल्कुल सही। आप अगले माल गोदाम तक जाएँगे - वहाँ से आप वाहन का प्रबंध करेंगे। पूरा ऑपरेशन सरल है - इसके तीन चरण हैं:"
+  },
+  {
+    "Id": "M1_CUT_08",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...",
+    "Hindi": "ANYA: एक - वाहन प्राप्त करना। दो - हवाई सुरक्षा को निष्क्रिय करना। तीन - जोसेफ प्रिबोई को ढूँढना और पूछताछ के लिए सुरक्षित बाहर निकालना। यहाँ तक कि..."
+  },
+  {
+    "Id": "M1_CUT_09",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: ...even a grunt like me can follow it - I see",
+    "Hindi": "JONES: ...मेरे जैसा सिपाही भी इसे समझ सकता है - मैं समझ गया।"
+  },
+  {
+    "Id": "M1_CUT_10",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: That's the best we have.",
+    "Hindi": "ANYA: हमारे पास यही सबसे बेहतर योजना है।"
+  },
+  {
+    "Id": "M1_CUT_11",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, just how did you track Josef down?",
+    "Hindi": "JONES: आन्या, तुमने जोसेफ का पता कैसे लगाया?"
+  },
+  {
+    "Id": "M1_CUT_12",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.",
+    "Hindi": "ANYA: हमने जोसेफ के अपार्टमेंट में आए एक कॉल को ट्रैक किया। स्थानीय एजेंटों ने वहाँ छापा मारा और उन्हें जोसेफ की तस्वीरें और उसका मोबाइल नंबर मिला।"
+  },
+  {
+    "Id": "M1_CUT_13",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.",
+    "Hindi": "ANYA: इसलिए, हमने उस पर कॉल किया और निर्देशांकों का पता लगाया। मोबाइल एक सैन्य हवाई क्षेत्र में स्थित है - जोसेफ वहीं है - वही हमारा मुख्य लक्ष्य है।"
+  },
+  {
+    "Id": "M1_CUT_14",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Cunning - assuming he's there.",
+    "Hindi": "JONES: चालाकी भरा - बशर्ते वह सचमुच वहाँ हो।"
+  },
+  {
+    "Id": "M1_CUT_15",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.",
+    "Hindi": "ANYA: आपको माल गोदाम से होते हुए ट्रक तक पहुँचना होगा। किसी भी कीमत पर कैमरों से बचें - यदि सुरक्षा बलों को भनक लगी, तो पूरा बेस आपके स्थान को घेर लेगा।"
+  },
+  {
+    "Id": "M1_CUT_16",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!",
+    "Hindi": "ANYA: ट्रक तक पहुँचें। इस मिशन में आपका लक्ष्य यही है। वहाँ पहुँचें और उसे चुराएँ। मैं चाहती हूँ कि यह मिशन संक्षिप्त और पूरी तरह शांत रहे। काम पर लग जाओ जोन्स!"
+  },
+  {
+    "Id": "M2_CUT_01",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: The next objective is to disable the local air defences.",
+    "Hindi": "ANYA: अगला उद्देश्य स्थानीय हवाई सुरक्षा को निष्क्रिय करना है।"
+  },
+  {
+    "Id": "M2_CUT_02",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: Why not use the truck to evacuate Josef from the airfield?",
+    "Hindi": "JONES: जोसेफ को एयरफील्ड से निकालने के लिए ट्रक का उपयोग क्यों नहीं करते?"
+  },
+  {
+    "Id": "M2_CUT_03",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.",
+    "Hindi": "ANYA: बहुत धीमा, बहुत ही धीमा होगा। यह बहुत बड़ा जोखिम है। चोरी के मामले में जोसेफ ही हमारी एकमात्र कड़ी है।"
+  },
+  {
+    "Id": "M2_CUT_04",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.",
+    "Hindi": "ANYA: वह न केवल यह जानता था कि वॉरहेड कैसे ले जाया गया, बल्कि कहाँ और कैसे - उसने वॉरहेड का सीरियल नंबर तक बता दिया था। हमें वह सही-सलामत और ज़िंदा चाहिए।"
+  },
+  {
+    "Id": "M2_CUT_05",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: What about me?",
+    "Hindi": "JONES: और मेरा क्या?"
+  },
+  {
+    "Id": "M2_CUT_06",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.",
+    "Hindi": "ANYA: आपको यह करना है। तुरंत SAM मिसाइल बैटरी में घुसपैठ करें। आपको यहाँ विस्फोटक मिलेंगे, उन्हें प्रत्येक SAM साइट पर लगा दें।"
+  },
+  {
+    "Id": "M2_CUT_07",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.",
+    "Hindi": "ANYA: अंतिम मिलन स्थल पर भागें, और फिर विस्फोटकों को उड़ा दें।"
+  },
+  {
+    "Id": "M2_CUT_08",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.",
+    "Hindi": "ANYA: जब आप मिलन स्थल पर पहुँच जाएँगे, तब हम आपको हेलीकॉप्टर से उठाकर सीधे सैन्य एयरबेस ले जा सकते हैं।"
+  },
+  {
+    "Id": "M3_CUT_01",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?",
+    "Hindi": "JONES: एक और सफल ऑपरेशन पूरा हुआ। ठीक है आन्या, मुझे बताओ जोसेफ कहाँ है और मैं उसे बाहर ले आऊँगा। बैकअप की कोई खबर?"
+  },
+  {
+    "Id": "M3_CUT_02",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.",
+    "Hindi": "ANYA: निश्चित रूप से आपको किसी की मदद की ज़रूरत नहीं है। आपका बैकअप अभी राजधानी में उतरा है। वे अभी आपके रास्ते में हैं। वे लगभग तीन घंटे में आपके पास होंगे।"
+  },
+  {
+    "Id": "M3_CUT_03",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: Just in time to clear up!",
+    "Hindi": "JONES: सफाई करने के लिए बिल्कुल सही समय पर!"
+  },
+  {
+    "Id": "M3_CUT_04",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.",
+    "Hindi": "ANYA: हमने जोसेफ की निकासी के लिए हवाई गलियारा खोल दिया है। अब काम जोसेफ प्रिबोई को ढूँढना और पूछताछ के लिए बाहर लाना है।"
+  },
+  {
+    "Id": "M3_CUT_05",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Your objectives are threefold;",
+    "Hindi": "ANYA: आपके तीन उद्देश्य हैं;"
+  },
+  {
+    "Id": "M3_CUT_06",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Infiltrate the installation without overly raising suspicion;",
+    "Hindi": "ANYA: 1) बिना किसी शक के प्रतिष्ठान में घुसपैठ करें;"
+  },
+  {
+    "Id": "M3_CUT_07",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;",
+    "Hindi": "ANYA: 2) जोसेफ प्रिबोई को ढूँढें और आज़ाद करें - हमारे एजेंट पिछले 20 घंटों से निगरानी कर रहे थे, उन्होंने यह फुटेज ली है। मुझे विश्वास है कि जोसेफ इस इमारत के बेसमेंट में बंद है;"
+  },
+  {
+    "Id": "M3_CUT_08",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.",
+    "Hindi": "ANYA: 3) एक बार जब जोसेफ आपके साथ हो, तो हेलीकॉप्टर से निकलने के लिए उसे वापस FRV तक ले आएँ।"
+  },
+  {
+    "Id": "M4_CUT_01",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.",
+    "Hindi": "ANYA: जोन्स, आपने इस जेल की पहचान जोसेफ के ठिकाने के रूप में की थी। जोसेफ के हुलिए से मिलता-जुलता एक व्यक्ति कल यहाँ आया था।"
+  },
+  {
+    "Id": "M4_CUT_02",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: The back-up is here now. Who's leading them? What's their role?",
+    "Hindi": "JONES: बैकअप टीम अब यहाँ है। उनका नेतृत्व कौन कर रहा है? उनकी क्या भूमिका है?"
+  },
+  {
+    "Id": "M4_CUT_03",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.",
+    "Hindi": "ANYA: कैप्टन हैरिसन कमान में हैं - पूर्व ग्रीन बेरेट। वे हमले का नेतृत्व करेंगे; उनके आदमी अंदर जाएँगे और जोसेफ को बाहर लाएँगे।"
+  },
+  {
+    "Id": "M4_CUT_04",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: They lack as expert sniper. You are to provide cover as they go in.",
+    "Hindi": "ANYA: उनके पास कोई विशेषज्ञ स्नाइपर नहीं है। जब वे अंदर जाएँगे, तो आपको कवर फायरिंग देनी होगी।"
+  },
+  {
+    "Id": "M4_CUT_05",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: All right! I get to play god then?",
+    "Hindi": "JONES: ठीक है! तो मुझे भगवान की भूमिका निभानी है?"
+  },
+  {
+    "Id": "M4_CUT_06",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.",
+    "Hindi": "ANYA: मुझे लगता है कि यही आपका कॉल साइन होगा (GOD)। हैरिसन का साइन मोसेस (Moses) होगा।"
+  },
+  {
+    "Id": "M4_CUT_07",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: Awesome.",
+    "Hindi": "JONES: शानदार।"
+  },
+  {
+    "Id": "M4_CUT_08",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, your objectives are as follows;",
+    "Hindi": "ANYA: जोन्स, आपके उद्देश्य इस प्रकार हैं;"
+  },
+  {
+    "Id": "M4_CUT_09",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.",
+    "Hindi": "ANYA: 1) जेल के ऊपर पहाड़ी पर स्थित खंडहरों पर कब्जा करें। यह फायरिंग के लिए एक बेहतरीन स्थान देगा।"
+  },
+  {
+    "Id": "M4_CUT_10",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Provide cover for Harrison's men as they assault.",
+    "Hindi": "ANYA: 2) जब हैरिसन के आदमी हमला करें, तो उन्हें कवर दें।"
+  },
+  {
+    "Id": "M4_CUT_11",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.",
+    "Hindi": "ANYA: 3) जब हमारे लोग जोसेफ को ले लें, तो निकासी के लिए कवरिंग फायर दें।"
+  },
+  {
+    "Id": "M4_CUT_12",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.",
+    "Hindi": "ANYA: 4) जब जोसेफ सुरक्षित निकल जाएगा, तो हैरिसन आपको निकासी के लिए FRV की ओर बढ़ने का संकेत देंगे।"
+  },
+  {
+    "Id": "M5_CUT_01",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: How did Priboi's debrief go, Anya?",
+    "Hindi": "JONES: प्रिबोई से पूछताछ कैसी रही, आन्या?"
+  },
+  {
+    "Id": "M5_CUT_02",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.",
+    "Hindi": "ANYA: बहुत आसानी से! जोसेफ की पहले ही बुरी तरह पिटाई हो चुकी थी - ज्यादातर उसके चाचा जाच द्वारा।"
+  },
+  {
+    "Id": "M5_CUT_03",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.",
+    "Hindi": "ANYA: मुझे नहीं पता क्यों, लेकिन जाच प्रिबोई एक डरा हुआ आदमी है। अब हम जो जानते हैं वह यह है कि धंधे पर पूरा नियंत्रण जाच का ही है।"
+  },
+  {
+    "Id": "M5_CUT_04",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.",
+    "Hindi": "ANYA: उसी ने वॉरहेड की चोरी की साजिश रची थी। जब जोसेफ का अपहरण हुआ, तब वॉरहेड जाच के ही कब्जे में था; वह किसी को सौंपा नहीं गया था।"
+  },
+  {
+    "Id": "M5_CUT_05",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: Yes! Another success for David Jones! IGI!",
+    "Hindi": "JONES: हाँ! डेविड जोन्स के लिए एक और सफलता! IGI!"
+  },
+  {
+    "Id": "M5_CUT_06",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.",
+    "Hindi": "ANYA: हाँ, अपने दम पर। बहुत खूब। अब इसे संभालो। जाच के पास 50 से अधिक संपत्तियाँ और गोदाम हैं। वॉरहेड उनमें से किसी में भी हो सकता है।"
+  },
+  {
+    "Id": "M5_CUT_07",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.",
+    "Hindi": "ANYA: हालाँकि जाच प्रिबोई कई सुरक्षित सैन्य संचार चैनलों का उपयोग करता है। जोसेफ ने हमें चैनलों के कोड दिए और मैंने मुख्य नोड की पहचान कर ली है।"
+  },
+  {
+    "Id": "M5_CUT_08",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.",
+    "Hindi": "ANYA: यदि मैं नेटवर्क में प्रवेश कर सकूँ, तो मैं जाच की निजी बातचीत तक पहुँच सकती हूँ - वह जो कुछ भी कहेगा, मुझे पता चल जाएगा। वॉरहेड के स्थान सहित।"
+  },
+  {
+    "Id": "M5_CUT_09",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.",
+    "Hindi": "ANYA: इस संचार नोड में घुसपैठ करें। इस गुंबद की ओर बढ़ें - इसमें मुख्य कंप्यूटर हैं जो सभी संचार को नियंत्रित करते हैं।"
+  },
+  {
+    "Id": "M5_CUT_10",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.",
+    "Hindi": "ANYA: एक बार वहाँ पहुँचकर वायरस अपलोड करें, बाकी काम मैं कर लूँगी। और हाँ, उसके बाद आपको वहाँ से निकलना भी होगा।"
+  },
+  {
+    "Id": "M5_CUT_11",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.",
+    "Hindi": "ANYA: मौसम ठीक है, थोड़े बादल हैं, कल शायद बर्फबारी हो सकती है। कृपया इस बार कोई गड़बड़ न करें, जोन्स।"
+  },
+  {
+    "Id": "M6_CUT_01",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You believe Priboi to be here?",
+    "Hindi": "JONES: तुम्हें लगता है कि प्रिबोई यहाँ है?"
+  },
+  {
+    "Id": "M6_CUT_02",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.",
+    "Hindi": "ANYA: जोन्स, मुझे पता है। जो वायरस आपने अपलोड किया था? वह कमाल का काम कर रहा है।"
+  },
+  {
+    "Id": "M6_CUT_03",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: This is one of his more remote storage yards.",
+    "Hindi": "ANYA: यह उसके दूरदराज के भंडारण यार्डों में से एक है।"
+  },
+  {
+    "Id": "M6_CUT_04",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get this - he's currently holding a goddamn arms sale.",
+    "Hindi": "ANYA: यह सुनो - वह इस समय हथियारों की एक बड़ी बिक्री कर रहा है।"
+  },
+  {
+    "Id": "M6_CUT_05",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.",
+    "Hindi": "JONES: तुम मुझे बुरी संगत में डाल रही हो - मेरी माँ ने मुझे तुम्हारे जैसी महिलाओं से सावधान किया था - वे भटका देती हैं।"
+  },
+  {
+    "Id": "M6_CUT_06",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: And what happened?",
+    "Hindi": "ANYA: और फिर क्या हुआ?"
+  },
+  {
+    "Id": "M6_CUT_07",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: I mainly got led astray.",
+    "Hindi": "JONES: मैं ज्यादातर भटक ही गया।"
+  },
+  {
+    "Id": "M6_CUT_08",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.",
+    "Hindi": "ANYA: हमेशा की तरह। सुनो, प्रिबोई अपने सारे सौदे अपनी लिमोजिन से करता है - वह बुलेटप्रूफ है और गेट के पास खड़ी है।"
+  },
+  {
+    "Id": "M6_CUT_09",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.",
+    "Hindi": "ANYA: अगर कुछ गलत हुआ, तो प्रिबोई की एक ही योजना है: खुली सड़क की ओर भागना और अपने आदमियों को लड़ने के लिए छोड़ देना। मैं इसी योजना का फायदा उठाना चाहती हूँ।"
+  },
+  {
+    "Id": "M6_CUT_10",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison and his men are setting up on the exit road.",
+    "Hindi": "ANYA: हैरिसन और उसके आदमी निकास मार्ग पर मोर्चा संभाल रहे हैं।"
+  },
+  {
+    "Id": "M6_CUT_11",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.",
+    "Hindi": "ANYA: मैं चाहती हूँ कि आप बेस में घुसें और बड़ा हंगामा खड़ा करें। प्रिबोई डरकर भागेगा। हैरिसन उसे रोकेगा, लिमोजिन को कब्जे में लेकर प्रिबोई को पकड़ लेगा।"
+  },
+  {
+    "Id": "M6_CUT_12",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.",
+    "Hindi": "ANYA: मिशन के नियम ये हैं; बेस में प्रवेश करें - आपको अचानक हमले का तत्व बनाए रखना होगा, यह बहुत महत्वपूर्ण है।"
+  },
+  {
+    "Id": "M6_CUT_13",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives",
+    "Hindi": "ANYA: गोदाम से विस्फोटक प्राप्त करें; ध्यान भटकाने के लिए आपको इनकी आवश्यकता होगी। फिर ईंधन डिपो पर जाएँ और विस्फोटकों का उपयोग करके धमाका करें।"
+  },
+  {
+    "Id": "M6_CUT_14",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.",
+    "Hindi": "ANYA: प्रिबोई डरे हुए खरगोश की तरह भागेगा। हैरिसन उसे पकड़ लेगा।"
+  },
+  {
+    "Id": "M7_CUT_01",
+    "Mission": "Mission 7",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up?",
+    "Hindi": "ANYA: आप जल्द ही वापस आ जाएँगे जोन्स। बस आगे बढ़ते रहें। मैं पूछताछ कक्ष तैयार कर रही हूँ। प्रिबोई कैसा है?"
+  },
+  {
+    "Id": "M7_CUT_02",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.",
+    "Hindi": "JONES: चिंता मत करो - वह ठीक है <प्रिबोई गुस्से में गुर्राता है> और वह सब कुछ बोलेगा।"
+  },
+  {
+    "Id": "M7_CUT_03",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.",
+    "Hindi": "EKK: यह रूसी हवाई नियंत्रण है - आप संप्रभु हवाई क्षेत्र में प्रवेश कर रहे हैं, अपने विमान को तुरंत 0 9 9 दिशा पर मोड़ें, दोहराती हूँ 0 9 9।"
+  },
+  {
+    "Id": "M7_CUT_04",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: You have thirty seconds to comply, Jones",
+    "Hindi": "EKK: आदेश मानने के लिए आपके पास तीस सेकंड हैं, जोन्स।"
+  },
+  {
+    "Id": "M7_CUT_05",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: That's her!",
+    "Hindi": "PRIBOI: यह वही है!"
+  },
+  {
+    "Id": "M7_CUT_06",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Who?",
+    "Hindi": "JONES: कौन?"
+  },
+  {
+    "Id": "M7_CUT_07",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Just do what she says, she loco, crazy.",
+    "Hindi": "PRIBOI: वह जो कहती है करो, वह पागल है, बिल्कुल सनकी।"
+  },
+  {
+    "Id": "M7_CUT_08",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Lock missiles. Fire when ready.",
+    "Hindi": "EKK: मिसाइलें लॉक करो। तैयार होने पर फायर करो।"
+  },
+  {
+    "Id": "M7_CUT_09",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Command acknowledged.",
+    "Hindi": "RUSSIAN PILOT: आदेश स्वीकार किया।"
+  },
+  {
+    "Id": "M7_CUT_10",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away.",
+    "Hindi": "RUSSIAN PILOT: मिसाइलें दाग दी गईं।"
+  },
+  {
+    "Id": "M7_CUT_11",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Too late!",
+    "Hindi": "PRIBOI: बहुत देर हो चुकी है!"
+  },
+  {
+    "Id": "M7_CUT_12",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!",
+    "Hindi": "JONES: आन्या, हमें निशाना बनाया गया है, मेडे, मेडे, हम नीचे गिर रहे हैं, हम क्रैश होने वाले हैं!"
+  },
+  {
+    "Id": "M7_CUT_13",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.",
+    "Hindi": "EKK: प्रिबोई को ढूँढो। अगर वह ज़िंदा है तो उसे मेरे पास लाओ; वरना लाश को दुर्घटनास्थल पर ही जला दो।"
+  },
+  {
+    "Id": "M7_CUT_14",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN SOLDIER",
+    "English": "RUSSIAN SOLDIER: And the English soldier?",
+    "Hindi": "RUSSIAN SOLDIER: और उस अंग्रेज़ सिपाही का क्या?"
+  },
+  {
+    "Id": "M7_CUT_15",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Kill him!, his road finishes here",
+    "Hindi": "EKK: उसे मार डालो!, उसका सफर यहीं खत्म होता है।"
+  },
+  {
+    "Id": "M8_CUT_01",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: David - are you okay?",
+    "Hindi": "ANYA: डेविड - क्या आप ठीक हैं?"
+  },
+  {
+    "Id": "M8_CUT_02",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. It's bloody cold Anya!",
+    "Hindi": "JONES: हाँ। यहाँ भयंकर ठंड है आन्या!"
+  },
+  {
+    "Id": "M8_CUT_03",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.",
+    "Hindi": "ANYA: मुझे पता है। मैंने आपकी और मैप कंप्यूटर दोनों की लोकेशन ट्रेस कर ली है। डिस्ट्रेस बीकन सक्रिय हो गया है।"
+  },
+  {
+    "Id": "M8_CUT_04",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...",
+    "Hindi": "ANYA: सुनिए - आप त्वरित प्रतिक्रिया बल के एक अग्रिम बेस में हैं - इसका मतलब..."
+  },
+  {
+    "Id": "M8_CUT_05",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.",
+    "Hindi": "JONES: मैकेनाइज्ड इन्फैंट्री, बख्तरबंद गाड़ियां, हवाई सहायता - मैं इतना नहीं भूला हूँ।"
+  },
+  {
+    "Id": "M8_CUT_06",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.",
+    "Hindi": "ANYA: माफ़ करना। देखो, ट्रक इन्फैंट्री बैरक के पास है। मैप कंप्यूटर लगभग 1 किमी दूर एक रिपेयर यार्ड के गोला-बारूद बंकर से सिग्नल भेज रहा है।"
+  },
+  {
+    "Id": "M8_CUT_07",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.",
+    "Hindi": "ANYA: आपके आदेश ये हैं। वहाँ से बाहर निकलें, डेविड और रिपेयर यार्ड ढूँढें। वर्कशॉप में जाकर मैप कंप्यूटर वापस लें। मैंने सुरक्षित निकलने का प्रबंध कर लिया है। तेजी दिखाओ सिपाही।"
+  },
+  {
+    "Id": "M9_CUT_01",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?",
+    "Hindi": "ANYA: जोन्स - मैं इस बारे में सोच रही थी। प्रिबोई। एक ट्रेन में, कहाँ ले जाया जा रहा है? किसके पास?"
+  },
+  {
+    "Id": "M9_CUT_02",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Hmm, my money is on the voice that got me shot down.",
+    "Hindi": "JONES: हम्म, मेरा शक उसी आवाज़ पर है जिसने मुझ पर हमला करवाया था।"
+  },
+  {
+    "Id": "M9_CUT_03",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?",
+    "Hindi": "ANYA: सहमत हूँ। लेकिन प्रिबोई ट्रेन में?!?. क्या किसी को ले जाने का यह अजीब तरीका नहीं है?"
+  },
+  {
+    "Id": "M9_CUT_04",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?",
+    "Hindi": "JONES: हाँ। अगर प्रिबोई इतना महत्वपूर्ण है, तो हवाई परिवहन या सैन्य काफिले का उपयोग क्यों नहीं किया?"
+  },
+  {
+    "Id": "M9_CUT_05",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly! Our mystery caller isn't so powerful.",
+    "Hindi": "ANYA: बिल्कुल! हमारा रहस्यमयी कॉलर इतना शक्तिशाली नहीं है।"
+  },
+  {
+    "Id": "M9_CUT_06",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.",
+    "Hindi": "ANYA: मेरा मानना है कि हम एक छोटे समूह से निपट रहे हैं, संभवतः विद्रोही सेना अधिकारी या कोई राजनीतिक चरमपंथी।"
+  },
+  {
+    "Id": "M9_CUT_07",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?",
+    "Hindi": "ANYA: लेकिन वे जल्दी में हैं; उन्हें प्रिबोई से तुरंत मिलना है। वह उनके लिए महत्वपूर्ण है। लेकिन क्यों?"
+  },
+  {
+    "Id": "M9_CUT_08",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.",
+    "Hindi": "JONES: वह हमारे और उनके बीच की एकमात्र कड़ी है। वे जानना चाहते हैं कि हम कितना बड़ा खतरा हैं। वरना प्रिबोई ट्रेन में नहीं, अब तक मर चुका होता।"
+  },
+  {
+    "Id": "M9_CUT_09",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.",
+    "Hindi": "ANYA: आपको प्रिबोई को वापस लाना होगा, चाहे वह अपराधी ही क्यों न हो - वह उनके और हमारे बीच की कड़ी है।"
+  },
+  {
+    "Id": "M9_CUT_10",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.",
+    "Hindi": "ANYA: उसकी ट्रेन इस रेल यार्ड से होकर गुजरेगी। इसका उपयोग पुरानी मिसाइलों को रखने के लिए किया जाता है। जोन्स, आपको उस ट्रेन में सवार होना होगा।"
+  },
+  {
+    "Id": "M9_CUT_11",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.",
+    "Hindi": "ANYA: ये आपके उद्देश्य हैं। पहले, रेल यार्ड की सीमा में प्रवेश करें। जब ट्रेन आए, तो उसमें चढ़ जाएँ।"
+  },
+  {
+    "Id": "M9_CUT_12",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck",
+    "Hindi": "ANYA: याद रखें यदि अलार्म बजा, तो ट्रेन शायद बेस में प्रवेश नहीं करेगी। हम वह जोखिम नहीं ले सकते, इसलिए अलार्म बजने न दें। आगे बढ़ो डेविड - शुभकामनाएँ!"
+  },
+  {
+    "Id": "M10_CUT_01",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.",
+    "Hindi": "JONES: आन्या, मुझे प्रिबोई मिल गया है! ट्रेन सुरक्षित है। मैं आखिरकार वहाँ पहुँच गया।"
+  },
+  {
+    "Id": "M10_CUT_02",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: At last!",
+    "Hindi": "ANYA: आखिरकार!"
+  },
+  {
+    "Id": "M10_CUT_03",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional",
+    "Hindi": "PRIBOI: तुमने बहुत देर कर दी। पहले तुमने मेरा अपहरण किया, और फिर मुझे खो दिया। मुझे लगा था कि तुम पेशेवर हो।"
+  },
+  {
+    "Id": "M10_CUT_04",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - there's two planes approaching",
+    "Hindi": "ANYA: जोन्स - दो विमान आ रहे हैं।"
+  },
+  {
+    "Id": "M10_CUT_05",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train",
+    "Hindi": "RUSSIAN PILOT: विक्टर थ्री से कमांड, ट्रेन हमारी नजर में है।"
+  },
+  {
+    "Id": "M10_CUT_06",
+    "Mission": "Mission 10",
+    "Speaker": "EKK",
+    "English": "EKK: Stop that train. Fire, fire!",
+    "Hindi": "EKK: उस ट्रेन को रोको। फायर, फायर!"
+  },
+  {
+    "Id": "M10_CUT_07",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away!",
+    "Hindi": "RUSSIAN PILOT: मिसाइलें छोड़ दी गईं!"
+  },
+  {
+    "Id": "M10_CUT_08",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - hold on tight.",
+    "Hindi": "ANYA: जोन्स - कसकर पकड़ लो।"
+  },
+  {
+    "Id": "M10_CUT_09",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Arghhhhh!",
+    "Hindi": "JONES: आह्ह्ह्ह्ह!"
+  },
+  {
+    "Id": "M10_CUT_10",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Arghhhhh!",
+    "Hindi": "PRIBOI: आह्ह्ह्ह्ह!"
+  },
+  {
+    "Id": "M11_CUT_01",
+    "Mission": "Mission 11",
+    "Speaker": "JONES",
+    "English": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?",
+    "Hindi": "JONES: जैसा तुमने कहा था, मैं हेलीकॉप्टर क्रू से मिला, सुबह 05:00 बजे बहुत जल्दी थी। हम कहाँ जा रहे हैं? तुमने मुझे कुछ नहीं बताया। बम का क्या? एक्क का क्या?"
+  },
+  {
+    "Id": "M11_CUT_02",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.",
+    "Hindi": "ANYA: एक्क ने एक पुराने केजीबी ठिकाने को ट्रेनिंग कैंप बनाया था, वह बम वहीं ले गई होगी। उसका कैंप एक किले के खंडहरों में स्थित है। वह किला आपकी मौजूदा स्थिति से लगभग 50 किमी दूर एक चट्टानी पहाड़ी पर बना है।"
+  },
+  {
+    "Id": "M11_CUT_03",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.",
+    "Hindi": "ANYA: वहाँ केवल केबल कार से ही पहुँचा जा सकता है। मैं आपको और हेलीकॉप्टर को पास जाने का जोखिम नहीं ले सकती, एक मिसाइल आपको आसानी से मार गिरा सकती है।"
+  },
+  {
+    "Id": "M11_CUT_04",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.",
+    "Hindi": "ANYA: केबल कार तक पहुँच पहाड़ की तलहटी में स्थित एक सेना प्रशिक्षण किले में है।"
+  },
+  {
+    "Id": "M11_CUT_05",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.",
+    "Hindi": "ANYA: हम आपको कुछ दूरी पर उतारेंगे। आपके लिए हथियारों का एक जखीरा तैयार किया गया है। हैरिसन के एक आदमी ने इसे आपके लिए रखा है।"
+  },
+  {
+    "Id": "M11_CUT_06",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.",
+    "Hindi": "ANYA: हथियार लें, प्रशिक्षण किले की ओर बढ़ें, और केबल कार से पहाड़ की चोटी पर जाएँ।"
+  },
+  {
+    "Id": "M11_CUT_07",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.",
+    "Hindi": "ANYA: डेविड, मुझे किले के नक्शे मिल गए हैं। मॉस्को में हमारे आदमी ने काम कर दिया। केबल कार की अपनी स्वतंत्र बिजली आपूर्ति है जो बंद है। जनरेटर का पता लगाएँ।"
+  },
+  {
+    "Id": "M12_CUT_01",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.",
+    "Hindi": "ANYA: यह किला 1300 के दशक से यहाँ है - एक्क पिछले एक साल से इसका इस्तेमाल कर रही है। यह मूल रूप से केजीबी के नियंत्रण में था लेकिन 1990 में सेना को सौंप दिया गया था।"
+  },
+  {
+    "Id": "M12_CUT_02",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.",
+    "Hindi": "ANYA: सेना के लिए इसका कोई उपयोग नहीं था इसलिए इसे छोड़ दिया गया। एक्क ने स्थानीय कमांडर को रिश्वत देकर इसे अपने कब्जे में ले लिया।"
+  },
+  {
+    "Id": "M12_CUT_03",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.",
+    "Hindi": "ANYA: उपग्रह तस्वीरों से खंडहरों के बीच नए निर्माण दिखाई देते हैं। हालाँकि मेरे पास कोई पक्का डेटा नहीं है।"
+  },
+  {
+    "Id": "M12_CUT_04",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.",
+    "Hindi": "ANYA: निगरानी में लगभग 30 सैनिक और कुछ प्रशिक्षण क्षेत्र दिखे हैं, कोई बहुत भारी हथियार नहीं हैं।"
+  },
+  {
+    "Id": "M12_CUT_05",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: There is at least one chopper, expect a gunship.",
+    "Hindi": "ANYA: कम से कम एक हेलीकॉप्टर है, एक गनशिप की उम्मीद रखें।"
+  },
+  {
+    "Id": "M12_CUT_06",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.",
+    "Hindi": "ANYA: संक्षेप में, बेस में घुसें। बम ढूँढें। एक्क को पकड़ें; यदि यह संभव न हो, तो उसे मारना चीफ्स ऑफ स्टाफ को स्वीकार्य होगा।"
+  },
+  {
+    "Id": "M12_CUT_07",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.",
+    "Hindi": "ANYA: फिर क्षेत्र को सुरक्षित करें और हम आपको और बम को बाहर ले आएँगे। डेविड, अपना ख्याल रखना।"
+  },
+  {
+    "Id": "M12_CUT_08",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.",
+    "Hindi": "ANYA: हम बहुत करीब पहुँच गए हैं; मैं नहीं चाहती कि कुछ गलत हो। कृपया कोई जल्दबाजी में गलती न करें।"
+  },
+  {
+    "Id": "M12_CUT_09",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: Anya what happens now to Priboi?",
+    "Hindi": "JONES: आन्या, अब प्रिबोई का क्या होगा?"
+  },
+  {
+    "Id": "M12_CUT_10",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's, he's, that's classified.",
+    "Hindi": "ANYA: वह... वह गोपनीय है।"
+  },
+  {
+    "Id": "M12_CUT_11",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Don't play around Anya, please don't.",
+    "Hindi": "JONES: क्या? मज़ाक मत करो आन्या, कृपया।"
+  },
+  {
+    "Id": "M12_CUT_12",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's on the payroll.",
+    "Hindi": "ANYA: वह अब हमारे वेतन पर है (हमारा मुखबिर बन गया है)।"
+  },
+  {
+    "Id": "M12_CUT_13",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Cheeky bastard!",
+    "Hindi": "JONES: क्या? चालाक कमीना!"
+  },
+  {
+    "Id": "M12_CUT_14",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.",
+    "Hindi": "ANYA: इतने नासमझ मत बनो जोन्स - वह एक व्यापारी है, वह जानकारी बेच रहा है और हम खरीद रहे हैं। इसके अलावा, अब हम जाच प्रिबोई पर पूरी नजर रखे हुए हैं।"
+  },
+  {
+    "Id": "M13_CUT_01",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.",
+    "Hindi": "ANYA: शीत युद्ध के दौरान यह एक बड़ा प्लूटोनियम रिफाइनिंग प्लांट था। अब इसका उपयोग हथियार अनुसंधान - मिसाइल-रोधी तकनीक के लिए किया जाता है - एक्क के साथ यही संबंध है!"
+  },
+  {
+    "Id": "M13_CUT_02",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: The plant still houses a functional nuclear reactor.",
+    "Hindi": "ANYA: इस संयंत्र में अभी भी एक चालू परमाणु रिएक्टर है।"
+  },
+  {
+    "Id": "M13_CUT_03",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.",
+    "Hindi": "ANYA: एक्क ने निश्चित रूप से इस ठिकाने पर नियंत्रण कर लिया है। हमने इन सैनिकों को घूमते देखा - उनकी वर्दी सही नहीं है। और यहाँ देखें - हाल ही में गोलीबारी हुई है।"
+  },
+  {
+    "Id": "M13_CUT_04",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.",
+    "Hindi": "ANYA: हम आपको बाउंड्री के पास उतारेंगे; आपको संचार पोस्ट के आसपास के आंतरिक परिसर को सुरक्षित करना होगा।"
+  },
+  {
+    "Id": "M13_CUT_05",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison, four of men and myself will then come in to land by chopper.",
+    "Hindi": "ANYA: फिर हैरिसन, चार सैनिक और मैं हेलीकॉप्टर से उतरेंगे।"
+  },
+  {
+    "Id": "M13_CUT_06",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'm heading out to meet you now.",
+    "Hindi": "ANYA: मैं अब आपसे मिलने आ रही हूँ।"
+  },
+  {
+    "Id": "M13_CUT_07",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done",
+    "Hindi": "ANYA: एक बार जब आप संचार पोस्ट सुरक्षित कर लेंगे, तो हम संयंत्र के नेटवर्क तक पहुँच सकते हैं - मुझे पता चल जाएगा कि उसने क्या तबाही मचाई है।"
+  },
+  {
+    "Id": "M13_CUT_08",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Area's clear.",
+    "Hindi": "JONES: इलाका साफ है।"
+  },
+  {
+    "Id": "M13_CUT_09",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We're going in.",
+    "Hindi": "ANYA: हम अंदर आ रहे हैं।"
+  },
+  {
+    "Id": "M13_CUT_10",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.",
+    "Hindi": "JONES: मैंने जमीन के ऊपर एक्क की अधिकांश सेना को खत्म कर दिया है, कुछ और चूहों की तरह छिपे हो सकते हैं। आन्या? हैरिसन? हमें भूमिगत होना होगा; हमें जानकारी चाहिए।"
+  },
+  {
+    "Id": "M13_CUT_12",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'll access the networks; you'll have that Intel shortly.",
+    "Hindi": "ANYA: मैं नेटवर्क तक पहुँच रही हूँ; आपको जल्द ही जानकारी मिल जाएगी।"
+  },
+  {
+    "Id": "M13_CUT_13",
+    "Mission": "Mission 13",
+    "Speaker": "CAPT. HARRISON",
+    "English": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.",
+    "Hindi": "CAPT. HARRISON: लियोनार्ड, तुम 5 आदमियों को लेकर पूरे इलाके की तलाशी लो। देखते ही गोली मार दो। नागोची, स्किनर, जोन्स के साथ जाओ और भूमिगत होने का रास्ता ढूँढो। वॉरेन और मैं यहाँ रहकर आन्या को कवर देंगे।"
+  },
+  {
+    "Id": "M13_CUT_14",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Let's do it. IGI!",
+    "Hindi": "JONES: चलो यह करते हैं। IGI!"
+  },
+  {
+    "Id": "M14_CUT_01",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.",
+    "Hindi": "ANYA: जोन्स! हमारी सर्वोच्च प्राथमिकता उस बम को ढूँढना है। जब वह मिल जाए, तो मेरे आने तक उस क्षेत्र को सुरक्षित रखें। बम को निष्क्रिय करने की जिम्मेदारी मेरी होगी।"
+  },
+  {
+    "Id": "M14_CUT_02",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: You will?",
+    "Hindi": "JONES: तुम करोगी?"
+  },
+  {
+    "Id": "M14_CUT_03",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.",
+    "Hindi": "ANYA: डेविड, आप फील्ड में माहिर हैं लेकिन इसके लिए केवल एक चाकू से ज्यादा की जरूरत होती है। एक लड़की ने इलेक्ट्रॉनिक्स और परमाणु भौतिकी में तीन साल यूँ ही पसीना नहीं बहाया है।"
+  },
+  {
+    "Id": "M14_CUT_04",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Heh! Fine!",
+    "Hindi": "JONES: हेह! ठीक है!"
+  },
+  {
+    "Id": "M14_CUT_05",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: If you see Ekk,",
+    "Hindi": "ANYA: अगर तुम्हें एक्क दिखे,"
+  },
+  {
+    "Id": "M14_CUT_06",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry; I just need one clean shot.",
+    "Hindi": "JONES: चिंता मत करो; मुझे बस एक सटीक निशाने की जरूरत है।"
+  },
+  {
+    "Id": "M14_CUT_07",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.",
+    "Hindi": "ANYA: मुझे सुरक्षा रिकॉर्ड मिल गए हैं। एक्क यहाँ ऐसे घुसी: उसने वीकेंड स्टाफ के बदलने का इंतजार किया, फिर उसके गार्ड्स सपोर्ट स्टाफ के भेष में अंदर आ गए।"
+  },
+  {
+    "Id": "M14_CUT_08",
+    "Mission": "Mission 14",
+    "Speaker": "NARRATOR",
+    "English": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.",
+    "Hindi": "उन्होंने सुरक्षा और वेंटिलेशन सिस्टम पर कब्जा कर लिया, विरोधियों को बंद कर दिया या जहरीली गैस से मार दिया। मैं एक्क की सुरक्षा पहुँच को रद्द कर रही हूँ, लेकिन इसमें समय लगेगा।"
+  },
+  {
+    "Id": "M14_CUT_09",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Um, Anya - anything else active?",
+    "Hindi": "JONES: उम्म, आन्या - क्या कुछ और भी सक्रिय है?"
+  },
+  {
+    "Id": "M14_CUT_10",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.",
+    "Hindi": "ANYA: हे भगवान! माफ़ करना डेविड, सुरक्षा ऑटोमैटिक गन वर्तमान में सक्रिय हैं - वे जल्द ही बंद हो जाएँगी। सावधान रहें, उसके आदमी कहीं भी हो सकते हैं।"
+  },
+  {
+    "Id": "M14_CUT_11",
+    "Mission": "Mission 14",
+    "Speaker": "Remember",
+    "English": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.",
+    "Hindi": "याद रखें: - बम ढूँढें; मेरे आने तक क्षेत्र को सुरक्षित रखें। अगर एक्क दिखे तो उसे मार गिराएँ।"
+  },
+  {
+    "Id": "OUTRO_1",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: Are you...you're.. OK??",
+    "Hindi": "JONES: क्या तुम... तुम ठीक हो??"
+  },
+  {
+    "Id": "OUTRO_2",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: ...yeah",
+    "Hindi": "ANYA: ...हाँ"
+  },
+  {
+    "Id": "OUTRO_3",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...",
+    "Hindi": "JONES: हमने जो किया उसके लिए हमारे पास कोई आधिकारिक मंजूरी नहीं है, है ना?? यह एक ब्लैक ऑप (गुप्त मिशन) था..."
+  },
+  {
+    "Id": "OUTRO_4",
+    "Mission": "Outro Cutscene",
+    "Speaker": "LOUDSPEAKER",
+    "English": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!",
+    "Hindi": "LOUDSPEAKER: यह त्वरित प्रतिक्रिया बल ड्राका टायग्रस है। तुरंत आत्मसमर्पण करें! सभी हथियारबंद लोगों को दुश्मन माना जाएगा और देखते ही गोली मार दी जाएगी!"
+  },
+  {
+    "Id": "OUTRO_5",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.",
+    "Hindi": "ANYA: धत तेरे की... FRV और हमारे बीच सैकड़ों सैनिक तैनात होंगे।"
+  },
+  {
+    "Id": "OUTRO_6",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: I'm going in!",
+    "Hindi": "JONES: मैं अंदर जा रहा हूँ!"
+  }
+]

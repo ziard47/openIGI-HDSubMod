@@ -1,0 +1,1058 @@
+﻿[
+  {
+    "Id": "INTRO_0a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "NARRATOR",
+    "Subtitle": "Somewhere in Russia.\u0000"
+  },
+  {
+    "Id": "INTRO_1a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Has he talked yet?\u0000"
+  },
+  {
+    "Id": "INTRO_1b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Has he started talking yet?\u0000"
+  },
+  {
+    "Id": "INTRO_1c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Is he still not talking?\u0000"
+  },
+  {
+    "Id": "INTRO_2a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "Subtitle": "RUSSIAN GUARD: No!\u0000"
+  },
+  {
+    "Id": "INTRO_2b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "Subtitle": "RUSSIAN GUARD: No, boss\u0000"
+  },
+  {
+    "Id": "INTRO_2c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "Subtitle": "RUSSIAN GUARD: No, he's a tough one\u0000"
+  },
+  {
+    "Id": "INTRO_3a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: I'll make him talk...\u0000"
+  },
+  {
+    "Id": "INTRO_3b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Well, let's see about that\u0000"
+  },
+  {
+    "Id": "INTRO_3c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: I think I have to pay him a little visit\u0000"
+  },
+  {
+    "Id": "INTRO_3d",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Hmmm...Now let's do it my way\u0000"
+  },
+  {
+    "Id": "INTRO_3e",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Cover your ears - things are about to change\u0000"
+  },
+  {
+    "Id": "M1_CUT_01",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.\u0000"
+  },
+  {
+    "Id": "M1_CUT_02",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Yeah, yeah. I need to know one thing, where he is.\u0000"
+  },
+  {
+    "Id": "M1_CUT_03",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.\u0000"
+  },
+  {
+    "Id": "M1_CUT_04",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: What? Is transport waiting?\u0000"
+  },
+  {
+    "Id": "M1_CUT_05",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: You'll cover the ground using locally resourced transportation assets.\u0000"
+  },
+  {
+    "Id": "M1_CUT_06",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: You mean I have to steal something?\u0000"
+  },
+  {
+    "Id": "M1_CUT_07",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:\u0000"
+  },
+  {
+    "Id": "M1_CUT_08",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...\u0000"
+  },
+  {
+    "Id": "M1_CUT_09",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: ...even a grunt like me can follow it - I see\u0000"
+  },
+  {
+    "Id": "M1_CUT_10",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: That's the best we have.\u0000"
+  },
+  {
+    "Id": "M1_CUT_11",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Anya, just how did you track Josef down?\u0000"
+  },
+  {
+    "Id": "M1_CUT_12",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.\u0000"
+  },
+  {
+    "Id": "M1_CUT_13",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.\u0000"
+  },
+  {
+    "Id": "M1_CUT_14",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Cunning - assuming he's there.\u0000"
+  },
+  {
+    "Id": "M1_CUT_15",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.\u0000"
+  },
+  {
+    "Id": "M1_CUT_16",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!\u0000"
+  },
+  {
+    "Id": "M2_CUT_01",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: The next objective is to disable the local air defences.\u0000"
+  },
+  {
+    "Id": "M2_CUT_02",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Why not use the truck to evacuate Josef from the airfield?\u0000"
+  },
+  {
+    "Id": "M2_CUT_03",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.\u0000"
+  },
+  {
+    "Id": "M2_CUT_04",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.\u0000"
+  },
+  {
+    "Id": "M2_CUT_05",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: What about me?\u0000"
+  },
+  {
+    "Id": "M2_CUT_06",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.\u0000"
+  },
+  {
+    "Id": "M2_CUT_07",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.\u0000"
+  },
+  {
+    "Id": "M2_CUT_08",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.\u0000"
+  },
+  {
+    "Id": "M3_CUT_01",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?\u0000"
+  },
+  {
+    "Id": "M3_CUT_02",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.\u0000"
+  },
+  {
+    "Id": "M3_CUT_03",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Just in time to clear up!\u0000"
+  },
+  {
+    "Id": "M3_CUT_04",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.\u0000"
+  },
+  {
+    "Id": "M3_CUT_05",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Your objectives are threefold;\u0000"
+  },
+  {
+    "Id": "M3_CUT_06",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 1) Infiltrate the installation without overly raising suspicion;\u0000"
+  },
+  {
+    "Id": "M3_CUT_07",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;\u0000"
+  },
+  {
+    "Id": "M3_CUT_08",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.\u0000"
+  },
+  {
+    "Id": "M4_CUT_01",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.\u0000"
+  },
+  {
+    "Id": "M4_CUT_02",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: The back-up is here now. Who's leading them? What's their role?\u0000"
+  },
+  {
+    "Id": "M4_CUT_03",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.\u0000"
+  },
+  {
+    "Id": "M4_CUT_04",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: They lack as expert sniper. You are to provide cover as they go in.\u0000"
+  },
+  {
+    "Id": "M4_CUT_05",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: All right! I get to play god then?\u0000"
+  },
+  {
+    "Id": "M4_CUT_06",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.\u0000"
+  },
+  {
+    "Id": "M4_CUT_07",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Awesome.\u0000"
+  },
+  {
+    "Id": "M4_CUT_08",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones, your objectives are as follows;\u0000"
+  },
+  {
+    "Id": "M4_CUT_09",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.\u0000"
+  },
+  {
+    "Id": "M4_CUT_10",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 2) Provide cover for Harrison's men as they assault.\u0000"
+  },
+  {
+    "Id": "M4_CUT_11",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.\u0000"
+  },
+  {
+    "Id": "M4_CUT_12",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.\u0000"
+  },
+  {
+    "Id": "M5_CUT_01",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: How did Priboi's debrief go, Anya?\u0000"
+  },
+  {
+    "Id": "M5_CUT_02",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.\u0000"
+  },
+  {
+    "Id": "M5_CUT_03",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.\u0000"
+  },
+  {
+    "Id": "M5_CUT_04",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.\u0000"
+  },
+  {
+    "Id": "M5_CUT_05",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Yes! Another success for David Jones! IGI!\u0000"
+  },
+  {
+    "Id": "M5_CUT_06",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.\u0000"
+  },
+  {
+    "Id": "M5_CUT_07",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.\u0000"
+  },
+  {
+    "Id": "M5_CUT_08",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.\u0000"
+  },
+  {
+    "Id": "M5_CUT_09",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.\u0000"
+  },
+  {
+    "Id": "M5_CUT_10",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.\u0000"
+  },
+  {
+    "Id": "M5_CUT_11",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.\u0000"
+  },
+  {
+    "Id": "M6_CUT_01",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: You believe Priboi to be here?\u0000"
+  },
+  {
+    "Id": "M6_CUT_02",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.\u0000"
+  },
+  {
+    "Id": "M6_CUT_03",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: This is one of his more remote storage yards. \u0000"
+  },
+  {
+    "Id": "M6_CUT_04",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Get this - he's currently holding a goddamn arms sale.\u0000"
+  },
+  {
+    "Id": "M6_CUT_05",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.\u0000"
+  },
+  {
+    "Id": "M6_CUT_06",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: And what happened?\u0000"
+  },
+  {
+    "Id": "M6_CUT_07",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: I mainly got led astray.\u0000"
+  },
+  {
+    "Id": "M6_CUT_08",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.\u0000"
+  },
+  {
+    "Id": "M6_CUT_09",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.\u0000"
+  },
+  {
+    "Id": "M6_CUT_10",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Harrison and his men are setting up on the exit road. \u0000"
+  },
+  {
+    "Id": "M6_CUT_11",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.\u0000"
+  },
+  {
+    "Id": "M6_CUT_12",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.\u0000"
+  },
+  {
+    "Id": "M6_CUT_13",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives\u0000"
+  },
+  {
+    "Id": "M6_CUT_14",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.\u0000"
+  },
+  {
+    "Id": "M7_CUT_01",
+    "Mission": "Mission 7",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up? \u0000"
+  },
+  {
+    "Id": "M7_CUT_02",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.\u0000"
+  },
+  {
+    "Id": "M7_CUT_03",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.\u0000"
+  },
+  {
+    "Id": "M7_CUT_04",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: You have thirty seconds to comply, Jones\u0000"
+  },
+  {
+    "Id": "M7_CUT_05",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: That's her!\u0000"
+  },
+  {
+    "Id": "M7_CUT_06",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Who?\u0000"
+  },
+  {
+    "Id": "M7_CUT_07",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Just do what she says, she loco, crazy.\u0000"
+  },
+  {
+    "Id": "M7_CUT_08",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: Lock missiles. Fire when ready.\u0000"
+  },
+  {
+    "Id": "M7_CUT_09",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "Subtitle": "RUSSIAN PILOT: Command acknowledged.\u0000"
+  },
+  {
+    "Id": "M7_CUT_10",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "Subtitle": "RUSSIAN PILOT: Missiles away.\u0000"
+  },
+  {
+    "Id": "M7_CUT_11",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Too late!\u0000"
+  },
+  {
+    "Id": "M7_CUT_12",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!\u0000"
+  },
+  {
+    "Id": "M7_CUT_13",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.\u0000"
+  },
+  {
+    "Id": "M7_CUT_14",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN SOLDIER",
+    "Subtitle": "RUSSIAN SOLDIER: And the English soldier?\u0000"
+  },
+  {
+    "Id": "M7_CUT_15",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: Kill him!, his road finishes here\u0000"
+  },
+  {
+    "Id": "M8_CUT_01",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: David - are you okay?\u0000"
+  },
+  {
+    "Id": "M8_CUT_02",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Yeah. It's bloody cold Anya!\u0000"
+  },
+  {
+    "Id": "M8_CUT_03",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.\u0000"
+  },
+  {
+    "Id": "M8_CUT_04",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...\u0000"
+  },
+  {
+    "Id": "M8_CUT_05",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.\u0000"
+  },
+  {
+    "Id": "M8_CUT_06",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.\u0000"
+  },
+  {
+    "Id": "M8_CUT_07",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.\u0000"
+  },
+  {
+    "Id": "M9_CUT_01",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?\u0000"
+  },
+  {
+    "Id": "M9_CUT_02",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Hmm, my money is on the voice that got me shot down.\u0000"
+  },
+  {
+    "Id": "M9_CUT_03",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?\u0000"
+  },
+  {
+    "Id": "M9_CUT_04",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?\u0000"
+  },
+  {
+    "Id": "M9_CUT_05",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Exactly! Our mystery caller isn't so powerful.\u0000"
+  },
+  {
+    "Id": "M9_CUT_06",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.\u0000"
+  },
+  {
+    "Id": "M9_CUT_07",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?\u0000"
+  },
+  {
+    "Id": "M9_CUT_08",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.\u0000"
+  },
+  {
+    "Id": "M9_CUT_09",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.\u0000"
+  },
+  {
+    "Id": "M9_CUT_10",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.\u0000"
+  },
+  {
+    "Id": "M9_CUT_11",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.\u0000"
+  },
+  {
+    "Id": "M9_CUT_12",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck\u0000"
+  },
+  {
+    "Id": "M10_CUT_01",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.\u0000"
+  },
+  {
+    "Id": "M10_CUT_02",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: At last!\u0000"
+  },
+  {
+    "Id": "M10_CUT_03",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional\u0000"
+  },
+  {
+    "Id": "M10_CUT_04",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones - there's two planes approaching\u0000"
+  },
+  {
+    "Id": "M10_CUT_05",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "Subtitle": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train\u0000"
+  },
+  {
+    "Id": "M10_CUT_06",
+    "Mission": "Mission 10",
+    "Speaker": "EKK",
+    "Subtitle": "EKK: Stop that train. Fire, fire!\u0000"
+  },
+  {
+    "Id": "M10_CUT_07",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "Subtitle": "RUSSIAN PILOT: Missiles away!\u0000"
+  },
+  {
+    "Id": "M10_CUT_08",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones - hold on tight.\u0000"
+  },
+  {
+    "Id": "M10_CUT_09",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Arghhhhh!\u0000"
+  },
+  {
+    "Id": "M10_CUT_10",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "Subtitle": "PRIBOI: Arghhhhh!\u0000"
+  },
+  {
+    "Id": "M11_CUT_01",
+    "Mission": "Mission 11",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?\u0000"
+  },
+  {
+    "Id": "M11_CUT_02",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.\u0000"
+  },
+  {
+    "Id": "M11_CUT_03",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.\u0000"
+  },
+  {
+    "Id": "M11_CUT_04",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.\u0000"
+  },
+  {
+    "Id": "M11_CUT_05",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.\u0000"
+  },
+  {
+    "Id": "M11_CUT_06",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.\u0000"
+  },
+  {
+    "Id": "M11_CUT_07",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.\u0000"
+  },
+  {
+    "Id": "M12_CUT_01",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.\u0000"
+  },
+  {
+    "Id": "M12_CUT_02",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.\u0000"
+  },
+  {
+    "Id": "M12_CUT_03",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.\u0000"
+  },
+  {
+    "Id": "M12_CUT_04",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.\u0000"
+  },
+  {
+    "Id": "M12_CUT_05",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: There is at least one chopper, expect a gunship.\u0000"
+  },
+  {
+    "Id": "M12_CUT_06",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.\u0000"
+  },
+  {
+    "Id": "M12_CUT_07",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.\u0000"
+  },
+  {
+    "Id": "M12_CUT_08",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.\u0000"
+  },
+  {
+    "Id": "M12_CUT_09",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Anya what happens now to Priboi?\u0000"
+  },
+  {
+    "Id": "M12_CUT_10",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: He's, he's, that's classified.\u0000"
+  },
+  {
+    "Id": "M12_CUT_11",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: What? Don't play around Anya, please don't.\u0000"
+  },
+  {
+    "Id": "M12_CUT_12",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: He's on the payroll.\u0000"
+  },
+  {
+    "Id": "M12_CUT_13",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: What? Cheeky bastard!\u0000"
+  },
+  {
+    "Id": "M12_CUT_14",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.\u0000"
+  },
+  {
+    "Id": "M13_CUT_01",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.\u0000"
+  },
+  {
+    "Id": "M13_CUT_02",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: The plant still houses a functional nuclear reactor.\u0000"
+  },
+  {
+    "Id": "M13_CUT_03",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.\u0000"
+  },
+  {
+    "Id": "M13_CUT_04",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.\u0000"
+  },
+  {
+    "Id": "M13_CUT_05",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Harrison, four of men and myself will then come in to land by chopper.\u0000"
+  },
+  {
+    "Id": "M13_CUT_06",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I'm heading out to meet you now.\u0000"
+  },
+  {
+    "Id": "M13_CUT_07",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done\u0000"
+  },
+  {
+    "Id": "M13_CUT_08",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Area's clear.\u0000"
+  },
+  {
+    "Id": "M13_CUT_09",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: We're going in.\u0000"
+  },
+  {
+    "Id": "M13_CUT_10",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.\u0000"
+  },
+  {
+    "Id": "M13_CUT_12",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I'll access the networks; you'll have that Intel shortly.\u0000"
+  },
+  {
+    "Id": "M13_CUT_13",
+    "Mission": "Mission 13",
+    "Speaker": "CAPT. HARRISON",
+    "Subtitle": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.\u0000"
+  },
+  {
+    "Id": "M13_CUT_14",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Let's do it. IGI!\u0000"
+  },
+  {
+    "Id": "M14_CUT_01",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.\u0000"
+  },
+  {
+    "Id": "M14_CUT_02",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: You will?\u0000"
+  },
+  {
+    "Id": "M14_CUT_03",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.\u0000"
+  },
+  {
+    "Id": "M14_CUT_04",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Heh! Fine!\u0000"
+  },
+  {
+    "Id": "M14_CUT_05",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: If you see Ekk,\u0000"
+  },
+  {
+    "Id": "M14_CUT_06",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Don't worry; I just need one clean shot.\u0000"
+  },
+  {
+    "Id": "M14_CUT_07",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.\u0000"
+  },
+  {
+    "Id": "M14_CUT_08",
+    "Mission": "Mission 14",
+    "Speaker": "NARRATOR",
+    "Subtitle": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.\u0000"
+  },
+  {
+    "Id": "M14_CUT_09",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Um, Anya - anything else active?\u0000"
+  },
+  {
+    "Id": "M14_CUT_10",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.\u0000"
+  },
+  {
+    "Id": "M14_CUT_11",
+    "Mission": "Mission 14",
+    "Speaker": "Remember",
+    "Subtitle": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.\u0000"
+  },
+  {
+    "Id": "OUTRO_1",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: Are you...you're.. OK??\u0000"
+  },
+  {
+    "Id": "OUTRO_2",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: ...yeah\u0000"
+  },
+  {
+    "Id": "OUTRO_3",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...\u0000"
+  },
+  {
+    "Id": "OUTRO_4",
+    "Mission": "Outro Cutscene",
+    "Speaker": "LOUDSPEAKER",
+    "Subtitle": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!\u0000"
+  },
+  {
+    "Id": "OUTRO_5",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "Subtitle": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.\u0000"
+  },
+  {
+    "Id": "OUTRO_6",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "Subtitle": "JONES: I'm going in!\u0000"
+  }
+]

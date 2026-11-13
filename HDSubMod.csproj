@@ -1,4 +1,4 @@
-<Project Sdk="OpenIGI.Modding.Sdk/0.6.7">
+﻿<Project Sdk="OpenIGI.Modding.Sdk/0.6.7">
 
   <!--
     The mod. Its manifest (mod.json) is written from these properties, and every build makes bin/<config>/net10.0/mod/, the
@@ -10,10 +10,10 @@
   <PropertyGroup>
     <!-- Unique among every published mod: lowercase letters, digits and dashes. -->
     <ModId>hd-submod</ModId>
-    <ModName>HDSubMod</ModName>
+    <ModName>HDSubMod by Voltrex Digital</ModName>
     <Version>0.1.0</Version>
-    <ModSummary>High-Definition Subtitle &amp; Radio Dialogue Overlay for Project I.G.I.</ModSummary>
-    <Authors>Your name</Authors>
+    <ModSummary>High-Definition Subtitle &amp; Multi Language Subtitles Overlay for Project I.G.I.</ModSummary>
+    <Authors>Voltrex Digital</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <!-- The games it is for: igi1, igi2, or both (igi1;igi2); empty for every game. -->
     <ModTitles>igi1</ModTitles>
@@ -24,12 +24,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <!-- Mods it needs played with it, each with the oldest version that will do. -->
-    <!-- <ModDependency Include="other-mod" Version=">=1.0" /> -->
-
-    <!-- Campaigns it adds beside the game's own: a name, and the ids its missions define, in the order they are played.
-         The missions themselves are folders under data/missions/, each with its mission.qvm, as the game's are. -->
-    <!-- <ModCampaign Include="Operation Nightfall" Missions="901;902;903" /> -->
+    <None Include="translations\**" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="fonts\**" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
 </Project>

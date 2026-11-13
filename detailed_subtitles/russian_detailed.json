@@ -1,0 +1,1234 @@
+[
+  {
+    "Id": "INTRO_0a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "NARRATOR",
+    "English": "Somewhere in Russia.",
+    "Russian": "Где-то в России."
+  },
+  {
+    "Id": "INTRO_1a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he talked yet?",
+    "Russian": "PRIBOI: Он уже заговорил?"
+  },
+  {
+    "Id": "INTRO_1b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he started talking yet?",
+    "Russian": "PRIBOI: Он начал говорить?"
+  },
+  {
+    "Id": "INTRO_1c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Is he still not talking?",
+    "Russian": "PRIBOI: Он всё ещё молчит?"
+  },
+  {
+    "Id": "INTRO_2a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No!",
+    "Russian": "RUSSIAN GUARD: Нет!"
+  },
+  {
+    "Id": "INTRO_2b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, boss",
+    "Russian": "RUSSIAN GUARD: Нет, босс."
+  },
+  {
+    "Id": "INTRO_2c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, he's a tough one",
+    "Russian": "RUSSIAN GUARD: Нет, он крепкий орешек."
+  },
+  {
+    "Id": "INTRO_3a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I'll make him talk...",
+    "Russian": "PRIBOI: Я заставлю его говорить..."
+  },
+  {
+    "Id": "INTRO_3b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Well, let's see about that",
+    "Russian": "PRIBOI: Ну, мы это ещё посмотрим."
+  },
+  {
+    "Id": "INTRO_3c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I think I have to pay him a little visit",
+    "Russian": "PRIBOI: Думаю, мне стоит нанести ему визит."
+  },
+  {
+    "Id": "INTRO_3d",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Hmmm...Now let's do it my way",
+    "Russian": "PRIBOI: Хммм... А теперь сделаем это по-моему."
+  },
+  {
+    "Id": "INTRO_3e",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Cover your ears - things are about to change",
+    "Russian": "PRIBOI: Закройте уши — сейчас всё изменится."
+  },
+  {
+    "Id": "M1_CUT_01",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.",
+    "Russian": "ANYA: Отличная работа, что добрался так быстро. Это задание высшего приоритета. Цель: Йозеф Прибой. Ты должен найти его и доставить для допроса. Йозеф — наша единственная зацепка в деле о краже боеголовки."
+  },
+  {
+    "Id": "M1_CUT_02",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah, yeah. I need to know one thing, where he is.",
+    "Russian": "JONES: Да, да. Мне нужно знать только одно: где он?"
+  },
+  {
+    "Id": "M1_CUT_03",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.",
+    "Russian": "ANYA: Йозефа держат на военном аэродроме. Весь район прикрыт мощной системой ПВО. Нам придется высадить тебя на некотором расстоянии от цели, пока эта оборона не будет отключена."
+  },
+  {
+    "Id": "M1_CUT_04",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: What? Is transport waiting?",
+    "Russian": "JONES: Что? Транспорт ждет?"
+  },
+  {
+    "Id": "M1_CUT_05",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll cover the ground using locally resourced transportation assets.",
+    "Russian": "ANYA: Тебе придется преодолеть это расстояние на транспорте, добытом на месте."
+  },
+  {
+    "Id": "M1_CUT_06",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: You mean I have to steal something?",
+    "Russian": "JONES: То есть мне придется что-то угнать?"
+  },
+  {
+    "Id": "M1_CUT_07",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:",
+    "Russian": "ANYA: Именно. Ты доберешься до ближайшей товарной станции — там найдешь транспорт. Вся операция проста — три этапа:"
+  },
+  {
+    "Id": "M1_CUT_08",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...",
+    "Russian": "ANYA: Первый — захватить транспорт. Второй — отключить ПВО. Третий — найти Йозефа Прибоя и безопасно эвакуировать для допроса. Даже..."
+  },
+  {
+    "Id": "M1_CUT_09",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: ...even a grunt like me can follow it - I see",
+    "Russian": "JONES: ...даже такой солдафон, как я, сможет это понять — ясно."
+  },
+  {
+    "Id": "M1_CUT_10",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: That's the best we have.",
+    "Russian": "ANYA: Это лучшее, что у нас есть."
+  },
+  {
+    "Id": "M1_CUT_11",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, just how did you track Josef down?",
+    "Russian": "JONES: Аня, и как же вы выследили Йозефа?"
+  },
+  {
+    "Id": "M1_CUT_12",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.",
+    "Russian": "ANYA: Мы отследили звонок Йозефа в его квартиру. Местные агенты провели обыск и нашли фотографии Йозефа и номер его мобильного."
+  },
+  {
+    "Id": "M1_CUT_13",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.",
+    "Russian": "ANYA: Мы набрали его и запеленговали координаты. Телефон находится на военном аэродроме — там и сидит Йозеф — это наша главная цель."
+  },
+  {
+    "Id": "M1_CUT_14",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Cunning - assuming he's there.",
+    "Russian": "JONES: Хитро — при условии, что он действительно там."
+  },
+  {
+    "Id": "M1_CUT_15",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.",
+    "Russian": "ANYA: Проберись через товарную станцию к грузовику. Избегай камер любой ценой — если поднимешь тревогу, вся база обрушится на тебя."
+  },
+  {
+    "Id": "M1_CUT_16",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!",
+    "Russian": "ANYA: Доберись до грузовика. Это твоя цель в этом задании. Найди и угони его. Я хочу, чтобы эта операция прошла быстро и главное — тихо. За работу, Джонс!"
+  },
+  {
+    "Id": "M2_CUT_01",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: The next objective is to disable the local air defences.",
+    "Russian": "ANYA: Следующая цель — нейтрализовать местную систему ПВО."
+  },
+  {
+    "Id": "M2_CUT_02",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: Why not use the truck to evacuate Josef from the airfield?",
+    "Russian": "JONES: Почему бы просто не вывезти Йозефа с аэродрома на грузовике?"
+  },
+  {
+    "Id": "M2_CUT_03",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.",
+    "Russian": "ANYA: Слишком медленно, очень медленно. Это огромный риск. Йозеф — наша единственная зацепка в деле о краже."
+  },
+  {
+    "Id": "M2_CUT_04",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.",
+    "Russian": "ANYA: Он знал не только как украли боеголовку, но и где, и кем — чёрт, он даже назвал её проклятый серийный номер! Он нужен нам живым и невредимым."
+  },
+  {
+    "Id": "M2_CUT_05",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: What about me?",
+    "Russian": "JONES: А как же я?"
+  },
+  {
+    "Id": "M2_CUT_06",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.",
+    "Russian": "ANYA: Вот твоя задача. Немедленно проникни на позицию ЗРК. Найди взрывчатку и установи её на каждую пусковую установку."
+  },
+  {
+    "Id": "M2_CUT_07",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.",
+    "Russian": "ANYA: Отходи к точке эвакуации и только потом активируй детонаторы."
+  },
+  {
+    "Id": "M2_CUT_08",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.",
+    "Russian": "ANYA: Как только окажешься на точке сбора, вертолёт подберёт тебя и доставит прямо на военную авиабазу."
+  },
+  {
+    "Id": "M3_CUT_01",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?",
+    "Russian": "JONES: Ещё одна успешная операция в моём послужном списке. Ладно, Аня, скажи, где Йозеф, и я вытащу его. Что с группой поддержки?"
+  },
+  {
+    "Id": "M3_CUT_02",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.",
+    "Russian": "ANYA: Неужели тебе действительно нужна помощь? Твоё подкрепление только что приземлилось в столице и уже в пути. Они прибудут примерно через три часа."
+  },
+  {
+    "Id": "M3_CUT_03",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: Just in time to clear up!",
+    "Russian": "JONES: Как раз успеют к уборке мусора!"
+  },
+  {
+    "Id": "M3_CUT_04",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.",
+    "Russian": "ANYA: Мы расчистили воздушный коридор для эвакуации Йозефа. Теперь задача — найти Йозефа Прибоя и вытащить его для допроса."
+  },
+  {
+    "Id": "M3_CUT_05",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Your objectives are threefold;",
+    "Russian": "ANYA: Твои задачи делятся на три этапа;"
+  },
+  {
+    "Id": "M3_CUT_06",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Infiltrate the installation without overly raising suspicion;",
+    "Russian": "ANYA: 1) Проникнуть на территорию базы, не вызывая лишних подозрений;"
+  },
+  {
+    "Id": "M3_CUT_07",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;",
+    "Russian": "ANYA: 2) Найти и освободить Йозефа Прибоя. Наши агенты вели наблюдение последние 20 часов и сняли эти кадры. По моим данным, Йозеф в этом здании, скорее всего в подвале;"
+  },
+  {
+    "Id": "M3_CUT_08",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.",
+    "Russian": "ANYA: 3) Взяв Йозефа под стражу, сопровождай его на точку эвакуации к вертолёту."
+  },
+  {
+    "Id": "M4_CUT_01",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.",
+    "Russian": "ANYA: Джонс, ты указал на эту тюрьму как на место назначения Йозефа. Человек, подходящий под описание Йозефа, прибыл сюда вчера."
+  },
+  {
+    "Id": "M4_CUT_02",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: The back-up is here now. Who's leading them? What's their role?",
+    "Russian": "JONES: Подкрепление прибыло. Кто ими командует? Какова их роль?"
+  },
+  {
+    "Id": "M4_CUT_03",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.",
+    "Russian": "ANYA: Командует капитан Харрисон — бывший «зелёный берет». Он поведёт штурмовую группу; его бойцы зайдут внутрь и выведут Йозефа."
+  },
+  {
+    "Id": "M4_CUT_04",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: They lack as expert sniper. You are to provide cover as they go in.",
+    "Russian": "ANYA: Им не хватает опытного снайпера. Ты прикроешь их при штурме."
+  },
+  {
+    "Id": "M4_CUT_05",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: All right! I get to play god then?",
+    "Russian": "JONES: Отлично! Значит, сегодня я побуду Богом?"
+  },
+  {
+    "Id": "M4_CUT_06",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.",
+    "Russian": "ANYA: Полагаю, это будет твой позывной (GOD). У Харрисона позывной — «Моисей» (Moses)."
+  },
+  {
+    "Id": "M4_CUT_07",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: Awesome.",
+    "Russian": "JONES: Потрясающе."
+  },
+  {
+    "Id": "M4_CUT_08",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, your objectives are as follows;",
+    "Russian": "ANYA: Джонс, твои задачи следующие;"
+  },
+  {
+    "Id": "M4_CUT_09",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.",
+    "Russian": "ANYA: 1) Занять руины на холме над тюрьмой. Оттуда открывается отличный сектор обстрела."
+  },
+  {
+    "Id": "M4_CUT_10",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Provide cover for Harrison's men as they assault.",
+    "Russian": "ANYA: 2) Прикрывать огнём людей Харрисона во время штурма."
+  },
+  {
+    "Id": "M4_CUT_11",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.",
+    "Russian": "ANYA: 3) Когда наши заберут Йозефа, обеспечь прикрытие при отходе."
+  },
+  {
+    "Id": "M4_CUT_12",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.",
+    "Russian": "ANYA: 4) Когда Йозеф будет в безопасности, Харрисон подаст сигнал отходить на точку эвакуации."
+  },
+  {
+    "Id": "M5_CUT_01",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: How did Priboi's debrief go, Anya?",
+    "Russian": "JONES: Как прошёл допрос Прибоя, Аня?"
+  },
+  {
+    "Id": "M5_CUT_02",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.",
+    "Russian": "ANYA: Очень легко! Йозеф уже был жестоко избит — в основном своим дядей Яхом."
+  },
+  {
+    "Id": "M5_CUT_03",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.",
+    "Russian": "ANYA: Не знаю почему, но Ях Прибой смертельно напуган. Вот что мы выяснили: бизнесом однозначно заправляет Ях."
+  },
+  {
+    "Id": "M5_CUT_04",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.",
+    "Russian": "ANYA: Он организовал похищение боеголовки. Когда Йозефа схватили, боеголовка всё ещё была у Яха; её никому не передавали."
+  },
+  {
+    "Id": "M5_CUT_05",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: Yes! Another success for David Jones! IGI!",
+    "Russian": "JONES: Да! Очередной триумф Дэвида Джонса! IGI!"
+  },
+  {
+    "Id": "M5_CUT_06",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.",
+    "Russian": "ANYA: Да, всё сам, молодец. А теперь попробуй решить это: у Яха более 50 объектов и складов. Боеголовка может быть на любом из них."
+  },
+  {
+    "Id": "M5_CUT_07",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.",
+    "Russian": "ANYA: Однако Ях использует несколько закрытых военных каналов связи. Йозеф выдал коды, и я вычислила ключевой узел."
+  },
+  {
+    "Id": "M5_CUT_08",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.",
+    "Russian": "ANYA: Если я проникну в сеть, я получу доступ к его переговорам — буду знать каждое слово. Включая местонахождение боеголовки."
+  },
+  {
+    "Id": "M5_CUT_09",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.",
+    "Russian": "ANYA: Проникни на узел связи. Доберись до купола — там главный вычислительный центр, через который идёт весь трафик."
+  },
+  {
+    "Id": "M5_CUT_10",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.",
+    "Russian": "ANYA: Загрузишь вирус, остальное сделаю я. Ах да, постарайся потом унести ноги."
+  },
+  {
+    "Id": "M5_CUT_11",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.",
+    "Russian": "ANYA: Погода пока держится, облачно, завтра возможен снег. Пожалуйста, постарайся не провалить это дело, Джонс."
+  },
+  {
+    "Id": "M6_CUT_01",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You believe Priboi to be here?",
+    "Russian": "JONES: Ты уверена, что Прибой здесь?"
+  },
+  {
+    "Id": "M6_CUT_02",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.",
+    "Russian": "ANYA: Джонс, я знаю. Твой вирус? Работает просто безупречно."
+  },
+  {
+    "Id": "M6_CUT_03",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: This is one of his more remote storage yards.",
+    "Russian": "ANYA: Это одна из его самых глухих перевалочных баз."
+  },
+  {
+    "Id": "M6_CUT_04",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get this - he's currently holding a goddamn arms sale.",
+    "Russian": "ANYA: Ты только вдумайся — он прямо сейчас проводит чертову распродажу оружия."
+  },
+  {
+    "Id": "M6_CUT_05",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.",
+    "Russian": "JONES: Ты втягиваешь меня в дурную компанию — мама предупреждала меня о таких дамочках, как ты: до добра не доведёте."
+  },
+  {
+    "Id": "M6_CUT_06",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: And what happened?",
+    "Russian": "ANYA: И что в итоге?"
+  },
+  {
+    "Id": "M6_CUT_07",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: I mainly got led astray.",
+    "Russian": "JONES: В основном я всегда сбивался с пути."
+  },
+  {
+    "Id": "M6_CUT_08",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.",
+    "Russian": "ANYA: Как обычно. Слушай сюда: Прибой ведёт дела прямо из бронированного лимузина у главных ворот."
+  },
+  {
+    "Id": "M6_CUT_09",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.",
+    "Russian": "ANYA: Если что-то пойдёт не так, план Прибоя прост: рвануть по трассе, бросив своих людей отбиваться. Мы используем это."
+  },
+  {
+    "Id": "M6_CUT_10",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison and his men are setting up on the exit road.",
+    "Russian": "ANYA: Харрисон со своими бойцами перекрывает дорогу на выезде."
+  },
+  {
+    "Id": "M6_CUT_11",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.",
+    "Russian": "ANYA: Твоя задача — проникнуть на базу и устроить адский грохот. Прибой помчится во весь опор, Харрисон перехватит лимузин и задержит его. Рядом вертолёт."
+  },
+  {
+    "Id": "M6_CUT_12",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.",
+    "Russian": "ANYA: Параметры задания: войти на базу — внезапность критически важна."
+  },
+  {
+    "Id": "M6_CUT_13",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives",
+    "Russian": "ANYA: Возьми взрывчатку со склада — она нужна для отвлекающего манёвра. Затем заложи её на топливном складе и подорви."
+  },
+  {
+    "Id": "M6_CUT_14",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.",
+    "Russian": "ANYA: Прибой рванёт, как ошпаренный заяц. Харрисон его прищучит."
+  },
+  {
+    "Id": "M7_CUT_01",
+    "Mission": "Mission 7",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up?",
+    "Russian": "ANYA: Скоро вернешься, Джонс. Не сбавляй темп, я готовлю допросные. Как там Прибой?"
+  },
+  {
+    "Id": "M7_CUT_02",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.",
+    "Russian": "JONES: Не переживай — он в порядке <Прибой недовольно кряхтит>, запоёт как миленький."
+  },
+  {
+    "Id": "M7_CUT_03",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.",
+    "Russian": "EKK: Говорит служба управления воздушным движением России. Вы вошли в суверенное воздушное пространство. Немедленно ложитесь на курс 0 9 9, повторяю 0 9 9."
+  },
+  {
+    "Id": "M7_CUT_04",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: You have thirty seconds to comply, Jones",
+    "Russian": "EKK: У вас тридцать секунд на выполнение, Джонс."
+  },
+  {
+    "Id": "M7_CUT_05",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: That's her!",
+    "Russian": "PRIBOI: Это она!"
+  },
+  {
+    "Id": "M7_CUT_06",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Who?",
+    "Russian": "JONES: Кто?"
+  },
+  {
+    "Id": "M7_CUT_07",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Just do what she says, she loco, crazy.",
+    "Russian": "PRIBOI: Делай, что она говорит! Она чокнутая, бешеная!"
+  },
+  {
+    "Id": "M7_CUT_08",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Lock missiles. Fire when ready.",
+    "Russian": "EKK: Захватить цель. Огонь по готовности."
+  },
+  {
+    "Id": "M7_CUT_09",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Command acknowledged.",
+    "Russian": "RUSSIAN PILOT: Приказ принял."
+  },
+  {
+    "Id": "M7_CUT_10",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away.",
+    "Russian": "RUSSIAN PILOT: Ракеты пошли."
+  },
+  {
+    "Id": "M7_CUT_11",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Too late!",
+    "Russian": "PRIBOI: Слишком поздно!"
+  },
+  {
+    "Id": "M7_CUT_12",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!",
+    "Russian": "JONES: Аня, мы подбиты! Мэйдей, мэйдей, падаем, мы сейчас разобьёмся!"
+  },
+  {
+    "Id": "M7_CUT_13",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.",
+    "Russian": "EKK: Найти Прибоя. Если жив — ко мне. Если мёртв — сжечь тело на месте крушения."
+  },
+  {
+    "Id": "M7_CUT_14",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN SOLDIER",
+    "English": "RUSSIAN SOLDIER: And the English soldier?",
+    "Russian": "RUSSIAN SOLDIER: А с англичанином что?"
+  },
+  {
+    "Id": "M7_CUT_15",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Kill him!, his road finishes here",
+    "Russian": "EKK: Убить! Его путь здесь закончен."
+  },
+  {
+    "Id": "M8_CUT_01",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: David - are you okay?",
+    "Russian": "ANYA: Дэвид, ты жив?"
+  },
+  {
+    "Id": "M8_CUT_02",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. It's bloody cold Anya!",
+    "Russian": "JONES: Да. Но тут собачий холод, Аня!"
+  },
+  {
+    "Id": "M8_CUT_03",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.",
+    "Russian": "ANYA: Знаю. Я запеленговала тебя и компьютер-карту — сработал аварийный маяк."
+  },
+  {
+    "Id": "M8_CUT_04",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...",
+    "Russian": "ANYA: Слушай внимательно: ты на передовой базе сил быстрого реагирования. Это значит..."
+  },
+  {
+    "Id": "M8_CUT_05",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.",
+    "Russian": "JONES: Мотопехота, бронетехника, поддержка авиации — я ещё не всё забыл."
+  },
+  {
+    "Id": "M8_CUT_06",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.",
+    "Russian": "ANYA: Извини. Грузовик возле казарм. Компьютер-карта вещает из бункера с боеприпасами в ремонтной зоне примерно в километре от тебя."
+  },
+  {
+    "Id": "M8_CUT_07",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.",
+    "Russian": "ANYA: Твой приказ: выбирайся оттуда, Дэвид, и найди ремонтную зону. Доберись до мастерских и верни компьютер. Эвакуация подготовлена. Шевелись, солдат."
+  },
+  {
+    "Id": "M9_CUT_01",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?",
+    "Russian": "ANYA: Джонс, я всё обдумала. Прибой в поезде... куда его везут? К кому?"
+  },
+  {
+    "Id": "M9_CUT_02",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Hmm, my money is on the voice that got me shot down.",
+    "Russian": "JONES: Хм, ставлю на ту дамочку, чей голос отправил нас в штопор."
+  },
+  {
+    "Id": "M9_CUT_03",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?",
+    "Russian": "ANYA: Согласна. Но поезд?! Разве это не странный способ перевозки?"
+  },
+  {
+    "Id": "M9_CUT_04",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?",
+    "Russian": "JONES: Да уж. Если он так важен, почему не вертолёт или армейский конвой?"
+  },
+  {
+    "Id": "M9_CUT_05",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly! Our mystery caller isn't so powerful.",
+    "Russian": "ANYA: Вот именно! Наш таинственный враг не так уж всемогущ."
+  },
+  {
+    "Id": "M9_CUT_06",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.",
+    "Russian": "ANYA: Уверена, мы имеем дело с небольшой группой: военные мятежники или политические фанатики."
+  },
+  {
+    "Id": "M9_CUT_07",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?",
+    "Russian": "ANYA: Но они спешат, им срочно нужен Прибой. Он им жизненно необходим. Но зачем?"
+  },
+  {
+    "Id": "M9_CUT_08",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.",
+    "Russian": "JONES: Он единственная нить между ними и нами. Они хотят знать, какую угрозу мы представляем. Иначе Прибой был бы мёртв, а не в вагоне."
+  },
+  {
+    "Id": "M9_CUT_09",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.",
+    "Russian": "ANYA: Ты должен вернуть Прибоя. Бандит он или нет — он наш единственный след."
+  },
+  {
+    "Id": "M9_CUT_10",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.",
+    "Russian": "ANYA: Его поезд пойдёт через эту узловую станцию — там хранятся списанные ракеты. Джонс, ты обязан сесть на этот поезд."
+  },
+  {
+    "Id": "M9_CUT_11",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.",
+    "Russian": "ANYA: Твои задачи: проникнуть за периметр станции. Когда подойдёт состав — запрыгнуть на него."
+  },
+  {
+    "Id": "M9_CUT_12",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck",
+    "Russian": "ANYA: Помни: если поднимется тревога, поезд не войдёт на станцию. Рисковать нельзя, глуши сирены. Вперёд, Дэвид, удачи!"
+  },
+  {
+    "Id": "M10_CUT_01",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.",
+    "Russian": "JONES: Аня, я нашёл Прибоя! Поезд под контролем. Наконец-то я добрался."
+  },
+  {
+    "Id": "M10_CUT_02",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: At last!",
+    "Russian": "ANYA: Наконец-то!"
+  },
+  {
+    "Id": "M10_CUT_03",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional",
+    "Russian": "PRIBOI: Что-то ты не торопился. Сначала похитил меня, потом потерял... Я-то думал, ты профи!"
+  },
+  {
+    "Id": "M10_CUT_04",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - there's two planes approaching",
+    "Russian": "ANYA: Джонс, приближаются два штурмовика!"
+  },
+  {
+    "Id": "M10_CUT_05",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train",
+    "Russian": "RUSSIAN PILOT: Виктор Три — Центру, наблюдаю поезд."
+  },
+  {
+    "Id": "M10_CUT_06",
+    "Mission": "Mission 10",
+    "Speaker": "EKK",
+    "English": "EKK: Stop that train. Fire, fire!",
+    "Russian": "EKK: Остановить поезд! Огонь, огонь!"
+  },
+  {
+    "Id": "M10_CUT_07",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away!",
+    "Russian": "RUSSIAN PILOT: Ракеты пошли!"
+  },
+  {
+    "Id": "M10_CUT_08",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - hold on tight.",
+    "Russian": "ANYA: Джонс, держись крепче!"
+  },
+  {
+    "Id": "M10_CUT_09",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Arghhhhh!",
+    "Russian": "JONES: А-а-а-а-а!"
+  },
+  {
+    "Id": "M10_CUT_10",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Arghhhhh!",
+    "Russian": "PRIBOI: А-а-а-а-а!"
+  },
+  {
+    "Id": "M11_CUT_01",
+    "Mission": "Mission 11",
+    "Speaker": "JONES",
+    "English": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?",
+    "Russian": "JONES: С вертолётчиками встретился, как просила. В 05:00 — адская рань. Куда мы летим? Ты мне ничего не сказала. Что с бомбой? Что с Экк?"
+  },
+  {
+    "Id": "M11_CUT_02",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.",
+    "Russian": "ANYA: Экк использовала старую базу КГБ под тренировочный лагерь — туда она и доставила боеголовку. Лагерь в руинах замка на скалистом утёсе в 50 км от тебя."
+  },
+  {
+    "Id": "M11_CUT_03",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.",
+    "Russian": "ANYA: Туда ведёт только канатная дорога. Подлететь ближе вертолёт не может — переносной ПЗРК собьёт вас в два счёта."
+  },
+  {
+    "Id": "M11_CUT_04",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.",
+    "Russian": "ANYA: Нижняя станция канатки находится в армейском учебном форте у подножия горы."
+  },
+  {
+    "Id": "M11_CUT_05",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.",
+    "Russian": "ANYA: Мы сбросим тебя неподалёку. Для тебя подготовлен тайник с оружием — человек Харрисона оставил его."
+  },
+  {
+    "Id": "M11_CUT_06",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.",
+    "Russian": "ANYA: Забери арсенал, проникни в форт и поднимись на канатке на вершину."
+  },
+  {
+    "Id": "M11_CUT_07",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.",
+    "Russian": "ANYA: Дэвид, я добыла чертежи форта — мой контакт в Москве не подвёл. У фуникулёра автономное питание, сейчас оно выключено. Найди генератор."
+  },
+  {
+    "Id": "M12_CUT_01",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.",
+    "Russian": "ANYA: Замок стоит с XIV века — Экк обживает его последний год. Изначально объект КГБ, в 1990-м передан армии."
+  },
+  {
+    "Id": "M12_CUT_02",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.",
+    "Russian": "ANYA: Военным он был без надобности, вот и гнил. Экк приплатила местному командиру за молчание."
+  },
+  {
+    "Id": "M12_CUT_03",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.",
+    "Russian": "ANYA: Спутники фиксируют новые постройки среди руин, но точных данных нет."
+  },
+  {
+    "Id": "M12_CUT_04",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.",
+    "Russian": "ANYA: Разведка заметила около 30 бойцов и стрельбища, ничего тяжёлого."
+  },
+  {
+    "Id": "M12_CUT_05",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: There is at least one chopper, expect a gunship.",
+    "Russian": "ANYA: На площадке как минимум один вертолёт, скорее всего ударный."
+  },
+  {
+    "Id": "M12_CUT_06",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.",
+    "Russian": "ANYA: Вкратце: проникнуть на базу. Найти бомбу. Взять Экк. Если не выйдет — ликвидация устроит Комитет начальников штабов."
+  },
+  {
+    "Id": "M12_CUT_07",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.",
+    "Russian": "ANYA: Затем зачисти сектор, и мы эвакуируем тебя вместе с боеголовкой. Дэвид, береги себя."
+  },
+  {
+    "Id": "M12_CUT_08",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.",
+    "Russian": "ANYA: Мы так близко. Я не хочу, чтобы всё сорвалось. Пожалуйста, без глупостей."
+  },
+  {
+    "Id": "M12_CUT_09",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: Anya what happens now to Priboi?",
+    "Russian": "JONES: Аня, а что теперь будет с Прибоем?"
+  },
+  {
+    "Id": "M12_CUT_10",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's, he's, that's classified.",
+    "Russian": "ANYA: Он... это засекречено."
+  },
+  {
+    "Id": "M12_CUT_11",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Don't play around Anya, please don't.",
+    "Russian": "JONES: Что? Не темни, Аня, брось."
+  },
+  {
+    "Id": "M12_CUT_12",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's on the payroll.",
+    "Russian": "ANYA: Он теперь на нашем довольствии."
+  },
+  {
+    "Id": "M12_CUT_13",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Cheeky bastard!",
+    "Russian": "JONES: Что?! Вот наглый ублюдок!"
+  },
+  {
+    "Id": "M12_CUT_14",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.",
+    "Russian": "ANYA: Не будь наивным, Джонс. Он коммерсант: продаёт информацию, а мы её покупаем. К тому же теперь Ях Прибой у нас на крючке."
+  },
+  {
+    "Id": "M13_CUT_01",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.",
+    "Russian": "ANYA: В годы холодной войны здесь был гигантский плутониевый завод. Сейчас тут изучают ПРО — вот тебе и связь с Экк!"
+  },
+  {
+    "Id": "M13_CUT_02",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: The plant still houses a functional nuclear reactor.",
+    "Russian": "ANYA: На объекте по-прежнему работает ядерный реактор."
+  },
+  {
+    "Id": "M13_CUT_03",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.",
+    "Russian": "ANYA: Экк точно захватила комплекс. Мы засекли патрули — форма неуставная. И взгляни сюда: следы недавнего боя."
+  },
+  {
+    "Id": "M13_CUT_04",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.",
+    "Russian": "ANYA: Высадим у внешнего забора. Твоя задача — зачистить внутренний двор вокруг узла связи."
+  },
+  {
+    "Id": "M13_CUT_05",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison, four of men and myself will then come in to land by chopper.",
+    "Russian": "ANYA: Затем Харрисон с четырьмя бойцами и я сядем на вертолёте."
+  },
+  {
+    "Id": "M13_CUT_06",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'm heading out to meet you now.",
+    "Russian": "ANYA: Я уже вылетаю к тебе."
+  },
+  {
+    "Id": "M13_CUT_07",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done",
+    "Russian": "ANYA: Когда узел связи будет за нами, мы подключимся к сети завода — и я узнаю, что эта дрянь натворила."
+  },
+  {
+    "Id": "M13_CUT_08",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Area's clear.",
+    "Russian": "JONES: Чисто."
+  },
+  {
+    "Id": "M13_CUT_09",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We're going in.",
+    "Russian": "ANYA: Заходим на посадку."
+  },
+  {
+    "Id": "M13_CUT_10",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.",
+    "Russian": "JONES: На поверхности люди Экк перебиты, но наверняка ещё прячутся, как крысы. Аня? Харрисон? Пора спускаться под землю, нужны разведданные."
+  },
+  {
+    "Id": "M13_CUT_12",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'll access the networks; you'll have that Intel shortly.",
+    "Russian": "ANYA: Подключаюсь к терминалу, данные будут с минуты на минуту."
+  },
+  {
+    "Id": "M13_CUT_13",
+    "Mission": "Mission 13",
+    "Speaker": "CAPT. HARRISON",
+    "English": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.",
+    "Russian": "CAPT. HARRISON: Леонард, бери пятерых, прочесать всё до миллиметра. Огонь на поражение. Нагочи, Скиннер — с Джонсом, искать спуск под землю. Уоррен и я прикрываем Аню."
+  },
+  {
+    "Id": "M13_CUT_14",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Let's do it. IGI!",
+    "Russian": "JONES: За дело. IGI!"
+  },
+  {
+    "Id": "M14_CUT_01",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.",
+    "Russian": "ANYA: Джонс! Главное — найти боеголовку. Как найдёшь — держи оборону до моего прибытия. Обезвреживание я беру на себя."
+  },
+  {
+    "Id": "M14_CUT_02",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: You will?",
+    "Russian": "JONES: Ты?"
+  },
+  {
+    "Id": "M14_CUT_03",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.",
+    "Russian": "ANYA: Дэвид, ты мастер своего дела, но тут армейским ножом не обойтись. Девушка не зря три года зубрила электронику и ядерную физику."
+  },
+  {
+    "Id": "M14_CUT_04",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Heh! Fine!",
+    "Russian": "JONES: Ха! Ладно!"
+  },
+  {
+    "Id": "M14_CUT_05",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: If you see Ekk,",
+    "Russian": "ANYA: Если увидишь Экк..."
+  },
+  {
+    "Id": "M14_CUT_06",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry; I just need one clean shot.",
+    "Russian": "JONES: Не волнуйся, мне хватит одного выстрела."
+  },
+  {
+    "Id": "M14_CUT_07",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.",
+    "Russian": "ANYA: Я вскрыла протоколы безопасности. Вот как Экк проникла внутрь: дождалась пересменки выходного дня, и её головорезы вошли под видом обслуги."
+  },
+  {
+    "Id": "M14_CUT_08",
+    "Mission": "Mission 14",
+    "Speaker": "NARRATOR",
+    "English": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.",
+    "Russian": "Они захватили пульты охраны и вентиляцию, заблокировав выходы и пустив газ. Я аннулирую её доступы, но нужно время."
+  },
+  {
+    "Id": "M14_CUT_09",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Um, Anya - anything else active?",
+    "Russian": "JONES: Эм, Аня... что-то ещё работает?"
+  },
+  {
+    "Id": "M14_CUT_10",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.",
+    "Russian": "ANYA: Боже! Прости, Дэвид, турели активны — сейчас вырублю! Осторожно, её люди повсюду."
+  },
+  {
+    "Id": "M14_CUT_11",
+    "Mission": "Mission 14",
+    "Speaker": "Remember",
+    "English": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.",
+    "Russian": "Помни: найти бомбу, держать периметр до моего прихода. Экк — уничтожить на месте."
+  },
+  {
+    "Id": "OUTRO_1",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: Are you...you're.. OK??",
+    "Russian": "JONES: Ты... ты в порядке?!"
+  },
+  {
+    "Id": "OUTRO_2",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: ...yeah",
+    "Russian": "ANYA: ...да."
+  },
+  {
+    "Id": "OUTRO_3",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...",
+    "Russian": "JONES: У нас ведь не было официального разрешения на всё это? Настоящая «черная» операция..."
+  },
+  {
+    "Id": "OUTRO_4",
+    "Mission": "Outro Cutscene",
+    "Speaker": "LOUDSPEAKER",
+    "English": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!",
+    "Russian": "LOUDSPEAKER: Говорят силы быстрого реагирования «Драка Тегрус»! Немедленно сложить оружие! Все вооружённые лица будут уничтожаться на месте без предупреждения!"
+  },
+  {
+    "Id": "OUTRO_5",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.",
+    "Russian": "ANYA: Чёрт... Между нами и вертолётом целая армия."
+  },
+  {
+    "Id": "OUTRO_6",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: I'm going in!",
+    "Russian": "JONES: Я иду на прорыв!"
+  }
+]

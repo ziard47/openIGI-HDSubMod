@@ -1,0 +1,1234 @@
+[
+  {
+    "Id": "INTRO_0a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "NARRATOR",
+    "English": "Somewhere in Russia.",
+    "Tamil": "ரஷ்யாவில் எங்கோ ஓரிடத்தில்."
+  },
+  {
+    "Id": "INTRO_1a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he talked yet?",
+    "Tamil": "PRIBOI: அவன் இன்னும் வாயைத் திறந்தானா?"
+  },
+  {
+    "Id": "INTRO_1b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he started talking yet?",
+    "Tamil": "PRIBOI: அவன் பேச ஆரம்பித்துவிட்டானா?"
+  },
+  {
+    "Id": "INTRO_1c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Is he still not talking?",
+    "Tamil": "PRIBOI: அவன் இன்னும் பேசவில்லையா?"
+  },
+  {
+    "Id": "INTRO_2a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No!",
+    "Tamil": "RUSSIAN GUARD: இல்லை!"
+  },
+  {
+    "Id": "INTRO_2b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, boss",
+    "Tamil": "RUSSIAN GUARD: இல்லை, தலைவரே."
+  },
+  {
+    "Id": "INTRO_2c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, he's a tough one",
+    "Tamil": "RUSSIAN GUARD: இல்லை, அவன் அவ்வளவு எளிதானவன் அல்ல."
+  },
+  {
+    "Id": "INTRO_3a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I'll make him talk...",
+    "Tamil": "PRIBOI: நான் அவனைப் பேச வைக்கிறேன்..."
+  },
+  {
+    "Id": "INTRO_3b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Well, let's see about that",
+    "Tamil": "PRIBOI: சரி, அதைப் பார்ப்போம்."
+  },
+  {
+    "Id": "INTRO_3c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I think I have to pay him a little visit",
+    "Tamil": "PRIBOI: நான் அவனிடம் நேரில் சென்று பார்க்க வேண்டும் என்று நினைக்கிறேன்."
+  },
+  {
+    "Id": "INTRO_3d",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Hmmm...Now let's do it my way",
+    "Tamil": "PRIBOI: ம்ம்ம்... இப்போது இதை என் வழியில் செய்வோம்."
+  },
+  {
+    "Id": "INTRO_3e",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Cover your ears - things are about to change",
+    "Tamil": "PRIBOI: காதுகளை மூடிக்கொள்ளுங்கள் - நிலைமை மாறப்போகிறது."
+  },
+  {
+    "Id": "M1_CUT_01",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.",
+    "Tamil": "ANYA: இவ்வளவு விரைவாக இங்கு வந்ததற்கு நன்று. இந்த பணிக்கு மிக உயர்ந்த முன்னுரிமை உள்ளது. இலக்கு: ஜோசப் ப்ரிபோய். நீங்கள் அவரைக் கண்டுபிடித்து விசாரணைக்கு அழைத்து வர வேண்டும். போர்த்தளவாட கடத்தலில் ஜோசப் மட்டுமே நமது ஒரே தொடர்பு."
+  },
+  {
+    "Id": "M1_CUT_02",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah, yeah. I need to know one thing, where he is.",
+    "Tamil": "JONES: சரி, சரி. எனக்கு ஒன்று மட்டும் தெரிய வேண்டும், அவன் எங்கே இருக்கிறான்?"
+  },
+  {
+    "Id": "M1_CUT_03",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.",
+    "Tamil": "ANYA: ஜோசப் ஒரு ராணுவ விமான தளத்தில் வைக்கப்பட்டுள்ளான். அந்த பகுதி முழுவதும் கடுமையான வான் பாதுகாப்பு உள்ளது. அந்த பாதுகாப்புகள் முடக்கப்படும் வரை நாங்கள் உங்களை இலக்கிலிருந்து சிறிது தொலைவில் இறக்க வேண்டும்."
+  },
+  {
+    "Id": "M1_CUT_04",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: What? Is transport waiting?",
+    "Tamil": "JONES: என்ன? வாகனம் காத்திருக்கிறதா?"
+  },
+  {
+    "Id": "M1_CUT_05",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll cover the ground using locally resourced transportation assets.",
+    "Tamil": "ANYA: அங்குள்ள வாகனங்களைப் பயன்படுத்தி நீங்கள் தரைவழியாகச் செல்ல வேண்டும்."
+  },
+  {
+    "Id": "M1_CUT_06",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: You mean I have to steal something?",
+    "Tamil": "JONES: நான் எதையாவது திருட வேண்டும் என்கிறாயா?"
+  },
+  {
+    "Id": "M1_CUT_07",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:",
+    "Tamil": "ANYA: சரியாகச் சொன்னீர்கள். நீங்கள் அடுத்த சரக்கு யார்டுக்குச் செல்ல வேண்டும் - அங்கே நீங்கள் வாகனத்தைப் பெறலாம். இந்த நடவடிக்கை மிகவும் எளிதானது - மூன்று நிலைகள் உள்ளன:"
+  },
+  {
+    "Id": "M1_CUT_08",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...",
+    "Tamil": "ANYA: ஒன்று - வாகனத்தைப் பெறுவது. இரண்டு - வான் பாதுகாப்பை முடக்குவது. மூன்று - ஜோசப் ப்ரிபோயைக் கண்டுபிடித்து விசாரணைக்காகப் பாதுகாப்பாக வெளியேற்றுவது. இதை..."
+  },
+  {
+    "Id": "M1_CUT_09",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: ...even a grunt like me can follow it - I see",
+    "Tamil": "JONES: ...என்னைப்போன்ற ஒரு சாதாரண வீரனால் கூட புரிந்துகொள்ள முடியும் - எனக்கு புரிகிறது."
+  },
+  {
+    "Id": "M1_CUT_10",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: That's the best we have.",
+    "Tamil": "ANYA: நம்மிடம் உள்ள சிறந்த திட்டம் இதுதான்."
+  },
+  {
+    "Id": "M1_CUT_11",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, just how did you track Josef down?",
+    "Tamil": "JONES: அன்யா, நீங்கள் ஜோசப்பை எப்படிக் கண்டுபிடித்தீர்கள்?"
+  },
+  {
+    "Id": "M1_CUT_12",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.",
+    "Tamil": "ANYA: ஜோசப்பின் அழைப்பை அவனது அடுக்குமாடி குடியிருப்பிற்கு பின்தொடர்ந்தோம், இல்லையா? உள்ளூர் ஏஜெண்டுகள் அங்கு சோதனையிட்டு அவனது புகைப்படங்கள் மற்றும் தொலைபேசி எண்ணைக் கண்டுபிடித்தனர்."
+  },
+  {
+    "Id": "M1_CUT_13",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.",
+    "Tamil": "ANYA: எனவே, நாங்கள் அதற்கு அழைத்து இருப்பிடத்தைக் கணித்தோம். அந்த தொலைபேசி ஒரு ராணுவ விமான தளத்தில் உள்ளது - அங்கே தான் ஜோசப் இருக்கிறான் - அதுவே நமது முக்கிய இலக்கு."
+  },
+  {
+    "Id": "M1_CUT_14",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Cunning - assuming he's there.",
+    "Tamil": "JONES: புத்திசாலித்தனமானது - அவன் அங்கே இருப்பதாக வைத்துக்கொண்டால்."
+  },
+  {
+    "Id": "M1_CUT_15",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.",
+    "Tamil": "ANYA: நீங்கள் சரக்கு யார்டு வழியாக டிரக்கிற்கு செல்ல வேண்டும். எந்த சூழ்நிலையிலும் கேமராக்களில் படாதீர்கள் - பாதுகாப்பை எச்சரித்தால், தளமே உங்கள் இருப்பிடத்தை குறிவைக்கும்."
+  },
+  {
+    "Id": "M1_CUT_16",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!",
+    "Tamil": "ANYA: டிரக்கை அடையுங்கள். இந்த பணியில் உங்கள் இலக்கு அதுதான். அதை அடைந்து கடத்துங்கள். இந்த பணி வேகமாகவும் அமைதியாகவும் இருக்க வேண்டும். வேலையைத் தொடங்குங்கள் ஜோன்ஸ்!"
+  },
+  {
+    "Id": "M2_CUT_01",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: The next objective is to disable the local air defences.",
+    "Tamil": "ANYA: அடுத்த இலக்கு உள்ளூர் வான் பாதுகாப்பு அமைப்புகளை முடக்குவதாகும்."
+  },
+  {
+    "Id": "M2_CUT_02",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: Why not use the truck to evacuate Josef from the airfield?",
+    "Tamil": "JONES: ஜோசப்பை விமான தளத்திலிருந்து வெளியேற்ற ஏன் டிரக்கைப் பயன்படுத்தக்கூடாது?"
+  },
+  {
+    "Id": "M2_CUT_03",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.",
+    "Tamil": "ANYA: மிகவும் மெதுவாக இருக்கும். அது மிகப்பெரிய ஆபத்து. கடத்தலில் ஜோசப் மட்டுமே நமது ஒரே தொடர்பு."
+  },
+  {
+    "Id": "M2_CUT_04",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.",
+    "Tamil": "ANYA: போர்த்தளவாடம் எவ்வாறு எடுக்கப்பட்டது என்பது மட்டுமல்லாமல், எங்கு, எப்படி என்பதும் அவனுக்குத் தெரியும் - அதன் வரிசை எண்ணைக் கூட கூறினான். அவன் உயிருடன் முழுமையாக நமக்கு வேண்டும்."
+  },
+  {
+    "Id": "M2_CUT_05",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: What about me?",
+    "Tamil": "JONES: என்னைப்பற்றி என்ன?"
+  },
+  {
+    "Id": "M2_CUT_06",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.",
+    "Tamil": "ANYA: நீங்கள் செய்ய வேண்டியது இதோ. உடனடியாக SAM ஏவுகணை தளத்திற்குள் ஊடுருவுங்கள். அங்கே வெடிபொருட்கள் கிடைக்கும், அவற்றை ஒவ்வொரு SAM தளத்திலும் பொருத்துங்கள்."
+  },
+  {
+    "Id": "M2_CUT_07",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.",
+    "Tamil": "ANYA: இறுதி சந்திப்பு இடத்திற்கு தப்பிச் சென்று, பின்னர் வெடிபொருட்களை வெடிக்கச் செய்யுங்கள்."
+  },
+  {
+    "Id": "M2_CUT_08",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.",
+    "Tamil": "ANYA: நீங்கள் சந்திப்பு இடத்தை அடைந்ததும், ஹெலிகாப்டர் மூலம் உங்களை அழைத்துக்கொண்டு நேரடியாக ராணுவ விமான தளத்திற்கு செல்லலாம்."
+  },
+  {
+    "Id": "M3_CUT_01",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?",
+    "Tamil": "JONES: எனது கணக்கில் மற்றொரு வெற்றிகரமான நடவடிக்கை. சரி அன்யா, ஜோசப் எங்கே என்று சொல், நான் அவனை வெளியே கொண்டு வருகிறேன். உதவிக் குழுவைப் பற்றி தகவல் ஏதேனும் உள்ளதா?"
+  },
+  {
+    "Id": "M3_CUT_02",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.",
+    "Tamil": "ANYA: நிச்சயமாக உங்களுக்கு மற்றவர்களின் உதவி தேவையில்லை. உங்கள் உதவிக் குழு தலைநகரை அடைந்துவிட்டது. அவர்கள் தற்போது உங்களை நோக்கி வந்து கொண்டிருக்கிறார்கள். மூன்று மணி நேரத்தில் உங்களுடன் இருப்பார்கள்."
+  },
+  {
+    "Id": "M3_CUT_03",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: Just in time to clear up!",
+    "Tamil": "JONES: எல்லாவற்றையும் சுத்தம் செய்ய சரியான நேரத்தில் வருகிறார்கள்!"
+  },
+  {
+    "Id": "M3_CUT_04",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.",
+    "Tamil": "ANYA: ஜோசப்பை வெளியேற்றுவதற்கான வான்வழியைத் திறந்துவிட்டோம். இப்போது உங்கள் பணி ஜோசப் ப்ரிபோயைக் கண்டுபிடித்து விசாரணைக்காக வெளியே கொண்டுவருவது."
+  },
+  {
+    "Id": "M3_CUT_05",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Your objectives are threefold;",
+    "Tamil": "ANYA: உங்கள் இலக்குகள் மூன்று வகையாகும்;"
+  },
+  {
+    "Id": "M3_CUT_06",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Infiltrate the installation without overly raising suspicion;",
+    "Tamil": "ANYA: 1) சந்தேகத்தை ஏற்படுத்தாமல் தளத்திற்குள் ஊடுருவுங்கள்;"
+  },
+  {
+    "Id": "M3_CUT_07",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;",
+    "Tamil": "ANYA: 2) ஜோசப் ப்ரிபோயைக் கண்டுபிடித்து விடுவியுங்கள் - எங்கள் ஏஜெண்டுகள் கடந்த 20 மணி நேரமாகக் கண்காணித்து இந்த காட்சிகளை எடுத்தனர். ஜோசப் இந்த கட்டிடத்தில் வைக்கப்பட்டிருப்பதாக நான் நம்புகிறேன் - அவன் பாதாள அறையில் இருக்க வேண்டும்;"
+  },
+  {
+    "Id": "M3_CUT_08",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.",
+    "Tamil": "ANYA: 3) ஜோசப்பை மீட்ட பிறகு, ஹெலிகாப்டரில் புறப்பட அவனை மீண்டும் FRV இடத்திற்கு அழைத்து வாருங்கள்."
+  },
+  {
+    "Id": "M4_CUT_01",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.",
+    "Tamil": "ANYA: ஜோன்ஸ், ஜோசப் கொண்டு செல்லப்படும் இடமாக இந்த சிறையை அடையாளம் கண்டீர்கள். ஜோசப்பின் அடையாளத்தைக் கொண்ட ஒருவன் நேற்று இங்கு வந்தான்."
+  },
+  {
+    "Id": "M4_CUT_02",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: The back-up is here now. Who's leading them? What's their role?",
+    "Tamil": "JONES: உதவிக் குழு இப்போது வந்துவிட்டது. அவர்களுக்கு தலைமை யார்? அவர்களின் பங்கு என்ன?"
+  },
+  {
+    "Id": "M4_CUT_03",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.",
+    "Tamil": "ANYA: கேப்டன் ஹாரிசன் தலைமை வகிக்கிறார் - முன்னாள் கிரீன் பெரட் வீரர். அவர் தாக்குதலுக்கு தலைமை தாங்குவார்; அவரது வீரர்கள் உள்ளே சென்று ஜோசப்பை வெளியே கொண்டு வருவார்கள்."
+  },
+  {
+    "Id": "M4_CUT_04",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: They lack as expert sniper. You are to provide cover as they go in.",
+    "Tamil": "ANYA: அவர்களிடம் துல்லிய துப்பாக்கி சுடும் வீரர் (Sniper) இல்லை. அவர்கள் உள்ளே செல்லும்போது நீங்கள் பாதுகாப்பு அளிக்க வேண்டும்."
+  },
+  {
+    "Id": "M4_CUT_05",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: All right! I get to play god then?",
+    "Tamil": "JONES: சரி! அப்படியானால் நான் கடவுளின் பாத்திரத்தை வகிக்க வேண்டுமா?"
+  },
+  {
+    "Id": "M4_CUT_06",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.",
+    "Tamil": "ANYA: அதுவே உங்கள் அழைப்புக் குறியீடாக (GOD) இருக்கும் என்று நினைக்கிறேன். ஹாரிசனின் குறியீடு மோசஸ் (Moses)."
+  },
+  {
+    "Id": "M4_CUT_07",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: Awesome.",
+    "Tamil": "JONES: அற்புதம்."
+  },
+  {
+    "Id": "M4_CUT_08",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, your objectives are as follows;",
+    "Tamil": "ANYA: ஜோன்ஸ், உங்கள் இலக்குகள் பின்வருமாறு;"
+  },
+  {
+    "Id": "M4_CUT_09",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.",
+    "Tamil": "ANYA: 1) சிறைக்கு மேலே உள்ள மலை இடிபாடுகளைக் கைப்பற்றுங்கள். இது சிறந்த துப்பாக்கிச் சூட்டுப் பகுதியை வழங்கும்."
+  },
+  {
+    "Id": "M4_CUT_10",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Provide cover for Harrison's men as they assault.",
+    "Tamil": "ANYA: 2) ஹாரிசனின் ஆட்கள் தாக்கும் போது அவர்களுக்கு துப்பாக்கிச் சூடு பாதுகாப்பு அளியுங்கள்."
+  },
+  {
+    "Id": "M4_CUT_11",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.",
+    "Tamil": "ANYA: 3) எங்கள் ஆட்கள் ஜோசப்பை மீட்டதும், வெளியேறும் வரை நீங்கள் பாதுகாப்பு துப்பாக்கிச் சூடு நடத்த வேண்டும்."
+  },
+  {
+    "Id": "M4_CUT_12",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.",
+    "Tamil": "ANYA: 4) ஜோசப் பாதுகாப்பாகச் சென்றதும், வெளியேறும் இடத்திற்குச் செல்ல ஹாரிசன் உங்களுக்கு சமிக்ஞை கொடுப்பார்."
+  },
+  {
+    "Id": "M5_CUT_01",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: How did Priboi's debrief go, Anya?",
+    "Tamil": "JONES: ப்ரிபோயின் விசாரணை எப்படிப் போனது, அன்யா?"
+  },
+  {
+    "Id": "M5_CUT_02",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.",
+    "Tamil": "ANYA: மிகவும் எளிதாக! ஜோசப் ஏற்கனவே கடுமையாக தாக்கப்பட்டிருந்தான் - முக்கியமாக அவனது மாமா ஜாக் என்பவரால்."
+  },
+  {
+    "Id": "M5_CUT_03",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.",
+    "Tamil": "ANYA: ஏன் என்று தெரியவில்லை, ஆனால் ஜாக் ப்ரிபோய் மிகவும் பயந்த மனிதன். இப்போது நமக்குத் தெரிந்த தகவல் இதோ. இந்த வணிகத்தை முழுமையாகக் கட்டுப்படுத்துவது ஜாக்தான்."
+  },
+  {
+    "Id": "M5_CUT_04",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.",
+    "Tamil": "ANYA: அவன்தான் போர்த்தளவாட கடத்தலை ஏற்பாடு செய்தான். ஜோசப் கடத்தப்பட்டபோது, போர்த்தளவாடம் இன்னும் ஜாக்கின் கட்டுப்பாட்டிலேயே இருந்தது; அது இன்னும் யாரிடமும் ஒப்படைக்கப்படவில்லை."
+  },
+  {
+    "Id": "M5_CUT_05",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: Yes! Another success for David Jones! IGI!",
+    "Tamil": "JONES: ஆம்! டேவிட் ஜோன்ஸுக்கு மற்றொரு வெற்றி! IGI!"
+  },
+  {
+    "Id": "M5_CUT_06",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.",
+    "Tamil": "ANYA: ஆம். உங்கள் சொந்த முயற்சியால். நன்று. இப்போது இதை எதிர்கொள்ளுங்கள். ஜாக்கிற்கு 50 க்கும் மேற்பட்ட சொத்துக்களும் கிடங்குகளும் உள்ளன. போர்த்தளவாடம் அவற்றில் எதில் வேண்டுமானாலும் இருக்கலாம்."
+  },
+  {
+    "Id": "M5_CUT_07",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.",
+    "Tamil": "ANYA: இருப்பினும் ஜாக் ப்ரிபோய் பல பாதுகாப்பான ராணுவ தகவல் தொடர்பு சேனல்களைப் பயன்படுத்துகிறான். ஜோசப் எங்களுக்கு அலைவரிசை குறியீடுகளைத் தந்தான், நான் முக்கிய முனையத்தைக் கண்டறிந்துவிட்டேன்."
+  },
+  {
+    "Id": "M5_CUT_08",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.",
+    "Tamil": "ANYA: என்னால் இந்த நெட்வொர்க்கில் நுழைய முடிந்தால், ஜாக்கின் தனிப்பட்ட உரையாடல்களை அணுக முடியும் - அவன் பேசுவது அனைத்தும் எனக்குத் தெரியும். போர்த்தளவாடத்தின் இருப்பிடமும் உட்பட."
+  },
+  {
+    "Id": "M5_CUT_09",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.",
+    "Tamil": "ANYA: இந்த தகவல் தொடர்பு முனையத்திற்குள் நுழையுங்கள். இந்த குவிமாட கட்டிடத்திற்கு செல்லுங்கள் - அங்கேதான் முக்கிய கணினிகள் உள்ளன. அவை அனைத்து தகவல் தொடர்புகளையும் வழிநடத்துகின்றன."
+  },
+  {
+    "Id": "M5_CUT_10",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.",
+    "Tamil": "ANYA: நீங்கள் அங்கே சென்றதும் வைரஸை பதிவேற்றுங்கள், மீதியை நான் பார்த்துக் கொள்கிறேன். பின்னர் நீங்கள் அங்கிருந்து தப்பிக்க வேண்டும்."
+  },
+  {
+    "Id": "M5_CUT_11",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.",
+    "Tamil": "ANYA: வானிலை மேகமூட்டமாக உள்ளது, ஒருவேளை நாளை பனிப்பொழிவு இருக்கலாம். தயவுசெய்து இதை சொதப்பிவிடாதீர்கள், ஜோன்ஸ்."
+  },
+  {
+    "Id": "M6_CUT_01",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You believe Priboi to be here?",
+    "Tamil": "JONES: ப்ரிபோய் இங்கு இருப்பதாக நீங்கள் நம்புகிறீர்களா?"
+  },
+  {
+    "Id": "M6_CUT_02",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.",
+    "Tamil": "ANYA: ஜோன்ஸ், எனக்குத் தெரியும். நீங்கள் பதிவேற்றிய வைரஸ்? அது அற்புதம் செய்கிறது."
+  },
+  {
+    "Id": "M6_CUT_03",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: This is one of his more remote storage yards.",
+    "Tamil": "ANYA: இது அவனது தொலைதூர கிடங்குகளில் ஒன்றாகும்."
+  },
+  {
+    "Id": "M6_CUT_04",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get this - he's currently holding a goddamn arms sale.",
+    "Tamil": "ANYA: இதைக் கேளுங்கள் - அவன் தற்போது ஒரு ஆயுத விற்பனையை நடத்திக் கொண்டிருக்கிறான்."
+  },
+  {
+    "Id": "M6_CUT_05",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.",
+    "Tamil": "JONES: நீங்கள் என்னை தவறான சகவாசத்திற்கு அழைத்துச் செல்கிறீர்கள் - என் அம்மா உங்களை போன்ற பெண்களைப் பற்றி எச்சரித்தார் - அவர்கள் உங்களை தவறான பாதைக்கு அழைத்துச் செல்வார்கள் என்று."
+  },
+  {
+    "Id": "M6_CUT_06",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: And what happened?",
+    "Tamil": "ANYA: பிறகு என்ன நடந்தது?"
+  },
+  {
+    "Id": "M6_CUT_07",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: I mainly got led astray.",
+    "Tamil": "JONES: நான் பெரும்பாலும் தவறான பாதைக்கே சென்றேன்."
+  },
+  {
+    "Id": "M6_CUT_08",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.",
+    "Tamil": "ANYA: வழக்கம் போலத்தான். கேளுங்கள், ப்ரிபோய் தனது அனைத்து ஒப்பந்தங்களையும் லிமோசின் காரிலிருந்தே செய்கிறான் - அது குண்டு துளைக்காதது மற்றும் நுழைவாயிலுக்கு அருகில் உள்ளது."
+  },
+  {
+    "Id": "M6_CUT_09",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.",
+    "Tamil": "ANYA: ஏதாவது தவறு நடந்தால், திறந்த சாலைக்கு ஓடிவிட்டு தனது ஆட்களை சண்டையிட வைப்பதே அவனது ஒரே திட்டம். இந்த திட்டத்தை நாம் பயன்படுத்திக் கொள்ள வேண்டும்."
+  },
+  {
+    "Id": "M6_CUT_10",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison and his men are setting up on the exit road.",
+    "Tamil": "ANYA: ஹாரிசனும் அவனது ஆட்களும் வெளியேறும் சாலையில் தயார் நிலையில் உள்ளனர்."
+  },
+  {
+    "Id": "M6_CUT_11",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.",
+    "Tamil": "ANYA: நீங்கள் தளத்திற்குள் நுழைந்து பெரிய குழப்பத்தை ஏற்படுத்த வேண்டும். ப்ரிபோய் பயந்து ஓடுவான். ஹாரிசன் காரை தடுத்து நிறுத்தி ப்ரிபோயை பிடிப்பான். ஹாரிசனிடம் ஹெலிகாப்டர் உள்ளது."
+  },
+  {
+    "Id": "M6_CUT_12",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.",
+    "Tamil": "ANYA: பணியின் நிபந்தனைகள் இதோ; தளத்திற்குள் நுழையுங்கள் - ஆச்சரியப்படுத்தும் தன்மையை நீங்கள் பராமரிக்க வேண்டும், அது முக்கியமானது."
+  },
+  {
+    "Id": "M6_CUT_13",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives",
+    "Tamil": "ANYA: கிடங்கிலிருந்து வெடிபொருட்களை எடுங்கள்; கவனத்தை திசைதிருப்ப இவை தேவைப்படும். பின்னர் எரிபொருள் கிடங்குக்குச் சென்று வெடிக்க வைத்து திசைதிருப்புங்கள்."
+  },
+  {
+    "Id": "M6_CUT_14",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.",
+    "Tamil": "ANYA: ப்ரிபோய் மிரண்ட முயல் போல் ஓடுவான். ஹாரிசன் அவனைப் பிடித்துவிடுவான்."
+  },
+  {
+    "Id": "M7_CUT_01",
+    "Mission": "Mission 7",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up?",
+    "Tamil": "ANYA: நீங்கள் விரைவில் திரும்பி விடுவீர்கள் ஜோன்ஸ். தொடர்ந்து செல்லுங்கள். நான் விசாரணை அறைகளை தயார் செய்கிறேன். ப்ரிபோய் எப்படி இருக்கிறான்?"
+  },
+  {
+    "Id": "M7_CUT_02",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.",
+    "Tamil": "JONES: கவலைப்படாதீர்கள் - அவன் நலமாக இருக்கிறான் <ப்ரிபோய் முனங்குகிறான்> அவன் பேசுவான்."
+  },
+  {
+    "Id": "M7_CUT_03",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.",
+    "Tamil": "EKK: இது ரஷ்ய வான் கட்டுப்பாட்டு மையம் - நீங்கள் நாட்டின் வான் எல்லைக்குள் நுழைகிறீர்கள், உடனடியாக 0 9 9 திசையில் திருப்புங்கள், மீண்டும் சொல்கிறேன் 0 9 9."
+  },
+  {
+    "Id": "M7_CUT_04",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: You have thirty seconds to comply, Jones",
+    "Tamil": "EKK: பணியை ஏற்க உங்களுக்கு முப்பது வினாடிகள் உள்ளன, ஜோன்ஸ்."
+  },
+  {
+    "Id": "M7_CUT_05",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: That's her!",
+    "Tamil": "PRIBOI: அது அவள் தான்!"
+  },
+  {
+    "Id": "M7_CUT_06",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Who?",
+    "Tamil": "JONES: யார்?"
+  },
+  {
+    "Id": "M7_CUT_07",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Just do what she says, she loco, crazy.",
+    "Tamil": "PRIBOI: அவள் சொல்வதைச் செய், அவள் ஒரு பைத்தியக்காரி."
+  },
+  {
+    "Id": "M7_CUT_08",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Lock missiles. Fire when ready.",
+    "Tamil": "EKK: ஏவுகணைகளை குறிவையுங்கள். தயார் ஆனதும் சுடுங்கள்."
+  },
+  {
+    "Id": "M7_CUT_09",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Command acknowledged.",
+    "Tamil": "RUSSIAN PILOT: கட்டளை ஏற்கப்பட்டது."
+  },
+  {
+    "Id": "M7_CUT_10",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away.",
+    "Tamil": "RUSSIAN PILOT: ஏவுகணைகள் பாய்ந்தன."
+  },
+  {
+    "Id": "M7_CUT_11",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Too late!",
+    "Tamil": "PRIBOI: மிகவும் தாமதமாகிவிட்டது!"
+  },
+  {
+    "Id": "M7_CUT_12",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!",
+    "Tamil": "JONES: அன்யா, நம் மீது தாக்குதல் நடந்துள்ளது, மேடே, மேடே, கீழே விழுகிறோம், மோதப்போகிறோம்!"
+  },
+  {
+    "Id": "M7_CUT_13",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.",
+    "Tamil": "EKK: ப்ரிபோயைக் கண்டுபிடியுங்கள். உயிருடன் இருந்தால் என்னிடம் கொண்டு வாருங்கள்; இல்லையெனில் சடலத்தை விபத்து நடந்த இடத்திலேயே எரித்துவிடுங்கள்."
+  },
+  {
+    "Id": "M7_CUT_14",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN SOLDIER",
+    "English": "RUSSIAN SOLDIER: And the English soldier?",
+    "Tamil": "RUSSIAN SOLDIER: ஆங்கிலேய சிப்பாய் பற்றி?"
+  },
+  {
+    "Id": "M7_CUT_15",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Kill him!, his road finishes here",
+    "Tamil": "EKK: அவனைக் கொல்லுங்கள்!, அவனது பயணம் இத்துடன் முடிகிறது."
+  },
+  {
+    "Id": "M8_CUT_01",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: David - are you okay?",
+    "Tamil": "ANYA: டேவிட் - நலமாக இருக்கிறீர்களா?"
+  },
+  {
+    "Id": "M8_CUT_02",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. It's bloody cold Anya!",
+    "Tamil": "JONES: ஆம். இங்கே கொடூரமான குளிர் அன்யா!"
+  },
+  {
+    "Id": "M8_CUT_03",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.",
+    "Tamil": "ANYA: எனக்குத் தெரியும். உங்கள் இருப்பிடத்தையும் வரைபட கணினியையும் நான் கண்டுபிடித்துவிட்டேன். அபாய சமிக்ஞை செயல்படத் தொடங்கிவிட்டது."
+  },
+  {
+    "Id": "M8_CUT_04",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...",
+    "Tamil": "ANYA: கேளுங்கள் - நீங்கள் விரைவு அதிரடிப் படையின் முன் தளத்தில் இருக்கிறீர்கள் - அதாவது..."
+  },
+  {
+    "Id": "M8_CUT_05",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.",
+    "Tamil": "JONES: இயந்திரமயமாக்கப்பட்ட காலாட்படை, கவச வாகனங்கள், வான் ஆதரவு - நான் இன்னும் அவ்வளவு மறக்கவில்லை."
+  },
+  {
+    "Id": "M8_CUT_06",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.",
+    "Tamil": "ANYA: மன்னிக்கவும். டிரக் காலாட்படை முகாமிற்கு அருகில் உள்ளது. வரைபட கணினி சுமார் 1 கி.மீ தொலைவில் உள்ள பழுதுபார்க்கும் யார்டில் உள்ள ஒரு வெடிமருந்து பதுங்கு குழியிலிருந்து சமிக்ஞை அனுப்புகிறது."
+  },
+  {
+    "Id": "M8_CUT_07",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.",
+    "Tamil": "ANYA: உங்கள் உத்தரவுகள் இதோ. அங்கிருந்து வெளியேறி பழுதுபார்க்கும் யார்டைக் கண்டுபிடியுங்கள் டேவிட். பட்டறைக்குச் சென்று வரைபட கணினியை மீட்டெடுங்கள். நான் தப்பிக்கும் வழியை தயார் செய்துவிட்டேன். புறப்படுங்கள் சிப்பாய்."
+  },
+  {
+    "Id": "M9_CUT_01",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?",
+    "Tamil": "ANYA: ஜோன்ஸ் - நான் இதை ஆழமாக யோசித்து வருகிறேன். ப்ரிபோய் ரயிலில் எங்கே கொண்டு செல்லப்படுகிறான்? யாரிடம்?"
+  },
+  {
+    "Id": "M9_CUT_02",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Hmm, my money is on the voice that got me shot down.",
+    "Tamil": "JONES: ம்ம், என் மீது துப்பாக்கிச் சூடு நடத்த உத்தரவிட்ட அந்தக் குரலின் மீதுதான் எனக்கு சந்தேகம்."
+  },
+  {
+    "Id": "M9_CUT_03",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?",
+    "Tamil": "ANYA: ஏற்றுக்கொள்கிறேன். ஆனால் ப்ரிபோய் ரயிலிலா?!?. ஒருவரைக் கொண்டு செல்ல இது விசித்திரமான வழி அல்லவா?"
+  },
+  {
+    "Id": "M9_CUT_04",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?",
+    "Tamil": "JONES: ஆம். ப்ரிபோய் அவ்வளவு முக்கியமானவன் என்றால், ஏன் விமானம் அல்லது ராணுவ வாகன அணிவகுப்பைப் பயன்படுத்தவில்லை?"
+  },
+  {
+    "Id": "M9_CUT_05",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly! Our mystery caller isn't so powerful.",
+    "Tamil": "ANYA: சரியாகச் சொன்னீர்கள்! நமது மர்ம அழைப்பாளர் அவ்வளவு சக்தி வாய்ந்தவர் அல்ல."
+  },
+  {
+    "Id": "M9_CUT_06",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.",
+    "Tamil": "ANYA: நாம் ஒரு சிறிய குழுவை எதிர்கொள்கிறோம் என்று நான் நம்புகிறேன், ஒருவேளை துரோக ராணுவ அதிகாரிகள் அல்லது தீவிரவாதியாக இருக்கலாம்."
+  },
+  {
+    "Id": "M9_CUT_07",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?",
+    "Tamil": "ANYA: ஆனால் அவர்கள் அவசரத்தில் உள்ளனர்; ப்ரிபோயை விரைவாக பார்க்க வேண்டும். அவன் அவர்களுக்கு முக்கியம். ஏன்?"
+  },
+  {
+    "Id": "M9_CUT_08",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.",
+    "Tamil": "JONES: அவன் மட்டுமே தொடர்பு - நம்மிடம் இருந்து அவர்களுக்கு. நாம் எவ்வளவு பெரிய அச்சுறுத்தல் என்பதை அறிய விரும்புகிறார்கள். இல்லையெனில் ப்ரிபோய் ரயிலில் இருக்க மாட்டான், இந்நேரம் இறந்திருப்பான்."
+  },
+  {
+    "Id": "M9_CUT_09",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.",
+    "Tamil": "ANYA: ப்ரிபோயை நீங்கள் மீட்டெடுக்க வேண்டும், அவன் குற்றவாளியாக இருந்தாலும் இல்லாவிட்டாலும் - அவன் மட்டுமே நமக்கான தொடர்பு."
+  },
+  {
+    "Id": "M9_CUT_10",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.",
+    "Tamil": "ANYA: அவனது ரயில் இந்த ரயில் யார்டு வழியாக வரும். இது பழைய ஏவுகணைகளை சேமிக்கப் பயன்படுகிறது. ஜோன்ஸ், நீங்கள் அந்த ரயிலில் ஏற வேண்டும்."
+  },
+  {
+    "Id": "M9_CUT_11",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.",
+    "Tamil": "ANYA: உங்கள் இலக்குகள் இதோ. முதலில், ரயில் யார்டின் எல்லைக்குள் நுழையுங்கள். ரயில் வரும்போது, அதில் ஏறுங்கள்."
+  },
+  {
+    "Id": "M9_CUT_12",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck",
+    "Tamil": "ANYA: எச்சரிக்கை மணி ஒலித்தால் ரயில் தளத்திற்குள் நுழையாது என்பதை நினைவில் கொள்ளுங்கள், அந்த ஆபத்தை நாம் எடுக்க முடியாது. எச்சரிக்கை அலாரங்களை அணைத்துவிடுங்கள். செல்லுங்கள் டேவிட் - நல்வாழ்த்துக்கள்!"
+  },
+  {
+    "Id": "M10_CUT_01",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.",
+    "Tamil": "JONES: அன்யா, நான் ப்ரிபோயைக் கண்டுபிடித்துவிட்டேன்! ரயில் பாதுகாப்பாக உள்ளது. நான் இறுதியாக அடைந்துவிட்டேன்."
+  },
+  {
+    "Id": "M10_CUT_02",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: At last!",
+    "Tamil": "ANYA: ஒருவழியாக முடிந்தது!"
+  },
+  {
+    "Id": "M10_CUT_03",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional",
+    "Tamil": "PRIBOI: நீ அதிக நேரம் எடுத்துக்கொண்டாய். முதலில் என்னைக் கடத்தினாய், பின்னர் என்னை தவறவிட்டாய். நீ ஒரு தொழில்முறை நிபுணர் என்று நினைத்தேன்."
+  },
+  {
+    "Id": "M10_CUT_04",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - there's two planes approaching",
+    "Tamil": "ANYA: ஜோன்ஸ் - இரண்டு விமானங்கள் நெருங்கி வருகின்றன."
+  },
+  {
+    "Id": "M10_CUT_05",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train",
+    "Tamil": "RUSSIAN PILOT: விக்டர் த்ரீ முதல் தலைமை வரை, ரயில் எங்கள் பார்வைக்குத் தெரிகிறது."
+  },
+  {
+    "Id": "M10_CUT_06",
+    "Mission": "Mission 10",
+    "Speaker": "EKK",
+    "English": "EKK: Stop that train. Fire, fire!",
+    "Tamil": "EKK: அந்த ரயிலை நிறுத்துங்கள். சுடுங்கள், சுடுங்கள்!"
+  },
+  {
+    "Id": "M10_CUT_07",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away!",
+    "Tamil": "RUSSIAN PILOT: ஏவுகணைகள் ஏவப்பட்டன!"
+  },
+  {
+    "Id": "M10_CUT_08",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - hold on tight.",
+    "Tamil": "ANYA: ஜோன்ஸ் - கெட்டியாகப் பிடித்துக்கொள்ளுங்கள்."
+  },
+  {
+    "Id": "M10_CUT_09",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Arghhhhh!",
+    "Tamil": "JONES: ஆஆஆஆஆ!"
+  },
+  {
+    "Id": "M10_CUT_10",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Arghhhhh!",
+    "Tamil": "PRIBOI: ஆஆஆஆஆ!"
+  },
+  {
+    "Id": "M11_CUT_01",
+    "Mission": "Mission 11",
+    "Speaker": "JONES",
+    "English": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?",
+    "Tamil": "JONES: நீங்கள் சொன்னபடி ஹெலிகாப்டர் குழுவைச் சந்தித்தேன், காலை 05:00 என்பது மிகவும் அதிகாலை. நாம் எங்கு செல்கிறோம்? நீங்கள் எதுவும் சொல்லவில்லை. குண்டு பற்றி என்ன? எக் பற்றி என்ன?"
+  },
+  {
+    "Id": "M11_CUT_02",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.",
+    "Tamil": "ANYA: எக் ஒரு பழைய கேஜிபி தளத்தை பயிற்சி முகாமாகப் பயன்படுத்தினாள், அங்குதான் அவள் குண்டைக் கொண்டு சென்றிருப்பாள். அவளது முகாம் ஒரு கோட்டையின் இடிபாடுகளில் உள்ளது. அது உங்கள் தற்போதைய இடத்திலிருந்து சுமார் 50 கி.மீ தூரத்தில் உள்ள பாறை மலையில் அமைந்துள்ளது."
+  },
+  {
+    "Id": "M11_CUT_03",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.",
+    "Tamil": "ANYA: கேபிள் கார் மூலமாக மட்டுமே செல்ல முடியும். ஹெலிகாப்டரில் நெருங்க முடியாது, ஏவுகணை மூலம் உங்களை எளிதாக வீழ்த்திவிடுவார்கள்."
+  },
+  {
+    "Id": "M11_CUT_04",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.",
+    "Tamil": "ANYA: கேபிள் காருக்கான வழி மலையின் அடிவாரத்தில் உள்ள ராணுவ பயிற்சி கோட்டையில் உள்ளது."
+  },
+  {
+    "Id": "M11_CUT_05",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.",
+    "Tamil": "ANYA: உங்களை சற்று தொலைவில் இறக்கிவிடுவோம். உங்களுக்காக ஆயுதங்கள் தயார் செய்யப்பட்டுள்ளன. ஹாரிசனின் ஆள் ஒருவர் அதை உங்களுக்காக வைத்துள்ளார்."
+  },
+  {
+    "Id": "M11_CUT_06",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.",
+    "Tamil": "ANYA: ஆயுதங்களை எடுத்துக்கொண்டு, பயிற்சி கோட்டைக்குச் சென்று, கேபிள் கார் மூலம் மலை உச்சிக்குச் செல்லுங்கள்."
+  },
+  {
+    "Id": "M11_CUT_07",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.",
+    "Tamil": "ANYA: டேவிட், என்னால் கோட்டையின் வரைபடங்களை அணுக முடிந்தது. மாஸ்கோவில் உள்ள என் ஆள் உதவினான். கேபிள் காருக்கு தனி மின்சாரம் உள்ளது. அது அணைக்கப்பட்டுள்ளது, நான் சரிபார்த்தேன். ஜெனரேட்டரைக் கண்டுபிடியுங்கள்."
+  },
+  {
+    "Id": "M12_CUT_01",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.",
+    "Tamil": "ANYA: இந்த கோட்டை 1300 ஆம் ஆண்டிலிருந்து இங்குள்ளது - எக் கடந்த ஓராண்டாக இதைப் பயன்படுத்துகிறாள். முதலில் கேஜிபி வசம் இருந்தது, 1990 இல் ராணுவத்திற்கு மாற்றப்பட்டது."
+  },
+  {
+    "Id": "M12_CUT_02",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.",
+    "Tamil": "ANYA: ராணுவத்திற்குப் பயனில்லை என்பதால் கைவிடப்பட்டது. உள்ளூர் தளபதிக்கு லஞ்சம் கொடுத்து எக் இதைத் தன் கட்டுப்பாட்டில் வைத்திருந்தாள்."
+  },
+  {
+    "Id": "M12_CUT_03",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.",
+    "Tamil": "ANYA: செயற்கைக்கோள் படங்கள் இடிபாடுகளிடையே புதிய கட்டுமானங்களைக் காட்டுகின்றன. முழுமையான தகவல் என்னிடம் இல்லை."
+  },
+  {
+    "Id": "M12_CUT_04",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.",
+    "Tamil": "ANYA: சுமார் 30 வீரர்கள், சில பயிற்சி பகுதிகள் உள்ளன, பெரிய கனரக ஆயுதங்கள் இல்லை."
+  },
+  {
+    "Id": "M12_CUT_05",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: There is at least one chopper, expect a gunship.",
+    "Tamil": "ANYA: குறைந்தது ஒரு ஹெலிகாப்டர் உள்ளது, தாக்குதல் ஹெலிகாப்டரை எதிர்பார்க்கலாம்."
+  },
+  {
+    "Id": "M12_CUT_06",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.",
+    "Tamil": "ANYA: சுருக்கமாக, தளத்திற்குள் நுழையுங்கள். குண்டைக் கண்டுபிடியுங்கள். எக்கை சிறைபிடியுங்கள்; முடியாவிட்டால், அவளைக் கொல்வது அதிகாரிகளை திருப்திப்படுத்தும்."
+  },
+  {
+    "Id": "M12_CUT_07",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.",
+    "Tamil": "ANYA: பின்னர் பகுதியை பாதுகாப்பாக்குங்கள், உங்களையும் குண்டையும் நாங்கள் வெளியேற்றுவோம். டேவிட், கவனமாக இருங்கள்."
+  },
+  {
+    "Id": "M12_CUT_08",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.",
+    "Tamil": "ANYA: நாம் இலக்கை நெருங்கிவிட்டோம்; எதுவும் தவறாக நடக்கக்கூடாது. தயவுசெய்து அவசரப்பட்டு தவறு செய்யாதீர்கள்."
+  },
+  {
+    "Id": "M12_CUT_09",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: Anya what happens now to Priboi?",
+    "Tamil": "JONES: அன்யா, இப்போது ப்ரிபோய்க்கு என்ன நடக்கும்?"
+  },
+  {
+    "Id": "M12_CUT_10",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's, he's, that's classified.",
+    "Tamil": "ANYA: அவன்... அது ரகசியமானது."
+  },
+  {
+    "Id": "M12_CUT_11",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Don't play around Anya, please don't.",
+    "Tamil": "JONES: என்ன? விளையாடாதீர்கள் அன்யா, தயவுசெய்து."
+  },
+  {
+    "Id": "M12_CUT_12",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's on the payroll.",
+    "Tamil": "ANYA: அவன் இப்போது நமது சம்பளப் பட்டியலில் இருக்கிறான் (ஒற்றன்)."
+  },
+  {
+    "Id": "M12_CUT_13",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Cheeky bastard!",
+    "Tamil": "JONES: என்ன? தந்திரக்கார அயோக்கியன்!"
+  },
+  {
+    "Id": "M12_CUT_14",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.",
+    "Tamil": "ANYA: அப்பாவியாக இருக்காதீர்கள் ஜோன்ஸ் - அவன் ஒரு வியாபாரி, தகவல்களை விற்கிறான், நாம் வாங்குகிறோம். மேலும் ஜாக் ப்ரிபோயை இப்போது நாம் தீவிரமாகக் கண்காணிக்கிறோம்."
+  },
+  {
+    "Id": "M13_CUT_01",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.",
+    "Tamil": "ANYA: இது பனிப்போர் காலத்தில் ஒரு முக்கிய புளூட்டோனியம் சுத்திகரிப்பு ஆலையாக இருந்தது. இப்போது ஆயுத ஆராய்ச்சிக்கு பயன்படுகிறது - எக்கிற்கும் இதற்கும் தொடர்பு உள்ளது!"
+  },
+  {
+    "Id": "M13_CUT_02",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: The plant still houses a functional nuclear reactor.",
+    "Tamil": "ANYA: இந்த ஆலையில் இன்னும் செயல்படும் அணு உலை உள்ளது."
+  },
+  {
+    "Id": "M13_CUT_03",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.",
+    "Tamil": "ANYA: எக் இந்த இடத்தை தன் கட்டுப்பாட்டில் எடுத்துக்கொண்டாள். வீரர்கள் நடமாடுவதை பார்த்தோம் - அவர்கள் சீருடைகள் வித்தியாசமாக உள்ளன. அங்கே பாருங்கள் - துப்பாக்கிச் சூடு நடந்துள்ளது."
+  },
+  {
+    "Id": "M13_CUT_04",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.",
+    "Tamil": "ANYA: உங்களை எல்லைக்கு அருகில் இறக்கிவிடுவோம்; தகவல் தொடர்பு முனையத்தை சுற்றியுள்ள பகுதியை நீங்கள் கைப்பற்ற வேண்டும்."
+  },
+  {
+    "Id": "M13_CUT_05",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison, four of men and myself will then come in to land by chopper.",
+    "Tamil": "ANYA: பின்னர் ஹாரிசன், நான்கு வீரர்கள் மற்றும் நான் ஹெலிகாப்டரில் வருவோம்."
+  },
+  {
+    "Id": "M13_CUT_06",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'm heading out to meet you now.",
+    "Tamil": "ANYA: நான் இப்போது உங்களை சந்திக்க வருகிறேன்."
+  },
+  {
+    "Id": "M13_CUT_07",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done",
+    "Tamil": "ANYA: தகவல் தொடர்பு முனையம் பாதுகாப்பானதும், ஆலையின் கணினி நெட்வொர்க்கை அணுகலாம் - அவள் என்ன செய்திருக்கிறாள் என்பதை நான் கண்டுபிடிப்பேன்."
+  },
+  {
+    "Id": "M13_CUT_08",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Area's clear.",
+    "Tamil": "JONES: பகுதி பாதுகாப்பாக உள்ளது."
+  },
+  {
+    "Id": "M13_CUT_09",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We're going in.",
+    "Tamil": "ANYA: நாங்கள் உள்ளே வருகிறோம்."
+  },
+  {
+    "Id": "M13_CUT_10",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.",
+    "Tamil": "JONES: தரைக்கு மேல் இருந்த எக்கின் பெரும்பாலான ஆட்களை அழித்துவிட்டேன், சிலர் எலிகளைப் போல பதுங்கியிருக்கலாம். அன்யா? ஹாரிசன்? நாம் நிலத்தடிக்கு செல்ல வேண்டும்; தகவல் தேவை."
+  },
+  {
+    "Id": "M13_CUT_12",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'll access the networks; you'll have that Intel shortly.",
+    "Tamil": "ANYA: நான் நெட்வொர்க்கை அணுகுகிறேன்; தகவல் விரைவில் கிடைக்கும்."
+  },
+  {
+    "Id": "M13_CUT_13",
+    "Mission": "Mission 13",
+    "Speaker": "CAPT. HARRISON",
+    "English": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.",
+    "Tamil": "CAPT. HARRISON: லியோனார்ட், 5 பேரை அழைத்துக்கொண்டு பகுதி முழுவதையும் சோதனையிடுங்கள். சுட்டுக் கொல்லுங்கள். நகோச்சி, ஸ்கின்னர், ஜோன்ஸுடன் சென்று நிலத்தடி வழியைக் கண்டுபிடியுங்கள். வாரனும் நானும் அன்யாவுக்கு பாதுகாப்பு அளிப்போம்."
+  },
+  {
+    "Id": "M13_CUT_14",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Let's do it. IGI!",
+    "Tamil": "JONES: அதைச் செய்வோம். IGI!"
+  },
+  {
+    "Id": "M14_CUT_01",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.",
+    "Tamil": "ANYA: ஜோன்ஸ்! அந்த குண்டைக் கண்டுபிடிப்பதே முதல் கடமை. கண்டுபிடித்ததும், நான் வரும் வரை அப்பகுதியைப் பாதுகாக்குங்கள். அதை செயலிழக்கச் செய்யும் பொறுப்பை நான் ஏற்றுக்கொள்கிறேன்."
+  },
+  {
+    "Id": "M14_CUT_02",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: You will?",
+    "Tamil": "JONES: நீங்களா?"
+  },
+  {
+    "Id": "M14_CUT_03",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.",
+    "Tamil": "ANYA: டேவிட், நீங்கள் களத்தில் வல்லவராக இருக்கலாம், ஆனால் இதற்கு வெறும் கத்தியை விட கூடுதல் அறிவு தேவை. ஒரு பெண் எலக்ட்ரானிக்ஸ் மற்றும் அணு இயற்பியலில் மூன்று ஆண்டுகள் சும்மா படித்துக் கஷ்டப்படவில்லை."
+  },
+  {
+    "Id": "M14_CUT_04",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Heh! Fine!",
+    "Tamil": "JONES: ஹே! சரி!"
+  },
+  {
+    "Id": "M14_CUT_05",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: If you see Ekk,",
+    "Tamil": "ANYA: எக்கைப் பார்த்தால்,"
+  },
+  {
+    "Id": "M14_CUT_06",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry; I just need one clean shot.",
+    "Tamil": "JONES: கவலைப்படாதீர்கள்; எனக்கு ஒரே ஒரு துல்லியமான துப்பாக்கிச் சூடு போதும்."
+  },
+  {
+    "Id": "M14_CUT_07",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.",
+    "Tamil": "ANYA: பாதுகாப்பு பதிவுகள் எனக்குக் கிடைத்துள்ளன. எக் உள்ளே நுழைந்தது இப்படித்தான், வார இறுதி பணியாளர்கள் மாறும் வரை காத்திருந்து, அவளது ஆட்கள் பணியாளர்கள் போல் வேடமிட்டு உள்ளே வந்தனர்."
+  },
+  {
+    "Id": "M14_CUT_08",
+    "Mission": "Mission 14",
+    "Speaker": "NARRATOR",
+    "English": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.",
+    "Tamil": "அவர்கள் பாதுகாப்பு மற்றும் காற்றோட்ட அமைப்பைக் கைப்பற்றி, எதிர்ப்பாளர்களை சிறைபிடித்தனர் அல்லது விஷவாயு செலுத்தினர். எக்கின் அணுகலை நான் ரத்து செய்கிறேன், ஆனால் நேரம் எடுக்கும்."
+  },
+  {
+    "Id": "M14_CUT_09",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Um, Anya - anything else active?",
+    "Tamil": "JONES: ம், அன்யா - வேறு ஏதேனும் செயல்படுகிறதா?"
+  },
+  {
+    "Id": "M14_CUT_10",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.",
+    "Tamil": "ANYA: கடவுளே! மன்னிக்கவும் டேவிட், பாதுகாப்பு துப்பாக்கிகள் செயல்படுகின்றன - விரைவில் நிறுத்தப்படும். கவனமாக இருங்கள், அவளது ஆட்கள் எங்கு வேண்டுமானாலும் இருக்கலாம்."
+  },
+  {
+    "Id": "M14_CUT_11",
+    "Mission": "Mission 14",
+    "Speaker": "Remember",
+    "English": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.",
+    "Tamil": "நினைவில் கொள்க: - குண்டைக் கண்டுபிடியுங்கள்; நான் வரும் வரை பகுதியை பாதுகாக்குங்கள். எக்கைப் பார்த்தால் அவளைக் கொல்லுங்கள்."
+  },
+  {
+    "Id": "OUTRO_1",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: Are you...you're.. OK??",
+    "Tamil": "JONES: நீங்கள்... நீங்கள் நலமாக இருக்கிறீர்களா??"
+  },
+  {
+    "Id": "OUTRO_2",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: ...yeah",
+    "Tamil": "ANYA: ...ஆம்"
+  },
+  {
+    "Id": "OUTRO_3",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...",
+    "Tamil": "JONES: நாம் செய்ததற்கு அதிகாரப்பூர்வ அனுமதி எதுவும் இல்லை, இல்லையா?? இது ஒரு ரகசிய நடவடிக்கை (Black Op)..."
+  },
+  {
+    "Id": "OUTRO_4",
+    "Mission": "Outro Cutscene",
+    "Speaker": "LOUDSPEAKER",
+    "English": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!",
+    "Tamil": "LOUDSPEAKER: இது விரைவு அதிரடிப் படை டிராக்கா தைக்ரஸ். உடனடியாக சரணடையுங்கள்! ஆயுதம் ஏந்திய அனைவரும் எதிரிகளாகக் கருதப்பட்டு கண்டதும் சுடப்படுவார்கள்!"
+  },
+  {
+    "Id": "OUTRO_5",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.",
+    "Tamil": "ANYA: அடக்கடவுளே... FRV க்கும் நமக்கும் இடையில் நூற்றுக்கணக்கான வீரர்கள் இருக்க வேண்டும்."
+  },
+  {
+    "Id": "OUTRO_6",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: I'm going in!",
+    "Tamil": "JONES: நான் சண்டைக்குள் நுழைகிறேன்!"
+  }
+]

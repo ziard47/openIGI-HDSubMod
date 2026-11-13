@@ -1,7 +1,9 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Text.Json;
 using OpenIGI.Core.Configuration;
 using OpenIGI.Core.Graphics;
 using OpenIGI.Engine.Vfs;
@@ -22,6 +24,37 @@ using OpenIGI.UI.Text;
 
 namespace HDSubMod;
 
+public enum SubtitleLanguage
+{
+    English,
+    Sinhala,
+    Tamil,
+    Hindi,
+    Russian,
+    Spanish,
+    German
+}
+
+public static class ModSettingsExtensions
+{
+    public static EnumCVar<TEnum> Choice<TEnum>(
+        this ModSettings settings,
+        string name,
+        TEnum defaultValue,
+        string description) where TEnum : struct, Enum
+    {
+        var regField = typeof(ModSettings).GetField("_registry", BindingFlags.NonPublic | BindingFlags.Instance)!;
+        var registry = (CVarRegistry)regField.GetValue(settings)!;
+        string fullName = settings.NameOf(name);
+        if (registry.TryGet(fullName, out var existing) && existing is EnumCVar<TEnum> cvar)
+        {
+            return cvar;
+        }
+
+        return CVar.Choice(fullName, defaultValue, CVarOptions.Archive, description, registry);
+    }
+}
+
 public sealed class Mod : IOpenIgiMod
 {
     public void Configure(IModBuilder builder)
@@ -29,6 +62,10 @@ public sealed class Mod : IOpenIgiMod
         ArgumentNullException.ThrowIfNull(builder);
 
         BoolCVar enabled = builder.Settings.Bool("enabled", true, "Enable modern HD cutscene subtitles.");
+        EnumCVar<SubtitleLanguage> language = builder.Settings.Choice(
+            "language",
+            SubtitleLanguage.English,
+            "Subtitle language for cutscenes and briefings.");
 
         builder.Presenters(presenters =>
         {
@@ -39,7 +76,7 @@ public sealed class Mod : IOpenIgiMod
                 var original = (IHudPresenter)Activator.CreateInstance(ssType, request.Device, request.Logger)!;
                 var hdStatusRenderer = new StatusMessageRenderer(request.Device, request.Logger);
 
-                return new CustomHudPresenter(original, hdStatusRenderer, request.Device, enabled);
+                return new CustomHudPresenter(original, hdStatusRenderer, request.Device, enabled, language, builder.Directory);
             });
         });
     }
@@ -49,7 +86,10 @@ public sealed class Mod : IOpenIgiMod
 /// Wraps the HUD presenter:
 /// - Implements IHudIconSource to preserve full in-game HUD rendering (weapons, ammo, health, radar).
 /// - Forwards in-game messages directly to the native HUD so gameplay is 100% untouched.
-/// - Upgrades cutscene subtitles to modern HD TrueType typography, positioned cleanly in the bottom black letterbox, with speaker color highlights.
+/// - Upgrades cutscene subtitles to modern HD TrueType typography, positioned cleanly in the bottom black letterbox.
+/// - Full multi-language support (English, Sinhala, Tamil, Hindi, Russian, Spanish, German).
+/// - Dynamically bakes and loads dedicated Google Noto and Windows TrueType fonts with full native script glyphs.
+/// - Character speaker highlights (Anya, Jones, Priboi, Ekk, Harrison) with dynamic color themes.
 /// </summary>
 public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposable
 {
@@ -57,21 +97,32 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
     private readonly StatusMessageRenderer _statusRenderer;
     private readonly IGraphicsDevice _device;
     private readonly BoolCVar _enabled;
+    private readonly EnumCVar<SubtitleLanguage> _language;
+    private readonly string _modDirectory;
 
-    private UiFont? _font;
+    private UiFont? _defaultFont;
     private readonly FieldInfo? _bodyField;
+    private readonly Dictionary<SubtitleLanguage, UiFont> _languageFonts = new();
+    private readonly Dictionary<SubtitleLanguage, Dictionary<string, string>> _translations = new();
 
     public CustomHudPresenter(
         IHudPresenter inner,
         StatusMessageRenderer statusRenderer,
         IGraphicsDevice device,
-        BoolCVar enabled)
+        BoolCVar enabled,
+        EnumCVar<SubtitleLanguage> language,
+        string modDirectory)
     {
         _inner = inner;
         _statusRenderer = statusRenderer;
         _device = device;
         _enabled = enabled;
+        _language = language;
+        _modDirectory = modDirectory;
         _bodyField = typeof(StatusMessageRenderer).GetField("_body", BindingFlags.NonPublic | BindingFlags.Instance);
+
+        InitializeBuiltInTranslations();
+        LoadExternalTranslations();
     }
 
     public bool IsReady => _inner.IsReady && _statusRenderer.IsReady;
@@ -80,30 +131,161 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
     {
         bool ok = _inner.Load(fileSystem);
         _statusRenderer.Load();
-        EnsureFont();
+        EnsureDefaultFont();
         return ok;
     }
 
-    private void EnsureFont()
+    private void EnsureDefaultFont()
     {
-        if (_font != null) return;
+        if (_defaultFont != null) return;
 
         if (_bodyField != null)
         {
-            _font = (UiFont?)_bodyField.GetValue(_statusRenderer);
+            _defaultFont = (UiFont?)_bodyField.GetValue(_statusRenderer);
         }
 
-        if (_font == null && _device != null && UiFontLibrary.TypographyAvailable)
+        if (_defaultFont == null && _device != null && UiFontLibrary.TypographyAvailable)
         {
             try
             {
-                _font = UiFontLibrary.Typography(_device).Body;
+                _defaultFont = UiFontLibrary.Typography(_device).Body;
             }
             catch
             {
-                // Ignored - will fallback if unavailable
+                // Ignored - fallback will be used if unavailable
             }
         }
+    }
+
+    private UiFont GetFontForLanguage(SubtitleLanguage language)
+    {
+        EnsureDefaultFont();
+
+        if (language == SubtitleLanguage.English)
+        {
+            return _defaultFont!;
+        }
+
+        if (_languageFonts.TryGetValue(language, out var cached))
+        {
+            return cached;
+        }
+
+        try
+        {
+            byte[]? fontBytes = null;
+            string fontFileName = language switch
+            {
+                SubtitleLanguage.Sinhala => "NotoSansSinhala-Regular.ttf",
+                SubtitleLanguage.Tamil => "NotoSansTamil-Regular.ttf",
+                SubtitleLanguage.Hindi => "NotoSansDevanagari-Regular.ttf",
+                _ => ""
+            };
+
+            if (!string.IsNullOrEmpty(fontFileName))
+            {
+                string[] searchDirs = {
+                    Path.Combine(_modDirectory, "fonts"),
+                    Path.Combine(AppContext.BaseDirectory, "fonts"),
+                    Path.Combine(AppContext.BaseDirectory, "mod", "fonts"),
+                    Path.Combine(Directory.GetCurrentDirectory(), "Modding", "HDSubMod", "fonts")
+                };
+
+                foreach (var dir in searchDirs)
+                {
+                    string candidate = Path.Combine(dir, fontFileName);
+                    if (File.Exists(candidate))
+                    {
+                        fontBytes = File.ReadAllBytes(candidate);
+                        break;
+                    }
+                }
+            }
+            else if (language == SubtitleLanguage.Russian)
+            {
+                string[] winFonts = {
+                    @"C:\Windows\Fonts\segoeui.ttf",
+                    @"C:\Windows\Fonts\arial.ttf",
+                    @"C:\Windows\Fonts\tahoma.ttf"
+                };
+
+                foreach (var wf in winFonts)
+                {
+                    if (File.Exists(wf))
+                    {
+                        fontBytes = File.ReadAllBytes(wf);
+                        break;
+                    }
+                }
+            }
+
+            if (fontBytes != null && _device != null)
+            {
+                var codepoints = GetCodepointsForLanguage(language);
+                var atlas = FontAtlasBuilder.Build(
+                    fontBytes,
+                    28f,
+                    FontAtlasKind.Coverage,
+                    codepoints,
+                    1024,
+                    4,
+                    128);
+
+                var loaded = RhiFontExtensions.Upload(_device, atlas);
+                _languageFonts[language] = loaded;
+                return loaded;
+            }
+        }
+        catch
+        {
+            // Silently fallback if font atlas build fails
+        }
+
+        return _defaultFont!;
+    }
+
+    private static List<int> GetCodepointsForLanguage(SubtitleLanguage lang)
+    {
+        var set = new HashSet<int>();
+        // Standard printable ASCII (32..126)
+        for (int i = 32; i <= 126; i++) set.Add(i);
+
+        switch (lang)
+        {
+            case SubtitleLanguage.Russian:
+                for (int i = 0x0400; i <= 0x04FF; i++) set.Add(i); // Cyrillic
+                set.Add(0x0401); // Ё
+                set.Add(0x0451); // ё
+                break;
+
+            case SubtitleLanguage.Sinhala:
+                for (int i = 0x0D80; i <= 0x0DFF; i++) set.Add(i); // Sinhala Unicode block
+                set.Add(0x200B); // Zero Width Space
+                set.Add(0x200C); // Zero Width Non-Joiner
+                set.Add(0x200D); // Zero Width Joiner
+                break;
+
+            case SubtitleLanguage.Tamil:
+                for (int i = 0x0B80; i <= 0x0BFF; i++) set.Add(i); // Tamil Unicode block
+                set.Add(0x200B);
+                set.Add(0x200C);
+                set.Add(0x200D);
+                break;
+
+            case SubtitleLanguage.Hindi:
+                for (int i = 0x0900; i <= 0x097F; i++) set.Add(i); // Devanagari Unicode block
+                set.Add(0x200B);
+                set.Add(0x200C);
+                set.Add(0x200D);
+                break;
+
+            case SubtitleLanguage.Spanish:
+            case SubtitleLanguage.German:
+                for (int i = 160; i <= 383; i++) set.Add(i); // Latin-1 Supplement & Extended-A
+                break;
+        }
+
+        return set.OrderBy(x => x).ToList();
     }
 
     public void Tick() => _inner.Tick();
@@ -181,7 +363,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             _inner.DrawStatusMessages(batch, nonCutscenes, screenWidth, screenHeight, scale);
         }
 
-        // 2. Cutscenes: Render HD subtitles with speaker color theme positioned in bottom black letterbox
+        // 2. Cutscenes: Render HD subtitles with active language in the cinematic bottom letterbox
         var cutscenes = messages.Where(m => m.IsCutscene).ToList();
         if (cutscenes.Count > 0)
         {
@@ -195,10 +377,10 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
         int screenWidth,
         int screenHeight)
     {
-        EnsureFont();
+        var currentLang = _language.Value;
+        var font = GetFontForLanguage(currentLang);
 
-        // If HD vector font is not yet available, fallback to StatusMessageRenderer
-        if (_font == null)
+        if (font == null)
         {
             _statusRenderer.Draw(batch, cutsceneMessages, screenWidth, screenHeight, 0f);
             return;
@@ -216,7 +398,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
 
         float fontSize = context.Px(27f);
         float maxWidth = Math.Min(screenWidth * 0.75f, context.Px(1180f));
-        float lineHeight = _font.LineHeight(fontSize);
+        float lineHeight = font.LineHeight(fontSize);
 
         var shadowColor = new Bgra32(0, 0, 0, 230);
         var shadowOffset = new UiVec2(context.Px(1.5f), context.Px(1.5f));
@@ -229,18 +411,19 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 continue;
             }
 
-            string text = msg.Text;
+            // Translate text according to selected language
+            string rawText = msg.Text;
+            string text = Translate(rawText, currentLang);
+
             var (speaker, speakerColor) = ParseSpeaker(text);
 
-            // Wrap text according to maxWidth
-            string wrapped = _font.WrapText(text, fontSize, maxWidth);
+            string wrapped = font.WrapText(text, fontSize, maxWidth);
             string[] lines = wrapped.Split('\n');
             if (lines.Length == 0) continue;
 
             float totalHeight = lines.Length * lineHeight;
 
-            // Center subtitle vertically in the cinematic bottom letterbox bar:
-            // Standard letterbox occupies ~0.865f to 1.0f of screenHeight; center is at 0.932f.
+            // Center subtitle vertically in the cinematic bottom letterbox bar (~0.932f)
             float startY = (screenHeight * 0.932f) - (totalHeight * 0.5f);
 
             for (int i = 0; i < lines.Length; i++)
@@ -252,17 +435,16 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
 
                 if (i == 0 && speaker != null && line.StartsWith(speaker + ":", StringComparison.OrdinalIgnoreCase))
                 {
-                    // Line 0 contains the speaker prefix (e.g. "ANYA:")
-                    string prefix = line.Substring(0, speaker.Length + 1); // includes ":"
+                    string prefix = line.Substring(0, speaker.Length + 1);
                     string remainder = line.Substring(prefix.Length);
 
-                    float prefixWidth = _font.MeasureWidth(prefix.AsSpan(), fontSize);
-                    float lineWidth = _font.MeasureWidth(line.AsSpan(), fontSize);
+                    float prefixWidth = font.MeasureWidth(prefix.AsSpan(), fontSize);
+                    float lineWidth = font.MeasureWidth(line.AsSpan(), fontSize);
                     float startX = (screenWidth - lineWidth) * 0.5f;
 
                     // 1. Draw speaker prefix with character color & drop shadow
                     painter.DrawTextShadowed(
-                        _font,
+                        font,
                         prefix.AsSpan(),
                         new UiVec2(startX, currentY),
                         fontSize,
@@ -270,11 +452,11 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                         shadowColor,
                         shadowOffset);
 
-                    // 2. Draw dialog text with crisp white & drop shadow
+                    // 2. Draw dialog body in crisp white & drop shadow
                     if (!string.IsNullOrEmpty(remainder))
                     {
                         painter.DrawTextShadowed(
-                            _font,
+                            font,
                             remainder.AsSpan(),
                             new UiVec2(startX + prefixWidth, currentY),
                             fontSize,
@@ -285,12 +467,11 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 }
                 else
                 {
-                    // Subsequent lines: centered dialog text with crisp white & drop shadow
-                    float lineWidth = _font.MeasureWidth(line.AsSpan(), fontSize);
+                    float lineWidth = font.MeasureWidth(line.AsSpan(), fontSize);
                     float startX = (screenWidth - lineWidth) * 0.5f;
 
                     painter.DrawTextShadowed(
-                        _font,
+                        font,
                         line.AsSpan(),
                         new UiVec2(startX, currentY),
                         fontSize,
@@ -301,6 +482,168 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             }
         }
     }
+
+    #region Localization & Translation System
+
+    private string Translate(string englishText, SubtitleLanguage language)
+    {
+        if (language == SubtitleLanguage.English)
+        {
+            return englishText;
+        }
+
+        if (_translations.TryGetValue(language, out var dict))
+        {
+            if (dict.TryGetValue(englishText.Trim(), out var translated))
+            {
+                return translated;
+            }
+
+            int colonIdx = englishText.IndexOf(':');
+            if (colonIdx > 0 && colonIdx <= 25)
+            {
+                string speaker = englishText.Substring(0, colonIdx).Trim();
+                string body = englishText.Substring(colonIdx + 1).Trim();
+                if (dict.TryGetValue(body, out var translatedBody))
+                {
+                    return $"{speaker}: {translatedBody}";
+                }
+            }
+        }
+
+        return englishText;
+    }
+
+    private void InitializeBuiltInTranslations()
+    {
+        // Russian (Русский)
+        var ru = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: Отличная работа, что добрался так быстро. Это задание имеет высший приоритет. Цель: Йозеф Прибой. Ты должен найти его и доставить для допроса. Йозеф — наша единственная зацепка в деле о краже боеголовки.",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "Отличная работа, что добрался так быстро. Это задание имеет высший приоритет. Цель: Йозеф Прибой. Ты должен найти его и доставить для допроса. Йозеф — наша единственная зацепка в деле о краже боеголовки.",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: Проникни на базу и скачай коды безопасности с компьютера.",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: Я на позиции. Жду указаний."
+        };
+        _translations[SubtitleLanguage.Russian] = ru;
+
+        // Sinhala (සිංහල)
+        var si = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: මෙතරම් ඉක්මනින් මෙහි පැමිණීම අගය කරනවා. මෙම මෙහෙයුමට ඉහළම ප්‍රමුඛතාවය හිමිවේ. ඉලක්කය: ජෝසෙෆ් ප්‍රිබෝයි. ඔහුව සොයාගෙන ප්‍රශ්න කිරීම සඳහා රැගෙන ආ යුතුය. යුධ හිස පැහැර ගැනීම පිළිබඳ අපගේ එකම සම්බන්ධය ජෝසෙෆ්ය.",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "මෙතරම් ඉක්මනින් මෙහි පැමිණීම අගය කරනවා. මෙම මෙහෙයුමට ඉහළම ප්‍රමුඛතාවය හිමිවේ. ඉලක්කය: ජෝසෙෆ් ප්‍රිබෝයි. ඔහුව සොයාගෙන ප්‍රශ්න කිරීම සඳහා රැගෙන ආ යුතුය. යුධ හිස පැහැර ගැනීම පිළිබඳ අපගේ එකම සම්බන්ධය ජෝසෙෆ්ය.",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: කඳවුරට ඇතුළු වී පරිගණකයෙන් ආරක්ෂක කේත ලබා ගන්න.",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: මම ස්ථානගතව සිටිමි. නියෝග බලාපොරොත්තුවෙන්."
+        };
+        _translations[SubtitleLanguage.Sinhala] = si;
+
+        // Tamil (தமிழ்)
+        var ta = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: இவ்வளவு விரைவாக இங்கு வந்ததற்கு நன்று. இந்த பணிக்கு மிக உயர்ந்த முன்னுரிமை உள்ளது. இலக்கு: ஜோசப் ப்ரிபோய். நீங்கள் அவரைக் கண்டுபிடித்து விசாரணைக்கு அழைத்து வர வேண்டும். போர்த்தளவாட கடத்தலில் ஜோசப் மட்டுமே நமது ஒரே தொடர்பு.",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "இவ்வளவு விரைவாக இங்கு வந்ததற்கு நன்று. இந்த பணிக்கு மிக உயர்ந்த முன்னுரிமை உள்ளது. இலக்கு: ஜோசப் ப்ரிபோய். நீங்கள் அவரைக் கண்டுபிடித்து விசாரணைக்கு அழைத்து வர வேண்டும். போர்த்தளவாட கடத்தலில் ஜோசப் மட்டுமே நமது ஒரே தொடர்பு.",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: தளத்திற்குள் நுழைந்து கணினியிலிருந்து பாதுகாப்பு குறியீடுகளைப் பதிவிறக்கவும்.",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: நான் சரியான நிலையில் உள்ளேன். உத்தரவுகளுக்காக காத்திருக்கிறேன்."
+        };
+        _translations[SubtitleLanguage.Tamil] = ta;
+
+        // Hindi (हिन्दी)
+        var hi = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: इतनी जल्दी यहाँ पहुँचने के लिए बहुत अच्छा काम। इस मिशन को सर्वोच्च प्राथमिकता दी गई है। लक्ष्य: जोसेफ प्रिबोई। आपको उसे ढूँढना है और पूछताछ के लिए बाहर लाना है। वॉरहेड की चोरी में जोसेफ ही हमारी एकमात्र कड़ी है।",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "इतनी जल्दी यहाँ पहुँचने के लिए बहुत अच्छा काम। इस मिशन को सर्वोच्च प्राथमिकता दी गई है। लक्ष्य: जोसेफ प्रिबोई। आपको उसे ढूँढना है और पूछताछ के लिए बाहर लाना है। वॉरहेड की चोरी में जोसेफ ही हमारी एकमात्र कड़ी है।",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: बेस में घुसपैठ करें और कंप्यूटर से सुरक्षा कोड डाउनलोड करें।",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: मैं अपनी स्थिति में हूँ। आदेशों की प्रतीक्षा कर रहा हूँ।"
+        };
+        _translations[SubtitleLanguage.Hindi] = hi;
+
+        // Spanish (Español)
+        var es = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: Buen trabajo llegando tan rápido. Esta misión tiene la máxima prioridad. Objetivo: Josef Priboi. Debes localizarlo y traerlo para interrogarlo. Josef es nuestro único vínculo con el robo de la ojiva.",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "Buen trabajo llegando tan rápido. Esta misión tiene la máxima prioridad. Objetivo: Josef Priboi. Debes localizarlo y traerlo para interrogarlo. Josef es nuestro único vínculo con el robo de la ojiva.",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: Infiltra la base y descarga los códigos de seguridad de la computadora.",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: Estoy en posición. Esperando órdenes."
+        };
+        _translations[SubtitleLanguage.Spanish] = es;
+
+        // German (Deutsch)
+        var de = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+        {
+            ["ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "ANYA: Gute Arbeit, dass Sie so schnell hier sind. Diese Mission hat höchste Priorität. Ziel: Josef Priboi. Sie müssen ihn lokalisieren und zum Verhör herbringen. Josef ist unsere einzige Verbindung zum Diebstahl des Sprengkopfs.",
+            ["Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead."] =
+                "Gute Arbeit, dass Sie so schnell hier sind. Diese Mission hat höchste Priorität. Ziel: Josef Priboi. Sie müssen ihn lokalisieren und zum Verhör herbringen. Josef ist unsere einzige Verbindung zum Diebstahl des Sprengkopfs.",
+            ["ANYA: Infiltrate the base and download the security codes from the computer."] =
+                "ANYA: Infiltrieren Sie die Basis und laden Sie die Sicherheitscodes vom Computer herunter.",
+            ["JONES: I'm in position. Awaiting orders."] =
+                "JONES: Ich bin in Position. Erwarte Befehle."
+        };
+        _translations[SubtitleLanguage.German] = de;
+    }
+
+    private void LoadExternalTranslations()
+    {
+        try
+        {
+            string translationsDir = Path.Combine(_modDirectory, "translations");
+            if (!Directory.Exists(translationsDir))
+            {
+                Directory.CreateDirectory(translationsDir);
+                return;
+            }
+
+            foreach (var lang in Enum.GetValues<SubtitleLanguage>())
+            {
+                if (lang == SubtitleLanguage.English) continue;
+
+                string filePath = Path.Combine(translationsDir, $"{lang.ToString().ToLowerInvariant()}.json");
+                if (File.Exists(filePath))
+                {
+                    string json = File.ReadAllText(filePath);
+                    var dict = JsonSerializer.Deserialize<Dictionary<string, string>>(json);
+                    if (dict != null)
+                    {
+                        if (!_translations.TryGetValue(lang, out var existing))
+                        {
+                            existing = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
+                            _translations[lang] = existing;
+                        }
+
+                        foreach (var kv in dict)
+                        {
+                            existing[kv.Key] = kv.Value;
+                        }
+                    }
+                }
+            }
+        }
+        catch
+        {
+            // Silently continue if external translation file IO fails
+        }
+    }
+
+    #endregion
 
     private static (string? speaker, Bgra32 color) ParseSpeaker(string text)
     {

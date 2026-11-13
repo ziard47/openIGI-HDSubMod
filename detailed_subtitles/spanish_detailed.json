@@ -1,0 +1,1234 @@
+[
+  {
+    "Id": "INTRO_0a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "NARRATOR",
+    "English": "Somewhere in Russia.",
+    "Spanish": "En algún lugar de Rusia."
+  },
+  {
+    "Id": "INTRO_1a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he talked yet?",
+    "Spanish": "PRIBOI: ¿Ha hablado ya?"
+  },
+  {
+    "Id": "INTRO_1b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Has he started talking yet?",
+    "Spanish": "PRIBOI: ¿Ha empezado a hablar ya?"
+  },
+  {
+    "Id": "INTRO_1c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Is he still not talking?",
+    "Spanish": "PRIBOI: ¿Todavía no habla?"
+  },
+  {
+    "Id": "INTRO_2a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No!",
+    "Spanish": "RUSSIAN GUARD: ¡No!"
+  },
+  {
+    "Id": "INTRO_2b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, boss",
+    "Spanish": "RUSSIAN GUARD: No, jefe."
+  },
+  {
+    "Id": "INTRO_2c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "RUSSIAN GUARD",
+    "English": "RUSSIAN GUARD: No, he's a tough one",
+    "Spanish": "RUSSIAN GUARD: No, es un tipo duro."
+  },
+  {
+    "Id": "INTRO_3a",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I'll make him talk...",
+    "Spanish": "PRIBOI: Yo haré que hable..."
+  },
+  {
+    "Id": "INTRO_3b",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Well, let's see about that",
+    "Spanish": "PRIBOI: Bueno, ya veremos eso."
+  },
+  {
+    "Id": "INTRO_3c",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: I think I have to pay him a little visit",
+    "Spanish": "PRIBOI: Creo que tendré que hacerle una pequeña visita."
+  },
+  {
+    "Id": "INTRO_3d",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Hmmm...Now let's do it my way",
+    "Spanish": "PRIBOI: Mmm... Ahora hagámoslo a mi manera."
+  },
+  {
+    "Id": "INTRO_3e",
+    "Mission": "Intro Cutscene",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Cover your ears - things are about to change",
+    "Spanish": "PRIBOI: Tápense los oídos: las cosas están a punto de cambiar."
+  },
+  {
+    "Id": "M1_CUT_01",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.",
+    "Spanish": "ANYA: Buen trabajo llegando tan rápido. Esta misión tiene máxima prioridad. Objetivo: Josef Priboi. Debes localizarlo y extraerlo para interrogarlo. Josef es nuestro único vínculo con el robo de la ojiva."
+  },
+  {
+    "Id": "M1_CUT_02",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah, yeah. I need to know one thing, where he is.",
+    "Spanish": "JONES: Sí, sí. Solo necesito saber una cosa: ¿dónde está?"
+  },
+  {
+    "Id": "M1_CUT_03",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.",
+    "Spanish": "ANYA: Josef está retenido en un aeródromo militar. Toda la zona cuenta con fuertes defensas antiaéreas. Tendremos que dejarte a cierta distancia del objetivo hasta desactivarlas."
+  },
+  {
+    "Id": "M1_CUT_04",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: What? Is transport waiting?",
+    "Spanish": "JONES: ¿Qué? ¿Hay transporte esperando?"
+  },
+  {
+    "Id": "M1_CUT_05",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll cover the ground using locally resourced transportation assets.",
+    "Spanish": "ANYA: Cubrirás la distancia utilizando medios de transporte que consigas sobre el terreno."
+  },
+  {
+    "Id": "M1_CUT_06",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: You mean I have to steal something?",
+    "Spanish": "JONES: ¿Quieres decir que tendré que robar algo?"
+  },
+  {
+    "Id": "M1_CUT_07",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:",
+    "Spanish": "ANYA: Exactamente. Irás a la siguiente estación de carga; allí conseguirás transporte. La operación es sencilla, consta de tres fases:"
+  },
+  {
+    "Id": "M1_CUT_08",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...",
+    "Spanish": "ANYA: Uno: conseguir transporte. Dos: desactivar defensas antiaéreas. Tres: encontrar a Josef Priboi y extraerlo a salvo para el interrogatorio. Incluso..."
+  },
+  {
+    "Id": "M1_CUT_09",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: ...even a grunt like me can follow it - I see",
+    "Spanish": "JONES: ...incluso un soldado de a pie como yo puede entenderlo. Ya veo."
+  },
+  {
+    "Id": "M1_CUT_10",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: That's the best we have.",
+    "Spanish": "ANYA: Es el mejor plan que tenemos."
+  },
+  {
+    "Id": "M1_CUT_11",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, just how did you track Josef down?",
+    "Spanish": "JONES: Anya, ¿cómo diste con Josef?"
+  },
+  {
+    "Id": "M1_CUT_12",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.",
+    "Spanish": "ANYA: Rastreamos una llamada de Josef hasta su apartamento. Los agentes locales hicieron una redada y encontraron fotos y su número de móvil."
+  },
+  {
+    "Id": "M1_CUT_13",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.",
+    "Spanish": "ANYA: Llamamos y triangulamos las coordenadas. El móvil está en un aeródromo militar: ahí es donde está Josef, nuestro objetivo principal."
+  },
+  {
+    "Id": "M1_CUT_14",
+    "Mission": "Mission 1",
+    "Speaker": "JONES",
+    "English": "JONES: Cunning - assuming he's there.",
+    "Spanish": "JONES: Astuto... suponiendo que realmente esté allí."
+  },
+  {
+    "Id": "M1_CUT_15",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.",
+    "Spanish": "ANYA: Atraviesa la estación de carga hasta el camión. Evita las cámaras a toda costa: si alertan a la seguridad, toda la base irá a por ti."
+  },
+  {
+    "Id": "M1_CUT_16",
+    "Mission": "Mission 1",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!",
+    "Spanish": "ANYA: Llega hasta el camión. Ese es tu objetivo. Alcánzalo y róbalo. Quiero que esta misión sea rápida y, sobre todo, silenciosa. ¡A trabajar, Jones!"
+  },
+  {
+    "Id": "M2_CUT_01",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: The next objective is to disable the local air defences.",
+    "Spanish": "ANYA: El siguiente objetivo es inutilizar las defensas antiaéreas locales."
+  },
+  {
+    "Id": "M2_CUT_02",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: Why not use the truck to evacuate Josef from the airfield?",
+    "Spanish": "JONES: ¿Por qué no usar el camión para evacuar a Josef del aeródromo?"
+  },
+  {
+    "Id": "M2_CUT_03",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.",
+    "Spanish": "ANYA: Demasiado lento, muy lento. Es un riesgo excesivo. Josef es nuestro único vínculo con el robo."
+  },
+  {
+    "Id": "M2_CUT_04",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.",
+    "Spanish": "ANYA: No solo sabía cómo se llevaron la ojiva, sabía dónde y cómo; demonios, ¡hasta recitó el maldito número de serie! Lo necesitamos vivo y entero."
+  },
+  {
+    "Id": "M2_CUT_05",
+    "Mission": "Mission 2",
+    "Speaker": "JONES",
+    "English": "JONES: What about me?",
+    "Spanish": "JONES: ¿Y qué hay de mí?"
+  },
+  {
+    "Id": "M2_CUT_06",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.",
+    "Spanish": "ANYA: Esto es lo que debes hacer: infíltrate de inmediato en la batería SAM. Encontrarás explosivos; colócalos en cada una de las lanzaderas."
+  },
+  {
+    "Id": "M2_CUT_07",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.",
+    "Spanish": "ANYA: Huye al punto de encuentro final y luego detona los explosivos."
+  },
+  {
+    "Id": "M2_CUT_08",
+    "Mission": "Mission 2",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.",
+    "Spanish": "ANYA: Una vez en el punto de encuentro, te recogeremos en helicóptero y volaremos directo a la base aérea."
+  },
+  {
+    "Id": "M3_CUT_01",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?",
+    "Spanish": "JONES: Otra operación exitosa en mi haber. Bien Anya, dime dónde está Josef y lo sacaré. ¿Novedades del equipo de apoyo?"
+  },
+  {
+    "Id": "M3_CUT_02",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.",
+    "Spanish": "ANYA: Seguro que no necesitas la ayuda de nadie. Tu apoyo acaba de aterrizar en la capital; van de camino mientras hablamos. Estarán contigo en unas tres horas."
+  },
+  {
+    "Id": "M3_CUT_03",
+    "Mission": "Mission 3",
+    "Speaker": "JONES",
+    "English": "JONES: Just in time to clear up!",
+    "Spanish": "JONES: ¡Justo a tiempo para limpiar los restos!"
+  },
+  {
+    "Id": "M3_CUT_04",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.",
+    "Spanish": "ANYA: Hemos abierto el corredor aéreo para la extracción de Josef. La misión ahora es encontrar a Josef Priboi y sacarlo para interrogarlo."
+  },
+  {
+    "Id": "M3_CUT_05",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: Your objectives are threefold;",
+    "Spanish": "ANYA: Tus objetivos son tres;"
+  },
+  {
+    "Id": "M3_CUT_06",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Infiltrate the installation without overly raising suspicion;",
+    "Spanish": "ANYA: 1) Infiltrarse en las instalaciones sin levantar sospechas;"
+  },
+  {
+    "Id": "M3_CUT_07",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;",
+    "Spanish": "ANYA: 2) Localizar y liberar a Josef Priboi. Nuestros agentes vigilaron 20 horas y obtuvieron estas grabaciones. Creo que está en este edificio, en el sótano;"
+  },
+  {
+    "Id": "M3_CUT_08",
+    "Mission": "Mission 3",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.",
+    "Spanish": "ANYA: 3) Con Josef bajo custodia, escoltarlo de vuelta al punto de encuentro para la extracción en helicóptero."
+  },
+  {
+    "Id": "M4_CUT_01",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.",
+    "Spanish": "ANYA: Jones, identificaste esta prisión como el destino de Josef. Un hombre con su descripción llegó aquí ayer."
+  },
+  {
+    "Id": "M4_CUT_02",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: The back-up is here now. Who's leading them? What's their role?",
+    "Spanish": "JONES: El apoyo ya está aquí. ¿Quién está al mando? ¿Cuál es su papel?"
+  },
+  {
+    "Id": "M4_CUT_03",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.",
+    "Spanish": "ANYA: El capitán Harrison está al mando; es un ex boina verde. Liderará el asalto; sus hombres entrarán y extraerán a Josef."
+  },
+  {
+    "Id": "M4_CUT_04",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: They lack as expert sniper. You are to provide cover as they go in.",
+    "Spanish": "ANYA: Les falta un francotirador experto. Tú les darás cobertura mientras entran."
+  },
+  {
+    "Id": "M4_CUT_05",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: All right! I get to play god then?",
+    "Spanish": "JONES: ¡De acuerdo! ¿Entonces me toca hacer de Dios?"
+  },
+  {
+    "Id": "M4_CUT_06",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.",
+    "Spanish": "ANYA: Supongo que ese será tu indicativo (GOD). El de Harrison será Moisés (Moses)."
+  },
+  {
+    "Id": "M4_CUT_07",
+    "Mission": "Mission 4",
+    "Speaker": "JONES",
+    "English": "JONES: Awesome.",
+    "Spanish": "JONES: Genial."
+  },
+  {
+    "Id": "M4_CUT_08",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, your objectives are as follows;",
+    "Spanish": "ANYA: Jones, tus objetivos son los siguientes;"
+  },
+  {
+    "Id": "M4_CUT_09",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.",
+    "Spanish": "ANYA: 1) Asegurar las ruinas en la colina sobre la prisión. Ofrecerán una excelente línea de tiro."
+  },
+  {
+    "Id": "M4_CUT_10",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 2) Provide cover for Harrison's men as they assault.",
+    "Spanish": "ANYA: 2) Proporcionar cobertura a los hombres de Harrison durante el asalto."
+  },
+  {
+    "Id": "M4_CUT_11",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.",
+    "Spanish": "ANYA: 3) Cuando aseguren a Josef, dar fuego de cobertura durante la retirada."
+  },
+  {
+    "Id": "M4_CUT_12",
+    "Mission": "Mission 4",
+    "Speaker": "ANYA",
+    "English": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.",
+    "Spanish": "ANYA: 4) Cuando Josef esté a salvo, Harrison te dará la señal para ir al punto de extracción."
+  },
+  {
+    "Id": "M5_CUT_01",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: How did Priboi's debrief go, Anya?",
+    "Spanish": "JONES: ¿Cómo fue el interrogatorio de Priboi, Anya?"
+  },
+  {
+    "Id": "M5_CUT_02",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.",
+    "Spanish": "ANYA: ¡Muy fácil! A Josef ya le habían dado una paliza, casi toda por parte de su tío Jach."
+  },
+  {
+    "Id": "M5_CUT_03",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.",
+    "Spanish": "ANYA: No sé por qué, pero Jach Priboi está aterrorizado. Esto es lo que sabemos: Jach controla el negocio."
+  },
+  {
+    "Id": "M5_CUT_04",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.",
+    "Spanish": "ANYA: Él organizó el robo de la ojiva. Cuando secuestraron a Josef, la ojiva aún estaba en poder de Jach; no se había entregado."
+  },
+  {
+    "Id": "M5_CUT_05",
+    "Mission": "Mission 5",
+    "Speaker": "JONES",
+    "English": "JONES: Yes! Another success for David Jones! IGI!",
+    "Spanish": "JONES: ¡Sí! ¡Otro éxito para David Jones! ¡IGI!"
+  },
+  {
+    "Id": "M5_CUT_06",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.",
+    "Spanish": "ANYA: Sí, tú solito. Bien hecho. Pues lidia con esto: Jach tiene más de 50 propiedades y almacenes. La ojiva podría estar en cualquiera."
+  },
+  {
+    "Id": "M5_CUT_07",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.",
+    "Spanish": "ANYA: Pero Jach usa varios canales de comunicación militar segura. Josef nos dio los códigos y he identificado el nodo clave."
+  },
+  {
+    "Id": "M5_CUT_08",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.",
+    "Spanish": "ANYA: Si accedo a la red, podré oír sus conversaciones privadas: todo lo que diga lo sabré, incluida la ubicación de la ojiva."
+  },
+  {
+    "Id": "M5_CUT_09",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.",
+    "Spanish": "ANYA: Entra en el nodo de comunicaciones. Dirígete a la cúpula: aloja los ordenadores centrales que enrutan el tráfico."
+  },
+  {
+    "Id": "M5_CUT_10",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.",
+    "Spanish": "ANYA: Una vez allí carga el virus; yo haré el resto. Ah, y procura escapar después."
+  },
+  {
+    "Id": "M5_CUT_11",
+    "Mission": "Mission 5",
+    "Speaker": "ANYA",
+    "English": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.",
+    "Spanish": "ANYA: El tiempo aguanta, nublado, esperamos nieve mañana. Por favor, intenta no meter la pata, Jones."
+  },
+  {
+    "Id": "M6_CUT_01",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You believe Priboi to be here?",
+    "Spanish": "JONES: ¿Crees que Priboi está aquí?"
+  },
+  {
+    "Id": "M6_CUT_02",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.",
+    "Spanish": "ANYA: Jones, lo sé. ¿El virus que cargaste? Funciona a las mil maravillas."
+  },
+  {
+    "Id": "M6_CUT_03",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: This is one of his more remote storage yards.",
+    "Spanish": "ANYA: Este es uno de sus depósitos más remotos."
+  },
+  {
+    "Id": "M6_CUT_04",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Get this - he's currently holding a goddamn arms sale.",
+    "Spanish": "ANYA: Escucha esto: ahora mismo está organizando una maldita venta de armas."
+  },
+  {
+    "Id": "M6_CUT_05",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.",
+    "Spanish": "JONES: Me estás metiendo en malas compañías. Mi madre me advirtió sobre mujeres como tú: me llevarían por el mal camino."
+  },
+  {
+    "Id": "M6_CUT_06",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: And what happened?",
+    "Spanish": "ANYA: ¿Y qué pasó?"
+  },
+  {
+    "Id": "M6_CUT_07",
+    "Mission": "Mission 6",
+    "Speaker": "JONES",
+    "English": "JONES: I mainly got led astray.",
+    "Spanish": "JONES: Básicamente, me dejé descarriar."
+  },
+  {
+    "Id": "M6_CUT_08",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.",
+    "Spanish": "ANYA: Típico. Escucha: Priboi hace todos los tratos desde su limusina blindada, cerca de las puertas."
+  },
+  {
+    "Id": "M6_CUT_09",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.",
+    "Spanish": "ANYA: Si algo sale mal, tiene un solo plan: huir a la carretera abierta y dejar a sus hombres luchando. Quiero aprovecharme de eso."
+  },
+  {
+    "Id": "M6_CUT_10",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison and his men are setting up on the exit road.",
+    "Spanish": "ANYA: Harrison y sus hombres están apostándose en la carretera de salida."
+  },
+  {
+    "Id": "M6_CUT_11",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.",
+    "Spanish": "ANYA: Entra y arma un escándalo tremendo. Priboi huirá a toda prisa, Harrison interceptará la limusina y lo capturará con su helicóptero."
+  },
+  {
+    "Id": "M6_CUT_12",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.",
+    "Spanish": "ANYA: Parámetros de la misión: entra en la base; el factor sorpresa es crucial."
+  },
+  {
+    "Id": "M6_CUT_13",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives",
+    "Spanish": "ANYA: Coge explosivos del almacén para crear una distracción. Luego ve al depósito de combustible y vuélalo."
+  },
+  {
+    "Id": "M6_CUT_14",
+    "Mission": "Mission 6",
+    "Speaker": "ANYA",
+    "English": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.",
+    "Spanish": "ANYA: Priboi saldrá disparado como un conejo asustado. Harrison lo atrapará."
+  },
+  {
+    "Id": "M7_CUT_01",
+    "Mission": "Mission 7",
+    "Speaker": "ANYA",
+    "English": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up?",
+    "Spanish": "ANYA: Volverás pronto, Jones. Sigue adelante. Preparo las salas de interrogatorio. ¿Cómo aguanta Priboi?"
+  },
+  {
+    "Id": "M7_CUT_02",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.",
+    "Spanish": "JONES: Tranquila, está bien <Priboi gruñe con disgusto> y hablará."
+  },
+  {
+    "Id": "M7_CUT_03",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.",
+    "Spanish": "EKK: Aquí control aéreo ruso. Están entrando en espacio aéreo soberano. Viren de inmediato al rumbo 0 9 9, repito 0 9 9."
+  },
+  {
+    "Id": "M7_CUT_04",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: You have thirty seconds to comply, Jones",
+    "Spanish": "EKK: Tiene treinta segundos para obedecer, Jones."
+  },
+  {
+    "Id": "M7_CUT_05",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: That's her!",
+    "Spanish": "PRIBOI: ¡Es ella!"
+  },
+  {
+    "Id": "M7_CUT_06",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Who?",
+    "Spanish": "JONES: ¿Quién?"
+  },
+  {
+    "Id": "M7_CUT_07",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Just do what she says, she loco, crazy.",
+    "Spanish": "PRIBOI: ¡Haz lo que dice, está loca de remate!"
+  },
+  {
+    "Id": "M7_CUT_08",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Lock missiles. Fire when ready.",
+    "Spanish": "EKK: Fijen misiles. Fuego cuando estén listos."
+  },
+  {
+    "Id": "M7_CUT_09",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Command acknowledged.",
+    "Spanish": "RUSSIAN PILOT: Orden confirmada."
+  },
+  {
+    "Id": "M7_CUT_10",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away.",
+    "Spanish": "RUSSIAN PILOT: ¡Misiles fuera!"
+  },
+  {
+    "Id": "M7_CUT_11",
+    "Mission": "Mission 7",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Too late!",
+    "Spanish": "PRIBOI: ¡Demasiado tarde!"
+  },
+  {
+    "Id": "M7_CUT_12",
+    "Mission": "Mission 7",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!",
+    "Spanish": "JONES: ¡Anya, nos han dado! ¡Mayday, mayday, caemos, nos estrellamos!"
+  },
+  {
+    "Id": "M7_CUT_13",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.",
+    "Spanish": "EKK: Encuentren a Priboi. Tráiganmelo si vive; si no, quemen el cuerpo en el lugar del siniestro."
+  },
+  {
+    "Id": "M7_CUT_14",
+    "Mission": "Mission 7",
+    "Speaker": "RUSSIAN SOLDIER",
+    "English": "RUSSIAN SOLDIER: And the English soldier?",
+    "Spanish": "RUSSIAN SOLDIER: ¿Y el soldado inglés?"
+  },
+  {
+    "Id": "M7_CUT_15",
+    "Mission": "Mission 7",
+    "Speaker": "EKK",
+    "English": "EKK: Kill him!, his road finishes here",
+    "Spanish": "EKK: ¡Mátenlo! Su camino termina aquí."
+  },
+  {
+    "Id": "M8_CUT_01",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: David - are you okay?",
+    "Spanish": "ANYA: David, ¿estás bien?"
+  },
+  {
+    "Id": "M8_CUT_02",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. It's bloody cold Anya!",
+    "Spanish": "JONES: Sí. ¡Hace un frío de mil demonios, Anya!"
+  },
+  {
+    "Id": "M8_CUT_03",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.",
+    "Spanish": "ANYA: Lo sé. Os tengo localizados a ti y al ordenador del mapa; se activó la baliza de socorro."
+  },
+  {
+    "Id": "M8_CUT_04",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...",
+    "Spanish": "ANYA: Escucha: estás en una base avanzada de fuerzas de reacción rápida. Eso significa..."
+  },
+  {
+    "Id": "M8_CUT_05",
+    "Mission": "Mission 8",
+    "Speaker": "JONES",
+    "English": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.",
+    "Spanish": "JONES: Infantería mecanizada, blindados de apoyo y cobertura aérea integrada. Aún me acuerdo."
+  },
+  {
+    "Id": "M8_CUT_06",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.",
+    "Spanish": "ANYA: Perdón. El camión está cerca del cuartel. El ordenador emite desde un búnker de munición en un taller a 1 km."
+  },
+  {
+    "Id": "M8_CUT_07",
+    "Mission": "Mission 8",
+    "Speaker": "ANYA",
+    "English": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.",
+    "Spanish": "ANYA: Estas son tus órdenes: sal de ahí, David, y busca el taller. Recupera el ordenador del mapa. La evacuación ya está lista. Muévete, soldado."
+  },
+  {
+    "Id": "M9_CUT_01",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?",
+    "Spanish": "ANYA: Jones, he estado reflexionando. Priboi en un tren... ¿hacia dónde? ¿Para quién?"
+  },
+  {
+    "Id": "M9_CUT_02",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Hmm, my money is on the voice that got me shot down.",
+    "Spanish": "JONES: Mmm, yo apostaría por la voz que ordenó derribarme."
+  },
+  {
+    "Id": "M9_CUT_03",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?",
+    "Spanish": "ANYA: De acuerdo. Pero, ¿en tren? ¿No es un método extraño para trasladar a alguien?"
+  },
+  {
+    "Id": "M9_CUT_04",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?",
+    "Spanish": "JONES: Sí. Si es tan importante, ¿por qué no transporte aéreo o un convoy blindado?"
+  },
+  {
+    "Id": "M9_CUT_05",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Exactly! Our mystery caller isn't so powerful.",
+    "Spanish": "ANYA: ¡Exacto! Quien nos llamó no tiene tanto poder."
+  },
+  {
+    "Id": "M9_CUT_06",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.",
+    "Spanish": "ANYA: Creo que es un grupo reducido: oficiales renegados o algún extremista político."
+  },
+  {
+    "Id": "M9_CUT_07",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?",
+    "Spanish": "ANYA: Tienen prisa, necesitan ver a Priboi ya. Es vital para ellos, pero ¿por qué?"
+  },
+  {
+    "Id": "M9_CUT_08",
+    "Mission": "Mission 9",
+    "Speaker": "JONES",
+    "English": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.",
+    "Spanish": "JONES: Es el único enlace entre ellos y nosotros. Quieren saber qué peligro representamos. Si no, Priboi estaría muerto."
+  },
+  {
+    "Id": "M9_CUT_09",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.",
+    "Spanish": "ANYA: Debes recuperar a Priboi; mafioso o no, es nuestra única conexión."
+  },
+  {
+    "Id": "M9_CUT_10",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.",
+    "Spanish": "ANYA: Su tren pasará por esta estación ferroviaria que almacena misiles retirados. Sube a ese tren."
+  },
+  {
+    "Id": "M9_CUT_11",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.",
+    "Spanish": "ANYA: Objetivos: penetra el perímetro y sube al tren en cuanto llegue."
+  },
+  {
+    "Id": "M9_CUT_12",
+    "Mission": "Mission 9",
+    "Speaker": "ANYA",
+    "English": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck",
+    "Spanish": "ANYA: Recuerda: si salta la alarma, el tren no entrará. No arriesgues, silencia las alarmas. ¡Suerte, David!"
+  },
+  {
+    "Id": "M10_CUT_01",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.",
+    "Spanish": "JONES: ¡Anya, encontré a Priboi! El tren está asegurado. Al fin llegué."
+  },
+  {
+    "Id": "M10_CUT_02",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: At last!",
+    "Spanish": "ANYA: ¡Por fin!"
+  },
+  {
+    "Id": "M10_CUT_03",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional",
+    "Spanish": "PRIBOI: Te tomaste tu tiempo. Primero me secuestras y luego me pierdes. ¡Creí que eras un profesional!"
+  },
+  {
+    "Id": "M10_CUT_04",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - there's two planes approaching",
+    "Spanish": "ANYA: ¡Jones, se aproximan dos aviones!"
+  },
+  {
+    "Id": "M10_CUT_05",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train",
+    "Spanish": "RUSSIAN PILOT: Víctor Tres a Mando: contacto visual con el tren."
+  },
+  {
+    "Id": "M10_CUT_06",
+    "Mission": "Mission 10",
+    "Speaker": "EKK",
+    "English": "EKK: Stop that train. Fire, fire!",
+    "Spanish": "EKK: ¡Detengan ese tren! ¡Fuego, fuego!"
+  },
+  {
+    "Id": "M10_CUT_07",
+    "Mission": "Mission 10",
+    "Speaker": "RUSSIAN PILOT",
+    "English": "RUSSIAN PILOT: Missiles away!",
+    "Spanish": "RUSSIAN PILOT: ¡Misiles disparados!"
+  },
+  {
+    "Id": "M10_CUT_08",
+    "Mission": "Mission 10",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones - hold on tight.",
+    "Spanish": "ANYA: ¡Jones, agárrate fuerte!"
+  },
+  {
+    "Id": "M10_CUT_09",
+    "Mission": "Mission 10",
+    "Speaker": "JONES",
+    "English": "JONES: Arghhhhh!",
+    "Spanish": "JONES: ¡Aaargh!"
+  },
+  {
+    "Id": "M10_CUT_10",
+    "Mission": "Mission 10",
+    "Speaker": "PRIBOI",
+    "English": "PRIBOI: Arghhhhh!",
+    "Spanish": "PRIBOI: ¡Aaargh!"
+  },
+  {
+    "Id": "M11_CUT_01",
+    "Mission": "Mission 11",
+    "Speaker": "JONES",
+    "English": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?",
+    "Spanish": "JONES: Me reuní con el piloto como pediste, a las 05:00, una hora intempestiva. ¿Adónde vamos? No me has dicho nada. ¿Qué hay de la bomba? ¿Y de Ekk?"
+  },
+  {
+    "Id": "M11_CUT_02",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.",
+    "Spanish": "ANYA: Ekk usó un viejo reducto del KGB como campamento de entrenamiento; ahí habrá llevado la bomba. Está en las ruinas de un castillo sobre un risco a 50 km de ti."
+  },
+  {
+    "Id": "M11_CUT_03",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.",
+    "Spanish": "ANYA: El acceso es solo por teleférico. No puedo arriesgar el helicóptero: un misil portátil os derribaría en segundos."
+  },
+  {
+    "Id": "M11_CUT_04",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.",
+    "Spanish": "ANYA: La estación del teleférico está en un fuerte militar al pie de la montaña."
+  },
+  {
+    "Id": "M11_CUT_05",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.",
+    "Spanish": "ANYA: Te dejaremos a cierta distancia. Un alijo de armas te espera; lo dejó un hombre de Harrison."
+  },
+  {
+    "Id": "M11_CUT_06",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.",
+    "Spanish": "ANYA: Recoge el alijo, ve al fuerte y sube en teleférico hasta la cima."
+  },
+  {
+    "Id": "M11_CUT_07",
+    "Mission": "Mission 11",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.",
+    "Spanish": "ANYA: David, conseguí los planos gracias a mi contacto en Moscú. El teleférico tiene generador propio y está apagado. Localízalo."
+  },
+  {
+    "Id": "M12_CUT_01",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.",
+    "Spanish": "ANYA: El castillo es del siglo XIV; Ekk lo usa desde hace un año. Perteneció al KGB y pasó al ejército en 1990."
+  },
+  {
+    "Id": "M12_CUT_02",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.",
+    "Spanish": "ANYA: El ejército no lo usaba y lo dejó pudrirse. Ekk sobornó al comandante local para que mirase a otro lado."
+  },
+  {
+    "Id": "M12_CUT_03",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.",
+    "Spanish": "ANYA: Las imágenes por satélite muestran obras entre las ruinas, pero carezco de datos concretos."
+  },
+  {
+    "Id": "M12_CUT_04",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.",
+    "Spanish": "ANYA: Hay unos 30 efectivos y zonas de tiro, nada de armamento muy pesado."
+  },
+  {
+    "Id": "M12_CUT_05",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: There is at least one chopper, expect a gunship.",
+    "Spanish": "ANYA: Hay al menos un helicóptero; cuenta con que sea de combate."
+  },
+  {
+    "Id": "M12_CUT_06",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.",
+    "Spanish": "ANYA: En resumen: entra, halla la bomba y captura a Ekk. Si no es posible, eliminarla satisfará al Estado Mayor."
+  },
+  {
+    "Id": "M12_CUT_07",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.",
+    "Spanish": "ANYA: Asegura la zona y os sacaremos a ti y a la bomba. David, ten cuidado."
+  },
+  {
+    "Id": "M12_CUT_08",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.",
+    "Spanish": "ANYA: Estamos tan cerca... no quiero que nada falle. Por favor, sin imprudencias."
+  },
+  {
+    "Id": "M12_CUT_09",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: Anya what happens now to Priboi?",
+    "Spanish": "JONES: Anya, ¿qué pasará ahora con Priboi?"
+  },
+  {
+    "Id": "M12_CUT_10",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's, he's, that's classified.",
+    "Spanish": "ANYA: Él... eso es confidencial."
+  },
+  {
+    "Id": "M12_CUT_11",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Don't play around Anya, please don't.",
+    "Spanish": "JONES: ¿Qué? No juegues conmigo, Anya."
+  },
+  {
+    "Id": "M12_CUT_12",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: He's on the payroll.",
+    "Spanish": "ANYA: Ahora está en nuestra nómina."
+  },
+  {
+    "Id": "M12_CUT_13",
+    "Mission": "Mission 12",
+    "Speaker": "JONES",
+    "English": "JONES: What? Cheeky bastard!",
+    "Spanish": "JONES: ¿Qué? ¡Menudo sinvergüenza!"
+  },
+  {
+    "Id": "M12_CUT_14",
+    "Mission": "Mission 12",
+    "Speaker": "ANYA",
+    "English": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.",
+    "Spanish": "ANYA: No seas ingenuo, Jones: es un hombre de negocios, vende información y nosotros la compramos. Además, ahora tenemos a Jach Priboi bien vigilado."
+  },
+  {
+    "Id": "M13_CUT_01",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.",
+    "Spanish": "ANYA: Fue una refinería de plutonio clave en la Guerra Fría. Ahora investiga armas y tecnología antimisiles: ¡ahí está el nexo con Ekk!"
+  },
+  {
+    "Id": "M13_CUT_02",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: The plant still houses a functional nuclear reactor.",
+    "Spanish": "ANYA: La planta aún alberga un reactor nuclear operativo."
+  },
+  {
+    "Id": "M13_CUT_03",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.",
+    "Spanish": "ANYA: Ekk ha tomado el control. Vimos patrullas con uniformes no reglamentarios y aquí hay signos de disparos recientes."
+  },
+  {
+    "Id": "M13_CUT_04",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.",
+    "Spanish": "ANYA: Te dejaremos junto al perímetro; asegura el recinto interior del puesto de mando."
+  },
+  {
+    "Id": "M13_CUT_05",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Harrison, four of men and myself will then come in to land by chopper.",
+    "Spanish": "ANYA: Harrison, cuatro hombres y yo aterrizaremos en helicóptero."
+  },
+  {
+    "Id": "M13_CUT_06",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'm heading out to meet you now.",
+    "Spanish": "ANYA: Salgo a tu encuentro."
+  },
+  {
+    "Id": "M13_CUT_07",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done",
+    "Spanish": "ANYA: Asegurado el puesto, accederemos a la red y averiguaré qué demonios ha hecho."
+  },
+  {
+    "Id": "M13_CUT_08",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Area's clear.",
+    "Spanish": "JONES: Zona despejada."
+  },
+  {
+    "Id": "M13_CUT_09",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: We're going in.",
+    "Spanish": "ANYA: Entramos."
+  },
+  {
+    "Id": "M13_CUT_10",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.",
+    "Spanish": "JONES: Eliminé a la mayoría en la superficie, pero quedarán ratas escondidas. ¿Anya? ¿Harrison? Hay que bajar al subsuelo, necesitamos datos."
+  },
+  {
+    "Id": "M13_CUT_12",
+    "Mission": "Mission 13",
+    "Speaker": "ANYA",
+    "English": "ANYA: I'll access the networks; you'll have that Intel shortly.",
+    "Spanish": "ANYA: Entro en el sistema; tendréis los datos en breve."
+  },
+  {
+    "Id": "M13_CUT_13",
+    "Mission": "Mission 13",
+    "Speaker": "CAPT. HARRISON",
+    "English": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.",
+    "Spanish": "CAPT. HARRISON: Leonard, 5 hombres y peinad la zona; disparad a matar. Nagochi, Skinner, id con Jones a buscar el acceso subterráneo. Warren y yo cubriremos a Anya."
+  },
+  {
+    "Id": "M13_CUT_14",
+    "Mission": "Mission 13",
+    "Speaker": "JONES",
+    "English": "JONES: Let's do it. IGI!",
+    "Spanish": "JONES: ¡Hagámoslo! ¡IGI!"
+  },
+  {
+    "Id": "M14_CUT_01",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.",
+    "Spanish": "ANYA: ¡Jones! Prioridad absoluta: hallar la bomba. Cuando la tengas, asegura la zona hasta que llegue; yo me encargaré de desactivarla."
+  },
+  {
+    "Id": "M14_CUT_02",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: You will?",
+    "Spanish": "JONES: ¿Tú?"
+  },
+  {
+    "Id": "M14_CUT_03",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.",
+    "Spanish": "ANYA: David, eres práctico, pero hace falta más que un cuchillo. Una no suda tres años estudiando electrónica y física nuclear para nada."
+  },
+  {
+    "Id": "M14_CUT_04",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Heh! Fine!",
+    "Spanish": "JONES: ¡Je! ¡De acuerdo!"
+  },
+  {
+    "Id": "M14_CUT_05",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: If you see Ekk,",
+    "Spanish": "ANYA: Si ves a Ekk..."
+  },
+  {
+    "Id": "M14_CUT_06",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Don't worry; I just need one clean shot.",
+    "Spanish": "JONES: Descuida, solo necesito un disparo certero."
+  },
+  {
+    "Id": "M14_CUT_07",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.",
+    "Spanish": "ANYA: He visto los registros: Ekk esperó al cambio de turno del fin de semana y sus hombres entraron disfrazados de operarios."
+  },
+  {
+    "Id": "M14_CUT_08",
+    "Mission": "Mission 14",
+    "Speaker": "NARRATOR",
+    "English": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.",
+    "Spanish": "Tomaron el control y la ventilación, asfixiando o encerrando a todos. Estoy anulando los accesos de Ekk, pero llevará tiempo."
+  },
+  {
+    "Id": "M14_CUT_09",
+    "Mission": "Mission 14",
+    "Speaker": "JONES",
+    "English": "JONES: Um, Anya - anything else active?",
+    "Spanish": "JONES: Mmm, Anya... ¿queda algo activo?"
+  },
+  {
+    "Id": "M14_CUT_10",
+    "Mission": "Mission 14",
+    "Speaker": "ANYA",
+    "English": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.",
+    "Spanish": "ANYA: ¡Dios! Perdona, David: las torretas automáticas están activas; caerán pronto. Cuidado, sus hombres pueden estar en cualquier parte."
+  },
+  {
+    "Id": "M14_CUT_11",
+    "Mission": "Mission 14",
+    "Speaker": "Remember",
+    "English": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.",
+    "Spanish": "Recuerda: encuentra la bomba, asegura el perímetro hasta mi llegada y mata a Ekk si la ves."
+  },
+  {
+    "Id": "OUTRO_1",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: Are you...you're.. OK??",
+    "Spanish": "JONES: ¿Estás... estás bien?"
+  },
+  {
+    "Id": "OUTRO_2",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: ...yeah",
+    "Spanish": "ANYA: ...sí."
+  },
+  {
+    "Id": "OUTRO_3",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...",
+    "Spanish": "JONES: No teníamos autorización para nada de esto, ¿verdad? Ha sido una auténtica operación encubierta..."
+  },
+  {
+    "Id": "OUTRO_4",
+    "Mission": "Outro Cutscene",
+    "Speaker": "LOUDSPEAKER",
+    "English": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!",
+    "Spanish": "LOUDSPEAKER: ¡Aquí las Fuerzas de Reacción Rápida Draka Tyegrus! ¡Ríndanse de inmediato! ¡Todo individuo armado será considerado hostil y abatido en el acto!"
+  },
+  {
+    "Id": "OUTRO_5",
+    "Mission": "Outro Cutscene",
+    "Speaker": "ANYA",
+    "English": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.",
+    "Spanish": "ANYA: Maldición... Debe de haber cientos de soldados entre el helicóptero y nosotros."
+  },
+  {
+    "Id": "OUTRO_6",
+    "Mission": "Outro Cutscene",
+    "Speaker": "JONES",
+    "English": "JONES: I'm going in!",
+    "Spanish": "JONES: ¡Voy a abrirme paso!"
+  }
+]
