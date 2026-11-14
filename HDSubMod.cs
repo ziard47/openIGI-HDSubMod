@@ -213,8 +213,8 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             string fontFileName = language switch
             {
                 SubtitleLanguage.Sinhala => "fm-abhaya.ttf",
-                SubtitleLanguage.Tamil => "GoogleSans-Tamil.ttf",
-                SubtitleLanguage.Hindi => "GoogleSans-Hindi.ttf",
+                SubtitleLanguage.Tamil => "bamini.ttf",
+                SubtitleLanguage.Hindi => "kruti-dev-010.ttf",
                 _ => "GoogleSans-Regular.ttf"
             };
 
@@ -284,17 +284,13 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 break;
 
             case SubtitleLanguage.Tamil:
-                for (int i = 0x0B80; i <= 0x0BFF; i++) set.Add(i); // Tamil Unicode block
-                set.Add(0x200B);
-                set.Add(0x200C);
-                set.Add(0x200D);
+                for (int i = 32; i <= 255; i++) set.Add(i); // Bamini font mapping (ASCII)
                 break;
 
             case SubtitleLanguage.Hindi:
-                for (int i = 0x0900; i <= 0x097F; i++) set.Add(i); // Devanagari Unicode block
-                set.Add(0x200B);
-                set.Add(0x200C);
-                set.Add(0x200D);
+                for (int i = 32; i <= 255; i++) set.Add(i); // Kruti Dev font mapping (ASCII + Extended Latin)
+                set.Add(8212); // —
+                set.Add(8218); // ‚
                 break;
 
             case SubtitleLanguage.Spanish:

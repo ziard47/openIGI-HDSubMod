@@ -48,8 +48,8 @@ It replaces the low-resolution retail bitmap cutscene font with crisp, modern Tr
   - Powered by **Google Sans** & authentic typography across all languages:
     - `GoogleSans-Regular.ttf` & `GoogleSans-Bold.ttf` for Latin & Cyrillic (English, Russian, Spanish, German).
     - `fm-abhaya.ttf` with pre-composed visual glyph encoding for Sinhala script, ensuring 100% accurate Kombuwa positioning, ligatures, and vowel signs without shaper artifacts.
-    - `GoogleSans-Tamil.ttf` for Tamil script + Google Sans Latin.
-    - `GoogleSans-Hindi.ttf` for Devanagari script + Google Sans Latin.
+    - `bamini.ttf` with standard visual glyph encoding for Tamil script, ensuring flawless pre-positioned kombu (`ெ`, `ே`, `ை`), pulli virama dots, and conjuncts.
+    - `kruti-dev-010.ttf` with classic typewriter encoding for Hindi (Devanagari) script, ensuring proper pre-base short 'i' matras (`ि`), half-letter conjuncts, and reph accents.
   - Dedicated multi-font speaker rendering guarantees that character names (`ANYA:`, `JONES:`, `PRIBOI:`) always render in clean Google Sans Latin with zero missing glyph boxes (`[][][][]`).
 - **⚙️ In-Game Mod Settings**:
   - Select your preferred subtitle language anytime via the OpenIGI Launcher (`Settings` → `Mods` → `HDSubMod`).
@@ -73,8 +73,8 @@ HDSubMod/
 │   ├── GoogleSans-Regular.ttf
 │   ├── GoogleSans-Bold.ttf
 │   ├── fm-abhaya.ttf
-│   ├── GoogleSans-Tamil.ttf
-│   └── GoogleSans-Hindi.ttf
+│   ├── bamini.ttf
+│   └── kruti-dev-010.ttf
 ├── translations/             # Runtime translation dictionaries
 │   ├── english.json
 │   ├── sinhala.json

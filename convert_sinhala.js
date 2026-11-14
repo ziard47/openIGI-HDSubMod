@@ -36,10 +36,13 @@ function convertSinhalaText(str) {
 const sinhalaPath = path.join(__dirname, 'translations', 'sinhala.json');
 const backupPath = path.join(__dirname, 'translations', 'sinhala_unicode_backup.json');
 
-const rawData = fs.readFileSync(sinhalaPath, 'utf8');
-fs.writeFileSync(backupPath, rawData, 'utf8');
+if (!fs.existsSync(backupPath)) {
+    const rawData = fs.readFileSync(sinhalaPath, 'utf8');
+    fs.writeFileSync(backupPath, rawData, 'utf8');
+}
 
-const json = JSON.parse(rawData);
+const sourceData = fs.readFileSync(backupPath, 'utf8');
+const json = JSON.parse(sourceData);
 const convertedJson = {};
 
 let totalEntries = 0;
