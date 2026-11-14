@@ -11,595 +11,595 @@
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Has he talked yet?",
-    "Sinhala": "PRIBOI: ඔහු තවම කතා කළාද?"
+    "Sinhala": "PRIBOI: මූ තවම කට ඇරියේ නැද්ද?"
   },
   {
     "Id": "INTRO_1b",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Has he started talking yet?",
-    "Sinhala": "PRIBOI: ඔහු තවම කතා කරන්න පටන් ගත්තෙ නැද්ද?"
+    "Sinhala": "PRIBOI: මූ තවම කතා කරන්න පටන් ගත්තෙ නැද්ද?"
   },
   {
     "Id": "INTRO_1c",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Is he still not talking?",
-    "Sinhala": "PRIBOI: ඔහු තවමත් කතා කරන්නේ නැද්ද?"
+    "Sinhala": "PRIBOI: මූ තවමත් මුකුත් කියන්නෙ නැද්ද?"
   },
   {
     "Id": "INTRO_2a",
     "Mission": "Intro Cutscene",
     "Speaker": "RUSSIAN GUARD",
     "English": "RUSSIAN GUARD: No!",
-    "Sinhala": "RUSSIAN GUARD: නැහැ!"
+    "Sinhala": "RUSSIAN GUARD: නෑ!"
   },
   {
     "Id": "INTRO_2b",
     "Mission": "Intro Cutscene",
     "Speaker": "RUSSIAN GUARD",
     "English": "RUSSIAN GUARD: No, boss",
-    "Sinhala": "RUSSIAN GUARD: නැහැ බොස්."
+    "Sinhala": "RUSSIAN GUARD: නෑ බොස්."
   },
   {
     "Id": "INTRO_2c",
     "Mission": "Intro Cutscene",
     "Speaker": "RUSSIAN GUARD",
     "English": "RUSSIAN GUARD: No, he's a tough one",
-    "Sinhala": "RUSSIAN GUARD: නැහැ, ඔහු ලේසි කෙනෙක් නෙවෙයි."
+    "Sinhala": "RUSSIAN GUARD: නෑ, මූ ලේසි එකෙක් නෙවෙයි."
   },
   {
     "Id": "INTRO_3a",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: I'll make him talk...",
-    "Sinhala": "PRIBOI: මම ඔහුගෙන් කතා කරවන්නම්..."
+    "Sinhala": "PRIBOI: මම මූට කතා කරන්න සලස්වන්නම්..."
   },
   {
     "Id": "INTRO_3b",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Well, let's see about that",
-    "Sinhala": "PRIBOI: හොඳයි, අපි ඒ ගැන බලමු."
+    "Sinhala": "PRIBOI: බලමුකො එහෙනම් ඒ ගැන."
   },
   {
     "Id": "INTRO_3c",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: I think I have to pay him a little visit",
-    "Sinhala": "PRIBOI: මට හිතෙන්නේ මට ඔහු හමුවෙන්න යන්න වෙනවා."
+    "Sinhala": "PRIBOI: මට හිතෙන්නේ මටම මූව බලන්න යන්න වෙයි වගේ."
   },
   {
     "Id": "INTRO_3d",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Hmmm...Now let's do it my way",
-    "Sinhala": "PRIBOI: ම්ම්ම්... දැන් අපි ඒක මගේ ක්‍රමයට කරමු."
+    "Sinhala": "PRIBOI: ම්ම්ම්... දැන් මගේ ක්‍රමේට වැඩේ කරමු."
   },
   {
     "Id": "INTRO_3e",
     "Mission": "Intro Cutscene",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Cover your ears - things are about to change",
-    "Sinhala": "PRIBOI: කන් වහගන්න - දේවල් දැන් වෙනස් වෙන්නයි යන්නේ."
+    "Sinhala": "PRIBOI: කන් දෙක වහගන්නවා - දැන් වැඩේ දරුණු වෙන්නයි යන්නේ."
   },
   {
     "Id": "M1_CUT_01",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: Good work getting here so fast. This mission has top priority. Target: Josef Priboi. You are to locate him and bring him out for debriefing. Josef is our only link with the heist of the warhead.",
-    "Sinhala": "ANYA: මෙතරම් ඉක්මනින් මෙහි පැමිණීම අගය කරනවා. මෙම මෙහෙයුමට ඉහළම ප්‍රමුඛතාවය හිමිවේ. ඉලක්කය: ජෝසෙෆ් ප්‍රිබෝයි. ඔහුව සොයාගෙන ප්‍රශ්න කිරීම සඳහා රැගෙන ආ යුතුය. යුධ හිස පැහැර ගැනීම පිළිබඳ අපගේ එකම සම්බන්ධය ජෝසෙෆ්ය."
+    "Sinhala": "ANYA: මෙච්චර ඉක්මනට මෙහාට ආපු එක නම් නියමයි. මේ මිෂන් එකට තමයි උපරිම ප්‍රමුඛතාව තියෙන්නේ. ටාගට් එක: ජොසෙෆ් ප්‍රිබෝයි. ඔයා ඌව හොයාගෙන ප්‍රශ්න කරන්න මෙහාට අරන් එන්න ඕන. න්‍යෂ්ටික අවිය හොරකම් කරපු එකට අපිට තියෙන එකම හෝඩුවාව ජොසෙෆ් විතරයි."
   },
   {
     "Id": "M1_CUT_02",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: Yeah, yeah. I need to know one thing, where he is.",
-    "Sinhala": "JONES: හරි, හරි. මට දැනගන්න ඕන එකම දෙයයි, ඔහු ඉන්නේ කොහෙද?"
+    "Sinhala": "JONES: හරි හරි. මට දැනගන්න ඕන එකම දේ, ඌ ඉන්නේ කොහෙද කියන එක විතරයි."
   },
   {
     "Id": "M1_CUT_03",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: Josef is held at a military airfield. The whole area has excellent air defences. We have to place you some distance from the target until those defense are disabled.",
-    "Sinhala": "ANYA: ජෝසෙෆ් රඳවා සිටින්නේ හමුදා ගුවන් තොටුපළකය. මුළු ප්‍රදේශයටම දැඩි ගුවන් ආරක්ෂාවක් ඇත. එම ආරක්ෂක පද්ධති අක්‍රිය කරන තෙක් අපට ඔබව ඉලක්කයෙන් මදක් ඈතින් ස්ථානගත කිරීමට සිදුවේ."
+    "Sinhala": "ANYA: ජොසෙෆ්ව හිර කරලා තියෙන්නේ මිලිටරි එයාර්ෆීල්ඩ් එකක. ඒ පැත්තෙ ගුවන් ආරක්ෂාව උපරිමෙන්ම තියෙනවා. ඒ ඩිෆෙන්ස් සිස්ටම් අයින් කරනකල් අපිට ඔයාව ටාගට් එකට ටිකක් ඈතින් බස්සන්න වෙනවා."
   },
   {
     "Id": "M1_CUT_04",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: What? Is transport waiting?",
-    "Sinhala": "JONES: මොකක්ද? ප්‍රවාහනය සූදානම් කරලා තියෙනවද?"
+    "Sinhala": "JONES: මොකක්? වාහනයක් ලෑස්ති කරලාද තියෙන්නේ?"
   },
   {
     "Id": "M1_CUT_05",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: You'll cover the ground using locally resourced transportation assets.",
-    "Sinhala": "ANYA: ඔබ ප්‍රදේශයෙන්ම සොයාගන්නා ප්‍රවාහන මාධ්‍යයක් භාවිත කර ඉදිරියට යා යුතුය."
+    "Sinhala": "ANYA: එහෙ තියෙන වාහනයක් පාවිච්චි කරලා තමයි ඔයාට යන්න වෙන්නේ."
   },
   {
     "Id": "M1_CUT_06",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: You mean I have to steal something?",
-    "Sinhala": "JONES: ඔයා කියන්නේ මට මොකක් හරි හොරකම් කරන්න වෙනවා කියලද?"
+    "Sinhala": "JONES: ඒ කියන්නේ මට වාහනයක් උස්සන්න වෙනවා කියලද?"
   },
   {
     "Id": "M1_CUT_07",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: Exactly. You will travel to the next goods yard - there you will resource transportation. The whole operation is simple - there are three stages:",
-    "Sinhala": "ANYA: හරියටම. ඔබ මීළඟ භාණ්ඩ අංගනයට ගමන් කළ යුතුය - එතැනින් ඔබ ප්‍රවාහනයක් සපයා ගනු ඇත. මුළු මෙහෙයුමම සරලයි - පියවර තුනක් තියෙනවා:"
+    "Sinhala": "ANYA: හරියටම හරි. ඔයා ඉස්සරහා තියෙන ගුඩ්ස් යාඩ් එකට යන්න ඕන - එතනින් වාහනයක් හොයාගන්න පුළුවන්. මුළු ඔපරේෂන් එකම සරලයි - ස්ටෙප්ස් තුනයි තියෙන්නේ:"
   },
   {
     "Id": "M1_CUT_08",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: One - acquire transportation assets. Two - disable air defences. Three - Find Josef Priboi and safely extract him for debriefing. Even...",
-    "Sinhala": "ANYA: එක - ප්‍රවාහන රථයක් ලබා ගැනීම. දෙක - ගුවන් ආරක්ෂක පද්ධති අක්‍රිය කිරීම. තුන - ජෝසෙෆ් ප්‍රිබෝයි සොයා ප්‍රශ්න කිරීම සඳහා ආරක්ෂිතව පිටතට ගැනීම. මේක... "
+    "Sinhala": "ANYA: එක - වාහනයක් හොයාගන්න. දෙක - එයාර් ඩිෆෙන්ස් සිස්ටම් ඩවුන් කරන්න. තුන - ජොසෙෆ් ප්‍රිබෝයිව හොයාගෙන ආරක්ෂිතව අරන් එන්න. සාමාන්‍ය..."
   },
   {
     "Id": "M1_CUT_09",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: ...even a grunt like me can follow it - I see",
-    "Sinhala": "JONES: ...මා වැනි සාමාන්‍ය සොල්දාදුවෙකුට පවා තේරුම් ගත හැකියි - මට වැටහෙනවා."
+    "Sinhala": "JONES: ...මා වගේ කෙනෙකුටත් තේරෙන සරල ප්ලෑන් එකක් - මට තේරුණා."
   },
   {
     "Id": "M1_CUT_10",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: That's the best we have.",
-    "Sinhala": "ANYA: අපට ඇති හොඳම සැලැස්ම එයයි."
+    "Sinhala": "ANYA: දැනට අපිට තියෙන හොඳම ක්‍රමේ ඕක තමයි."
   },
   {
     "Id": "M1_CUT_11",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: Anya, just how did you track Josef down?",
-    "Sinhala": "JONES: ආන්‍යා, ඔබ කොහොමද ජෝසෙෆ්ව හොයාගත්තේ?"
+    "Sinhala": "JONES: අන්‍යා, ඔයා කොහොමද ජොසෙෆ්ව හොයාගත්තේ?"
   },
   {
     "Id": "M1_CUT_12",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: We traced Josef's call to his apartment, right? Local agents raided it they found photos of Josef and his mobile number.",
-    "Sinhala": "ANYA: අපි ජෝසෙෆ්ගේ ඇමතුම ඔහුගේ මහල් නිවාසයට හඹා ගියා, නේද? දේශීය නියෝජිතයින් එය වටලා ජෝසෙෆ්ගේ ඡායාරූප සහ ඔහුගේ ජංගම දුරකථන අංකය සොයාගත්තා."
+    "Sinhala": "ANYA: අපි ජොසෙෆ් ගත්ත කෝල් එකක් එයාගෙ ඇපාර්ට්මන්ට් එකට ට්‍රේස් කළා. අපේ ඒජන්තයෝ එතන වටලලා ජොසෙෆ්ගේ ෆොටෝ වගයකුයි එයාගේ මොබයිල් නම්බර් එකයි හොයාගත්තා."
   },
   {
     "Id": "M1_CUT_13",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: So, we called it and triangulated the co-ordinates. The mobile's located at a military airfield - that's where Josef is - that's our primary target.",
-    "Sinhala": "ANYA: ඉතින්, අපි ඒකට කතා කරලා ඛණ්ඩාංක සොයා ගත්තා. ජංගම දුරකථනය පිහිටා ඇත්තේ හමුදා ගුවන් තොටුපළකය - ජෝසෙෆ් සිටින්නේ එහිය - අපගේ ප්‍රධාන ඉලක්කය එයයි."
+    "Sinhala": "ANYA: ඉතින් අපි ඒ නම්බර් එකට කෝල් කරලා එයා ඉන්න තැන ලොකේෂන් එක හොයාගත්තා. ෆෝන් එක තියෙන්නේ මිලිටරි එයාර්ෆීල්ඩ් එකක - ජොසෙෆ් ඉන්නෙත් එහෙමයි - අපේ ප්‍රධානම ටාගට් එක එතන."
   },
   {
     "Id": "M1_CUT_14",
     "Mission": "Mission 1",
     "Speaker": "JONES",
     "English": "JONES: Cunning - assuming he's there.",
-    "Sinhala": "JONES: කපටි සැලසුමක් - ඔහු ඇත්තටම එතන ඉන්නවා නම්."
+    "Sinhala": "JONES: මාර මොළයක් - ඌ ඇත්තටම එතන ඉන්නවා නම් හොඳයි."
   },
   {
     "Id": "M1_CUT_15",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: You must make your way through the goods yard to the truck. Avoid the cameras at all cost - if you alert the security, you'll have the entire base zeroing in on your position.",
-    "Sinhala": "ANYA: ඔබ භාණ්ඩ අංගනය හරහා ට්‍රක් රථය වෙත යා යුතුය. කැමරා වලින් ඕනෑම වියදමකින් වළකින්න - ආරක්ෂක අංශ දැනුවත් වුවහොත්, මුළු කඳවුරම ඔබේ ස්ථානය ඉලක්ක කරනු ඇත."
+    "Sinhala": "ANYA: ඔයා ගුඩ්ස් යාඩ් එක මැද්දෙන් ලොරිය ළඟට යන්න ඕන. කොහොම හරි කැමරා වලට අහුවෙන්නෙ නැතුව යන්න - සිකියුරිටි එකට අහු වුනොත් මුළු බේස් එකේම ඉන්න උන් ඔයාගෙ පස්සෙන් එයි."
   },
   {
     "Id": "M1_CUT_16",
     "Mission": "Mission 1",
     "Speaker": "ANYA",
     "English": "ANYA: Get to the truck. This is your objective on this mission. Reach it and steal it. I want this mission to be brief and above all quiet. Get to work Jones!",
-    "Sinhala": "ANYA: ට්‍රක් රථය වෙත යන්න. මෙම මෙහෙයුමේ ඔබේ ඉලක්කය එයයි. එයට ළඟා වී එය පැහැර ගන්න. මට අවශ්‍ය වන්නේ මෙම මෙහෙයුම කඩිනම් සහ සියල්ලටම වඩා නිහඬව සිදු කිරීමටයි. වැඩේට බහින්න ජෝන්ස්!"
+    "Sinhala": "ANYA: ලොරිය ළඟට යන්න. මේ මිෂන් එකේ ඔයාගේ ඉලක්කය ඒකයි. එතනට ගිහින් ඒක උස්සන්න. මට මේ වැඩේ ඉක්මනින් සහ සද්ද බද්ද නැතුව කරගන්න ඕන. වැඩේට බහින්න ජෝන්ස්!"
   },
   {
     "Id": "M2_CUT_01",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: The next objective is to disable the local air defences.",
-    "Sinhala": "ANYA: මීළඟ ඉලක්කය වන්නේ ප්‍රාදේශීය ගුවන් ආරක්ෂක පද්ධති අක්‍රිය කිරීමයි."
+    "Sinhala": "ANYA: ඊළඟ ඉලක්කය තමයි මෙහේ තියෙන එයාර් ඩිෆෙන්ස් සිස්ටම් අක්‍රිය කරන එක."
   },
   {
     "Id": "M2_CUT_02",
     "Mission": "Mission 2",
     "Speaker": "JONES",
     "English": "JONES: Why not use the truck to evacuate Josef from the airfield?",
-    "Sinhala": "JONES: ජෝසෙෆ්ව ගුවන් තොටුපළෙන් ඉවත් කර ගැනීමට ට්‍රක් රථය භාවිතා නොකරන්නේ ඇයි?"
+    "Sinhala": "JONES: ඇයි අපිට බැරි මේ ලොරියෙන්ම ජොසෙෆ්ව අරන් පැනගන්න?"
   },
   {
     "Id": "M2_CUT_03",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: Too slow, way too slow. It's too much of a risk. Josef's our only link with the heist.",
-    "Sinhala": "ANYA: බොහෝ සෙමින්, ඉතාමත් සෙමින්. එය විශාල අවදානමක්. යුධ හිස පැහැර ගැනීම පිළිබඳ අපගේ එකම සම්බන්ධය ජෝසෙෆ්ය."
+    "Sinhala": "ANYA: හරිම පරක්කු වැඩියි. ඒක ලොකු රිස්ක් එකක්. න්‍යෂ්ටික අවිය හොරකම් කරපු එකට අපිට තියෙන එකම සාක්ෂිය ජොසෙෆ් විතරයි."
   },
   {
     "Id": "M2_CUT_04",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: He knew not only how the warhead had been taken, he knew the where, the how - heck he even quoted the warhead's damn serial number. We must have him in one piece and alive.",
-    "Sinhala": "ANYA: ඔහු යුධ හිස ගෙන ගියේ කෙසේදැයි පමණක් නොව, කොහේද, කෙසේද යන්නත් දැන සිටියා - ඔහු යුධ හිසේ අනුක්‍රමික අංකය පවා කීවා. අපට ඔහුව පණපිටින් සහ ආරක්ෂිතව අවශ්‍යයි."
+    "Sinhala": "ANYA: ඌ අවිය ගත්තෙ කොහොමද කියන එක විතරක් නෙවෙයි, කොහෙද, කොහොමද, ඒ විතරක් නෙවෙයි ඒකෙ සීරියල් නම්බර් එක පවා ඌ දන්නවා. අපිට ඌව පණපිටින් කිසිම තුවාලයක් නැතුව අල්ලගන්නම වෙනවා."
   },
   {
     "Id": "M2_CUT_05",
     "Mission": "Mission 2",
     "Speaker": "JONES",
     "English": "JONES: What about me?",
-    "Sinhala": "JONES: එතකොට මම ගැන මොකද?"
+    "Sinhala": "JONES: එතකොට මට මොකද වෙන්නේ?"
   },
   {
     "Id": "M2_CUT_06",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: Here's what you have to do. Immediately infiltrate the SAM battery. You will find explosives here, set them on each of the SAM sites.",
-    "Sinhala": "ANYA: ඔබට කිරීමට ඇත්තේ මෙයයි. වහාම SAM මිසයිල බැටරියට ඇතුළු වන්න. ඔබට මෙහි පුපුරණ ද්‍රව්‍ය හමුවනු ඇත, ඒවා එක් එක් SAM ස්ථානයෙහි සවි කරන්න."
+    "Sinhala": "ANYA: ඔයාට කරන්න තියෙන්නේ මෙන්න මේකයි. වහාම සෑම් මිසයිල බැටරිය ඇතුළට රිංගන්න. එතනින් පුපුරණ ද්‍රව්‍ය හොයාගෙන සෑම් යුනිට් වලට සෙට් කරන්න."
   },
   {
     "Id": "M2_CUT_07",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: Escape to the final rendezvous point, and then detonate the explosive devices.",
-    "Sinhala": "ANYA: අවසන් හමුවීමේ ස්ථානයට පැන යන්න, ඉන්පසු පුපුරණ ද්‍රව්‍ය පුපුරුවා හරින්න."
+    "Sinhala": "ANYA: අවසන් හමුවීමේ තැනට පැනගන්න, ඊට පස්සෙ ඒ බෝම්බ පුපුරවලා දාන්න."
   },
   {
     "Id": "M2_CUT_08",
     "Mission": "Mission 2",
     "Speaker": "ANYA",
     "English": "ANYA: Once you are at the rendezvous point, we can then pick you up by chopper and fly directly to the military airbase.",
-    "Sinhala": "ANYA: ඔබ හමුවීමේ ස්ථානයට පැමිණි පසු, අපට හෙලිකොප්ටරයකින් ඔබව රැගෙන කෙලින්ම හමුදා ගුවන් කඳවුරට පියාසර කළ හැකිය."
+    "Sinhala": "ANYA: ඔයා ඒ තැනට ආවම, අපිට ඔයාව හෙලිකොප්ටරෙන් අරගෙන කෙළින්ම මිලිටරි එයාර්බේස් එකට යන්න පුළුවන්."
   },
   {
     "Id": "M3_CUT_01",
     "Mission": "Mission 3",
     "Speaker": "JONES",
     "English": "JONES: That's another successful operation under my belt. Okay Anya, tell me where Josef is and I'll bring him out. Is there any news on the backup?",
-    "Sinhala": "JONES: මගේ තවත් සාර්ථක මෙහෙයුමක් අවසන්. හරි ආන්‍යා, ජෝසෙෆ් ඉන්නේ කොහෙද කියලා මට කියන්න, මම ඔහුව එළියට ගන්නම්. සහායක කණ්ඩායම ගැන ආරංචියක් තියෙනවද?"
+    "Sinhala": "JONES: ආයෙත් මගේ තවත් මෙහෙයුමක් ගින්දර වගේ සාර්ථකයි. හරි අන්‍යා, මට කියන්න ජොසෙෆ් ඉන්න තැන, මම ඌව අරන් එන්නම්. බැකප් එක ගැන මොකද ආරංචිය?"
   },
   {
     "Id": "M3_CUT_02",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: Surely you don't need anyone else's help. Your backup has just touched down in the capitol. They're currently enroute to you as we speak. They should be with you in about three hours.",
-    "Sinhala": "ANYA: නිසැකවම ඔබට වෙන කිසිවෙකුගේ උදව් අවශ්‍ය නොවේ. ඔබේ සහායක කණ්ඩායම අගනුවරට ගොඩබා අවසන්. අප කතා කරන මේ මොහොතේ ඔවුන් ඔබ වෙත එමින් සිටිනවා. ඔවුන් පැය තුනකින් පමණ ඔබ ළඟට එනු ඇත."
+    "Sinhala": "ANYA: ඔයාට ඉතින් කාගෙවත් උදව් ඕන නෑනේ. ඔයාගෙ බැකප් ටීම් එක අගනුවරට ලෑන්ඩ් කළා විතරයි. ඒගොල්ලෝ දැන් ඔයා ඉන්න පැත්තට එමින් ගමන් ඉන්නේ. තව පැය තුනකින් විතර ඔයා ළඟට එයි."
   },
   {
     "Id": "M3_CUT_03",
     "Mission": "Mission 3",
     "Speaker": "JONES",
     "English": "JONES: Just in time to clear up!",
-    "Sinhala": "JONES: වැඩේ ඉවර කරලා අස්පස් කරන්න වෙලාවටම එයි!"
+    "Sinhala": "JONES: ඔක්කොම ඉවර වුණාට පස්සෙ කුණු අස්කරන්න තමයි එන්න වෙන්නේ!"
   },
   {
     "Id": "M3_CUT_04",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: We've opened up the air corridor for Josef's extraction. The task now is to find Josef Priboi and bring him out for debriefing.",
-    "Sinhala": "ANYA: අපි ජෝසෙෆ්ව ඉවත් කර ගැනීමට ගුවන් මාර්ගය විවෘත කළා. දැන් පැවරී ඇති කාර්යය වන්නේ ජෝසෙෆ් ප්‍රිබෝයි සොයා ප්‍රශ්න කිරීම සඳහා රැගෙන ඒමයි."
+    "Sinhala": "ANYA: අපි ජොසෙෆ්ව අරන් එන්න ගුවන් මාර්ගය ක්ලියර් කරගත්තා. දැන් තියෙන වැඩේ තමයි ජොසෙෆ් ප්‍රිබෝයිව හොයාගෙන ප්‍රශ්න කරන්න මෙහාට අරන් එන එක."
   },
   {
     "Id": "M3_CUT_05",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: Your objectives are threefold;",
-    "Sinhala": "ANYA: ඔබේ ඉලක්ක ත්‍රිවිධාකාරයි;"
+    "Sinhala": "ANYA: ඔයාගේ ඉලක්ක තුනක් තියෙනවා;"
   },
   {
     "Id": "M3_CUT_06",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: 1) Infiltrate the installation without overly raising suspicion;",
-    "Sinhala": "ANYA: 1) සැකයක් ඇති නොවන පරිදි කඳවුර තුළට ඇතුළු වන්න;"
+    "Sinhala": "ANYA: 1) සැක නොහිතෙන විදිහට කෑම්ප් එක ඇතුළට රිංගන්න;"
   },
   {
     "Id": "M3_CUT_07",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: 2) Locate and free Josef Priboi - Our agents have been on surveillance for the last 20 hours, they took this footage. I believe Josef to be held in this building - he should be held in the basement;",
-    "Sinhala": "ANYA: 2) ජෝසෙෆ් ප්‍රිබෝයි සොයා නිදහස් කරන්න - අපගේ නියෝජිතයන් පසුගිය පැය 20 පුරාම නිරීක්ෂණයේ යෙදී මෙම දර්ශන ලබා ගත්තා. ජෝසෙෆ් මෙම ගොඩනැගිල්ලේ රඳවා ඇතැයි මම විශ්වාස කරනවා - ඔහු පහළ බිම් මහලේ සිටිය යුතුයි;"
+    "Sinhala": "ANYA: 2) ජොසෙෆ් ප්‍රිබෝයිව හොයාගෙන නිදහස් කරගන්න - අපේ ඒජන්තයෝ පැය 20ක් තිස්සේ මේ ගැන සෝදිසියෙන් හිටියා, ඒගොල්ලෝ තමයි මේ වීඩියෝ එක ගත්තේ. මම හිතන්නේ ජොසෙෆ්ව හිර කරලා තියෙන්නේ මේ බිල්ඩින් එකේ බේස්මන්ට් එකේ;"
   },
   {
     "Id": "M3_CUT_08",
     "Mission": "Mission 3",
     "Speaker": "ANYA",
     "English": "ANYA: 3) Once you have Josef in custody, escort him back to FRV for chopper dust off.",
-    "Sinhala": "ANYA: 3) ජෝසෙෆ්ව බාරයට ගත් පසු, හෙලිකොප්ටරයෙන් පිටව යාම සඳහා ඔහුව නැවත FRV ස්ථානයට රැගෙන එන්න."
+    "Sinhala": "ANYA: 3) ජොසෙෆ්ව අරගත්තට පස්සේ, හෙලිකොප්ටරෙන් අරන් යන්න ඌවත් එක්කගෙන නැවත හමුවීමේ තැනට එන්න."
   },
   {
     "Id": "M4_CUT_01",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: Jones, you identified this prison as Josef's destination. A man answering Josef's description arrived here yesterday.",
-    "Sinhala": "ANYA: ජෝන්ස්, ජෝසෙෆ් ගෙන යන ස්ථානය ලෙස ඔබ මෙම බන්ධනාගාරය හඳුනා ගත්තා. ජෝසෙෆ්ගේ විස්තරයට ගැළපෙන පුද්ගලයෙක් ඊයේ මෙහි පැමිණියා."
+    "Sinhala": "ANYA: ජෝන්ස්, ඔයා කිව්වෙ ජොසෙෆ්ව අරන් ගියේ මේ හිරගෙදරට කියලනේ. ජොසෙෆ් වගේ පෙනුම තියෙන මිනිහෙක් ඊයේ මෙහාට අරන් ඇවිත් තියෙනවා."
   },
   {
     "Id": "M4_CUT_02",
     "Mission": "Mission 4",
     "Speaker": "JONES",
     "English": "JONES: The back-up is here now. Who's leading them? What's their role?",
-    "Sinhala": "JONES: දැන් සහායක කණ්ඩායම ඇවිත් තියෙන්නේ. ඔවුන්ට නායකත්වය දෙන්නේ කවුද? ඔවුන්ගේ කාර්යභාරය කුමක්ද?"
+    "Sinhala": "JONES: බැකප් එක දැන් මෙහාට ඇවිත් ඉන්නේ. කවුද ඒකට නායකත්වය දෙන්නේ? ඒගොල්ලන්ගේ රෝල් එක මොකක්ද?"
   },
   {
     "Id": "M4_CUT_03",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: Captain Harrison is in command - ex Green Beret. He is to lead the assault; his men are to go in and bring Josef out.",
-    "Sinhala": "ANYA: කපිතාන් හැරිසන් අණදෙන නිලධාරියා ලෙස කටයුතු කරයි - හිටපු ග්‍රීන් බෙරේට් සෙබළෙක්. ප්‍රහාරයට නායකත්වය දිය යුත්තේ ඔහුයි; ඔහුගේ මිනිසුන් ඇතුළට ගොස් ජෝසෙෆ්ව රැගෙන ආ යුතුය."
+    "Sinhala": "ANYA: කමාන්ඩර් තමයි කැප්ටන් හැරිසන් - කලින් ග්‍රීන් බෙරේ එකෙක්. ප්‍රහාරයට නායකත්වය දෙන්නේ එයා; එයාගේ කට්ටිය ඇතුළට ගිහින් ජොසෙෆ්ව එළියට අරන් එයි."
   },
   {
     "Id": "M4_CUT_04",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: They lack as expert sniper. You are to provide cover as they go in.",
-    "Sinhala": "ANYA: ඔවුන්ට දක්ෂ ස්නයිපර් වෙඩික්කරුවෙකු නැත. ඔවුන් ඇතුළු වන විට ඔබ ආවරණ වෙඩි තැබීම් සැපයිය යුතුය."
+    "Sinhala": "ANYA: ඒගොල්ලන්ට දක්ෂ ස්නයිපර් කෙනෙක් නෑ. ඒගොල්ලෝ ඇතුළට යනකොට ඔයා උඩ ඉඳන් කවර් එක දෙන්න ඕන."
   },
   {
     "Id": "M4_CUT_05",
     "Mission": "Mission 4",
     "Speaker": "JONES",
     "English": "JONES: All right! I get to play god then?",
-    "Sinhala": "JONES: හරි! එහෙනම් මට දෙවියන්ගේ චරිතය රඟපාන්න ලැබෙනවා නේද?"
+    "Sinhala": "JONES: එළකිරි! එතකොට මට තමයි දෙයියෙක් වගේ ඉඳන් ගේම ගහන්න වෙන්නේ?"
   },
   {
     "Id": "M4_CUT_06",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: I guess that's going to be your call sign. Harrison's sign will be Moses.",
-    "Sinhala": "ANYA: මම හිතන්නේ ඔබේ සංඥා නාමය එය වනු ඇත (GOD). හැරිසන්ගේ නාමය මෝසෙස් (Moses) වේ."
+    "Sinhala": "ANYA: ඔයාගෙ කෝල් සයින් එක ඒක වෙයි වගේ. හැරිසන්ගේ සයින් එක 'මෝසස්'."
   },
   {
     "Id": "M4_CUT_07",
     "Mission": "Mission 4",
     "Speaker": "JONES",
     "English": "JONES: Awesome.",
-    "Sinhala": "JONES: නියමයි."
+    "Sinhala": "JONES: මරු."
   },
   {
     "Id": "M4_CUT_08",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: Jones, your objectives are as follows;",
-    "Sinhala": "ANYA: ජෝන්ස්, ඔබේ ඉලක්ක පහත පරිදි වේ;"
+    "Sinhala": "ANYA: ජෝන්ස්, ඔයාගේ ඉලක්ක මෙන්න මේවායි;"
   },
   {
     "Id": "M4_CUT_09",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: 1) Secure the ruins on the hill line above the prison. This will provide an excellent field of fire.",
-    "Sinhala": "ANYA: 1) බන්ධනාගාරයට ඉහළින් ඇති කඳුකර නටබුන් ප්‍රදේශය අත්පත් කරගන්න. මෙය විශිෂ්ට වෙඩි තැබීමේ ක්ෂේත්‍රයක් සපයනු ඇත."
+    "Sinhala": "ANYA: 1) හිරගෙදරට උඩින් කඳු ගැටයේ තියෙන නටබුන් ටික ක්ලියර් කරගන්න. එතනින් හොඳ ස්නයිපර් පොසිෂන් එකක් ලැබෙයි."
   },
   {
     "Id": "M4_CUT_10",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: 2) Provide cover for Harrison's men as they assault.",
-    "Sinhala": "ANYA: 2) හැරිසන්ගේ සෙබළුන් ප්‍රහාර එල්ල කරන විට ඔවුන්ට ආවරණය සපයන්න."
+    "Sinhala": "ANYA: 2) හැරිසන්ගේ කට්ටිය ඇතුළට ගහගෙන යනකොට ඒගොල්ලන්ට කවර් ෆයර් දෙන්න."
   },
   {
     "Id": "M4_CUT_11",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: 3) Once our guys have Josef, you will provide covering fire for the extraction.",
-    "Sinhala": "ANYA: 3) අපේ සෙබළුන් ජෝසෙෆ්ව ලබාගත් පසු, ඔවුන් පිටතට එන තෙක් ආවරණ වෙඩි තැබීම් සපයන්න."
+    "Sinhala": "ANYA: 3) අපේ කට්ටිය ජොසෙෆ්ව ගත්තට පස්සේ, ඒගොල්ලෝ එළියට එනකල් කවර් එක දෙන්න."
   },
   {
     "Id": "M4_CUT_12",
     "Mission": "Mission 4",
     "Speaker": "ANYA",
     "English": "ANYA: 4) When Josef is safely away, Harrison will give you the signal to move to the FRV for extraction.",
-    "Sinhala": "ANYA: 4) ජෝසෙෆ් ආරක්ෂිතව පිටව ගිය පසු, ඉවත් වීමේ FRV ස්ථානයට යාමට හැරිසන් ඔබට සංඥා කරනු ඇත."
+    "Sinhala": "ANYA: 4) ජොසෙෆ් ආරක්ෂිතව එළියට ආවම, ඔයාටත් එළියට එන්න හැරිසන් සිග්නල් එක දෙයි."
   },
   {
     "Id": "M5_CUT_01",
     "Mission": "Mission 5",
     "Speaker": "JONES",
     "English": "JONES: How did Priboi's debrief go, Anya?",
-    "Sinhala": "JONES: ජෝසෙෆ් ප්‍රිබෝයිගෙන් ප්‍රශ්න කිරීම කොහොමද ආන්‍යා?"
+    "Sinhala": "JONES: ප්‍රිබෝයිගෙන් ප්‍රශ්න කරපු එක කොහොමද අන්‍යා?"
   },
   {
     "Id": "M5_CUT_02",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: Very easily! Josef had already been badly beaten - mostly by his uncle Jach.",
-    "Sinhala": "ANYA: ඉතා පහසුවෙන්! ජෝසෙෆ්ට දැනටමත් දරුණු ලෙස පහර දී තිබුණා - ප්‍රධාන වශයෙන්ම ඔහුගේ මාමා වන ජැක්ගෙන්."
+    "Sinhala": "ANYA: හරිම ලේසියෙන්! ජොසෙෆ්ට දැනටමත් හොඳටම ගුටි දීලා තිබුණේ - ගොඩක්ම එයාගේ මාමා ජාක්ගෙන්."
   },
   {
     "Id": "M5_CUT_03",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: I don't know why, but Jach Priboi is one scared man. So here's what we know now. Jach is definitely in control of the business.",
-    "Sinhala": "ANYA: මම දන්නේ නැහැ ඇයි කියලා, නමුත් ජැක් ප්‍රිබෝයි දැඩි බියකින් පසුවන මිනිසෙක්. දැන් අපි දන්නා දේ මෙන්න. ව්‍යාපාරය පාලනය කරන්නේ නිසැකවම ජැක් විසිනි."
+    "Sinhala": "ANYA: හේතුවක් දන්නේ නෑ, ඒත් ජාක් ප්‍රිබෝයි ඉන්නේ හොඳටම බයවෙලා. දැනට අපි දන්න දේ මේකයි. බිස්නස් එක පාලනය කරන්නේ ෂුවර් එකටම ජාක්."
   },
   {
     "Id": "M5_CUT_04",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: He organized the heist of the warhead. When Josef was kidnapped, the warhead was still in Jach's possession; it had not been delivered.",
-    "Sinhala": "ANYA: යුධ හිස පැහැර ගැනීම සංවිධානය කළේ ඔහුයි. ජෝසෙෆ්ව පැහැර ගන්නා විටත් යුධ හිස ජැක් සතුව තිබුණි; එය තවමත් වෙනත් කිසිවෙකුට භාර දී තිබුණේ නැත."
+    "Sinhala": "ANYA: න්‍යෂ්ටික අවිය හොරකම් කළේ ඌ. ජොසෙෆ්ව කිඩ්නැප් කරනකොටත් ඒක තිබුණේ ජාක් ළඟ; ඒක තවම කාටවත් බාරදීලා නෑ."
   },
   {
     "Id": "M5_CUT_05",
     "Mission": "Mission 5",
     "Speaker": "JONES",
     "English": "JONES: Yes! Another success for David Jones! IGI!",
-    "Sinhala": "JONES: ඔව්! ඩේවිඩ් ජෝන්ස්ට තවත් ජයග්‍රහණයක්! IGI!"
+    "Sinhala": "JONES: යස්! ඩේවිඩ් ජෝන්ස්ගේ තවත් සුපිරි ජයක්! අයි.ජී.අයි!"
   },
   {
     "Id": "M5_CUT_06",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: Yes. All on your own. Well done. Well cope with this then. Jach has over 50 properties and warehouses. The warhead could be in any one of them.",
-    "Sinhala": "ANYA: ඔව්, ඔබේම දක්ෂතාවයෙන්. ඉතා හොඳයි. එහෙනම් මෙයටත් මුහුණ දෙන්න. ජැක් සතුව දේපළ සහ ගබඩා 50 කට වඩා තිබෙනවා. යුධ හිස ඒවායින් ඕනෑම එකක තිබිය හැකියි."
+    "Sinhala": "ANYA: ඔව් ඔව්, ඔයා තනියම කරපු එකක් තමයි, හොඳයි හොඳයි. එහෙනම් මේකටත් මුහුණ දෙන්නකො. ජාක්ට ප්‍රොපටීස් සහ ගබඩා 50කට වඩා තියෙනවා. අවිය ඒ ඕනම එකක තියෙන්න පුළුවන්."
   },
   {
     "Id": "M5_CUT_07",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: However Jach Priboi uses several secure military communication channels. Josef gave us the channels' codes and I've identified the key node.",
-    "Sinhala": "ANYA: කෙසේ වෙතත් ජැක් ප්‍රිබෝයි ආරක්ෂිත හමුදා සන්නිවේදන නාලිකා කිහිපයක් භාවිතා කරයි. ජෝසෙෆ් අපට නාලිකාවල කේත ලබා දුන් අතර මම ප්‍රධාන සන්නිවේදන මධ්‍යස්ථානය හඳුනා ගත්තා."
+    "Sinhala": "ANYA: හැබැයි ජාක් ප්‍රිබෝයි ආරක්ෂිත මිලිටරි කොමියුනිකේෂන් චැනල්ස් කීපයක් පාවිච්චි කරනවා. ජොසෙෆ් අපිට ඒවගේ කෝඩ්ස් දුන්නා, මම ප්‍රධාන කොමියුනිකේෂන් නෝඩ් එක හොයාගත්තා."
   },
   {
     "Id": "M5_CUT_08",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: If I can get into the network, I can access Jach's private conversations - everything he says, I'll know about it. Including the location of the warhead.",
-    "Sinhala": "ANYA: මට ජාලයට ඇතුළු වීමට හැකි වුවහොත්, ජැක්ගේ පුද්ගලික සංවාදවලට පිවිසිය හැකියි - ඔහු පවසන සෑම දෙයක්ම මම දැනගනු ඇත. යුධ හිස ඇති ස්ථානයද ඇතුළුව."
+    "Sinhala": "ANYA: මට ඒ නෙට්වර්ක් එකට රිංගන්න පුළුවන් වුණොත්, ජාක්ගේ පෞද්ගලික කෝල්ස් අහන්න පුළුවන් - ඌ කියන හැමදේම මම දැනගන්නවා. අවිය තියෙන තැනත් එක්කම."
   },
   {
     "Id": "M5_CUT_09",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: Break into this communications node. Proceed to this dome - it houses the main computers. They route all comms traffic.",
-    "Sinhala": "ANYA: මෙම සන්නිවේදන මධ්‍යස්ථානයට ඇතුළු වන්න. මෙම ඩෝම් හැඩති ගොඩනැගිල්ලට යන්න - ප්‍රධාන පරිගණක පිහිටා ඇත්තේ එහි ය. ඒවා සියලු සන්නිවේදන ගමනාගමනය මෙහෙයවයි."
+    "Sinhala": "ANYA: මේ කොමියුනිකේෂන් නෝඩ් එකට කඩාගෙන පනින්න. අර ඩෝම් එකට යන්න - ප්‍රධාන කොම්පියුටර්ස් තියෙන්නේ එතනයි. හැම පණිවිඩයක්ම යන්නේ ඒකෙන්."
   },
   {
     "Id": "M5_CUT_10",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: Once you're there upload the virus, and I'll do the rest. Oh, and you might want to escape afterwards.",
-    "Sinhala": "ANYA: ඔබ එතැනට ගිය පසු වයිරසය උඩුගත කරන්න, ඉතිරිය මම බලාගන්නම්. ආ, ඊට පස්සේ ඔබට එතනින් පැන ගැනීමටත් සිදුවේවි."
+    "Sinhala": "ANYA: එතනට ගියාම වයිරස් එක අප්ලෝඩ් කරන්න, ඉතුරු ටික මම බලාගන්නම්. ආ තව දෙයක්, ඊට පස්සෙ එතනින් පැනගන්නත් බලාගන්න."
   },
   {
     "Id": "M5_CUT_11",
     "Mission": "Mission 5",
     "Speaker": "ANYA",
     "English": "ANYA: The weather's holding, somewhat cloudy, we're expecting snow maybe tomorrow. Please try not to mess this one up, Jones.",
-    "Sinhala": "ANYA: කාලගුණය යහපත්, තරමක් වළාකුළු සහිතයි, හෙට හිම පතනය විය හැකියි. කරුණාකර මෙය අවුල් කර නොගැනීමට උත්සාහ කරන්න, ජෝන්ස්."
+    "Sinhala": "ANYA: කාලගුණය නම් අවුලක් නෑ, වලාකුළු තියෙනවා, හෙට හිම වැටෙයි වගේ. අනේ ජෝන්ස්, මේ පාරවත් වැඩේ අනාගන්නේ නැතුව කරගන්න."
   },
   {
     "Id": "M6_CUT_01",
     "Mission": "Mission 6",
     "Speaker": "JONES",
     "English": "JONES: You believe Priboi to be here?",
-    "Sinhala": "JONES: ප්‍රිබෝයි මෙහි සිටින බව ඔබ විශ්වාස කරනවාද?"
+    "Sinhala": "JONES: ප්‍රිබෝයි මෙතන ඉන්නවා කියලා ඔයාට විශ්වාසද?"
   },
   {
     "Id": "M6_CUT_02",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Jones, I know. The virus you uploaded? It works like a dream.",
-    "Sinhala": "ANYA: ජෝන්ස්, මම දන්නවා. ඔබ උඩුගත කළ වයිරසය? එය පුදුමාකාර ලෙස ක්‍රියා කරයි."
+    "Sinhala": "ANYA: ජෝන්ස්, මම දන්නවා. ඔයා අප්ලෝඩ් කරපු වයිරස් එක සුපිරියටම වැඩ."
   },
   {
     "Id": "M6_CUT_03",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: This is one of his more remote storage yards.",
-    "Sinhala": "ANYA: මෙය ඔහුගේ දුරස්ථ ගබඩා අංගනවලින් එකකි."
+    "Sinhala": "ANYA: මේක එයාගේ ගොඩක් ඈත තියෙන ගබඩා මිදුලක්."
   },
   {
     "Id": "M6_CUT_04",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Get this - he's currently holding a goddamn arms sale.",
-    "Sinhala": "ANYA: මේක අහන්න - ඔහු මේ මොහොතේ අවි ආයුධ විකිණීමක් සිදු කරමින් සිටිනවා."
+    "Sinhala": "ANYA: මේක අහන්නකෝ - මූ දැනට මෙතන අවි ආයුධ විකුණන මගුලක් දාගෙන ඉන්නේ."
   },
   {
     "Id": "M6_CUT_05",
     "Mission": "Mission 6",
     "Speaker": "JONES",
     "English": "JONES: You're leading me into bad company - my mom warned me about ladies like you - they'd lead you astray.",
-    "Sinhala": "JONES: ඔබ මාව නරක ඇසුරකට යොමු කරනවා - මගේ අම්මා මට අනතුරු ඇඟෙව්වා ඔබ වැනි කාන්තාවන් ගැන - ඔවුන් ඔබව නොමඟ යවන බව."
+    "Sinhala": "JONES: ඔයා මාව නරක ආශ්‍රයකට තමයි යවන්නේ - අපේ අම්මා මට කිව්වා ඔයා වගේ කෙල්ලෝ ගැන, මාව නොමඟ යවයි කියලා."
   },
   {
     "Id": "M6_CUT_06",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: And what happened?",
-    "Sinhala": "ANYA: ඉතින් මොකක්ද වුණේ?"
+    "Sinhala": "ANYA: ඉතින් මොකද වුණේ?"
   },
   {
     "Id": "M6_CUT_07",
     "Mission": "Mission 6",
     "Speaker": "JONES",
     "English": "JONES: I mainly got led astray.",
-    "Sinhala": "JONES: මම බොහෝ දුරට නොමඟ ගියා."
+    "Sinhala": "JONES: මම ඉතින් කොහොමත් නොමඟ ගියා."
   },
   {
     "Id": "M6_CUT_08",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Typical. Listen up, Priboi conducts all deals from his limo - it's bullet proof of course and located close to the gates.",
-    "Sinhala": "ANYA: සුපුරුදු පරිදිමයි. හොඳින් සවන් දෙන්න, ප්‍රිබෝයි සියලු ගනුදෙනු සිදු කරන්නේ ඔහුගේ ලිමොසින් රථයේ සිටයි - එය වෙඩි නොවදින එකක් වන අතර දොරටුව අසල පිහිටා තිබෙනවා."
+    "Sinhala": "ANYA: පුරුදු විදිහම තමයි. හොඳට අහගන්න, ප්‍රිබෝයි හැම ඩීල් එකක්ම දාන්නේ එයාගේ ලිමොසින් එකේ ඉඳන් - ඒක බුලට්පෲෆ්, තියෙන්නේ ගේට්ටුව ළඟ."
   },
   {
     "Id": "M6_CUT_09",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Should anything go wrong, Priboi has one plan, make a run for the open road and leave his men to do the fighting. I want to exploit this plan.",
-    "Sinhala": "ANYA: යම් දෙයක් වැරදුනහොත්, ප්‍රිබෝයිට ඇත්තේ එකම සැලැස්මකි, එනම් ප්‍රධාන පාර දෙසට පලා ගොස් සටන් කිරීමට තම මිනිසුන් අතහැර දැමීමයි. මට අවශ්‍ය මෙම සැලැස්මෙන් ප්‍රයෝජන ගැනීමටයි."
+    "Sinhala": "ANYA: මොකක් හරි වැරදුනොත් ප්‍රිබෝයිට තියෙන්නේ එකම ප්ලෑන් එකයි, උගේ මිනිස්සුන්ට වෙඩි තියාගන්න ඇරලා ඌ පාර දිගේ පැනලා දුවනවා. මට ඕන උගේ ඔය ප්ලෑන් එකෙන් ප්‍රයෝජන ගන්න."
   },
   {
     "Id": "M6_CUT_10",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Harrison and his men are setting up on the exit road.",
-    "Sinhala": "ANYA: හැරිසන් සහ ඔහුගේ සෙබළුන් පිටවීමේ මාර්ගයේ රැකවල් දමමින් සිටිනවා."
+    "Sinhala": "ANYA: හැරිසනුයි එයාගේ කට්ටියයි පිටවෙන පාර ළඟ රැකගෙන ඉන්නවා."
   },
   {
     "Id": "M6_CUT_11",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: I want you to enter the base and create one hell of a noise.Priboi will run like hell. Harrison will intercept him, stop the limo and seize Priboi. Harrison has a chopper nearby.",
-    "Sinhala": "ANYA: ඔබ කඳවුරට ඇතුළු වී විශාල කලබලයක් ඇති කරනවාට මට අවශ්‍යයි. ප්‍රිබෝයි බියෙන් පලා යනු ඇත. හැරිසන් ඔහුව වටලා ලිමොසින් රථය නවත්වා ප්‍රිබෝයිව අල්ලා ගනු ඇත. හැරිසන් සතුව හෙලිකොප්ටරයක් ළඟ තිබෙනවා."
+    "Sinhala": "ANYA: ඔයා බේස් එක ඇතුළට ගිහින් හොඳ ලොකු කලබලයක් ඇති කරන්න ඕන. එතකොට ප්‍රිබෝයි බයේ පණ එපා කියලා දුවයි. හැරිසන් ඌව නවත්තලා ලිමොසින් එකත් එක්කම ප්‍රිබෝයිව අල්ලගනියි. හැරිසන් ළඟ හෙලිකොප්ටරයකුත් තියෙනවා."
   },
   {
     "Id": "M6_CUT_12",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: These are the mission parameters; Enter the base - you must maintain the element of surprise, that's crucial.",
-    "Sinhala": "ANYA: මෙහෙයුම් නියමයන් මෙන්න; කඳවුරට ඇතුළු වන්න - ක්ෂණික ප්‍රහාරයේ විස්මය ඔබ පවත්වා ගත යුතුය, එය ඉතා වැදගත්."
+    "Sinhala": "ANYA: මෙන්න මිෂන් එකේ විස්තරේ; බේස් එක ඇතුළට යන්න - උන්ට හිතාගන්න බැරි විදිහට ක්ෂණිකව පහර දෙන්න ඕන, ඒක හරිම වැදගත්."
   },
   {
     "Id": "M6_CUT_13",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Obtain explosives from the warehouse; you'll need these to create the right diversion. Then move to the fuel depot and create a diversion using the explosives",
-    "Sinhala": "ANYA: ගබඩාවෙන් පුපුරණ ද්‍රව්‍ය ලබා ගන්න; අවධානය වෙනතකට යොමු කිරීමට ඔබට මේවා අවශ්‍ය වනු ඇත. ඉන්පසු ඉන්ධන ගබඩාව වෙත ගොස් පුපුරණ ද්‍රව්‍ය භාවිතයෙන් ප්‍රහාරයක් එල්ල කරන්න."
+    "Sinhala": "ANYA: වෙයාහවුස් එකෙන් පුපුරණ ද්‍රව්‍ය අරගන්න; උන්ගෙ අවධානය වෙනස් කරන්න මේවා ඕන වෙනවා. ඊට පස්සෙ ඉන්ධන ගබඩාව පැත්තට ගිහින් ඒ බෝම්බ පුපුරවලා කලබලයක් හදන්න."
   },
   {
     "Id": "M6_CUT_14",
     "Mission": "Mission 6",
     "Speaker": "ANYA",
     "English": "ANYA: Priboi should bolt like a startled rabbit. Harrison will take him down.",
-    "Sinhala": "ANYA: එවිට ප්‍රිබෝයි බියට පත් හාවෙකු මෙන් පලා යනු ඇත. හැරිසන් ඔහුව අල්ලා ගනු ඇත."
+    "Sinhala": "ANYA: ප්‍රිබෝයි බයවෙච්ච හාවෙක් වගේ දුවයි. හැරිසන් ඌව අල්ලගනියි."
   },
   {
     "Id": "M7_CUT_01",
     "Mission": "Mission 7",
     "Speaker": "ANYA",
     "English": "ANYA: You'll be back soon Jones. Just keep going. I'm preparing the debrief rooms now. How's Priboi holding up?",
-    "Sinhala": "ANYA: ඔබ ඉක්මනින්ම ආපසු පැමිණෙනු ඇත ජෝන්ස්. දිගටම යන්න. මම දැන් ප්‍රශ්න කිරීමේ කාමර සූදානම් කරනවා. ප්‍රිබෝයි කොහොමද ඉන්නේ?"
+    "Sinhala": "ANYA: ඔයාට ඉක්මනටම ආපහු එන්න පුළුවන් වෙයි ජෝන්ස්. එහෙමම යන්න. මම ප්‍රශ්න කරන කාමර ලෑස්ති කරනවා. ප්‍රිබෝයිට කොහොමද?"
   },
   {
     "Id": "M7_CUT_02",
     "Mission": "Mission 7",
     "Speaker": "JONES",
     "English": "JONES: Don't worry - he's fine <Priboi grunts his disgust> and he'll talk.",
-    "Sinhala": "JONES: කරදර වෙන්න එපා - ඔහු හොඳින් ඉන්නවා <ප්‍රිබෝයි සිය අප්‍රසාදය පළ කරයි> ඔහු සියල්ල කතා කරාවි."
+    "Sinhala": "JONES: බයවෙන්න එපා - ඌට හොඳටම හොඳයි <ප්‍රිබෝයි තරහෙන් ගොරවයි> ඌ කතා කරයි."
   },
   {
     "Id": "M7_CUT_03",
     "Mission": "Mission 7",
     "Speaker": "EKK",
     "English": "EKK: This is Russian air control - you are now entering sovereign air space, direct your craft immediately on bearing 0 9 9, repeat 0 9 9.",
-    "Sinhala": "EKK: මෙය රුසියානු ගුවන් පාලක මැදිරියයි - ඔබ දැන් ස්වෛරී ගුවන් සීමාවට ඇතුළු වෙමින් සිටී, ඔබේ යානය වහාම 0 9 9 දිශාංශය ඔස්සේ යොමු කරන්න, නැවත කියනවා 0 9 9."
+    "Sinhala": "EKK: මේ රුසියන් ගුවන් පාලක මැදිරියෙන් - ඔබ දැන් ඇතුළු වෙන්නේ අපේ ගුවන් සීමාවටයි, වහාම ඔබේ යානය අංශක 0 9 9 දිශාවට හරවන්න, නැවත කියනවා 0 9 9."
   },
   {
     "Id": "M7_CUT_04",
     "Mission": "Mission 7",
     "Speaker": "EKK",
     "English": "EKK: You have thirty seconds to comply, Jones",
-    "Sinhala": "EKK: ඔබට අණ පිළිපැදීමට තත්පර තිහක් තිබේ, ජෝන්ස්."
+    "Sinhala": "EKK: තත්පර තිහක් ඇතුළත කීකරු වෙන්න, ජෝන්ස්."
   },
   {
     "Id": "M7_CUT_05",
     "Mission": "Mission 7",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: That's her!",
-    "Sinhala": "PRIBOI: ඒ ඇයයි!"
+    "Sinhala": "PRIBOI: ඒකි තමයි ඒ!"
   },
   {
     "Id": "M7_CUT_06",
@@ -613,14 +613,14 @@
     "Mission": "Mission 7",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Just do what she says, she loco, crazy.",
-    "Sinhala": "PRIBOI: ඇය කියන දේ කරන්න, ඇය පිස්සියක්, උමතු ගැහැනියක්."
+    "Sinhala": "PRIBOI: ඒකි කියන දේ කරන්න, ඒකිට පිස්සු, මහ පිස්සියක්!"
   },
   {
     "Id": "M7_CUT_08",
     "Mission": "Mission 7",
     "Speaker": "EKK",
     "English": "EKK: Lock missiles. Fire when ready.",
-    "Sinhala": "EKK: මිසයිල ඉලක්ක කරන්න. සූදානම් වූ වහාම වෙඩි තබන්න."
+    "Sinhala": "EKK: මිසයිල ලොක් කරගන්න. ලෑස්ති වුණු ගමන් වෙඩි තියන්න."
   },
   {
     "Id": "M7_CUT_09",
@@ -634,448 +634,448 @@
     "Mission": "Mission 7",
     "Speaker": "RUSSIAN PILOT",
     "English": "RUSSIAN PILOT: Missiles away.",
-    "Sinhala": "RUSSIAN PILOT: මිසයිල විදින ලදී."
+    "Sinhala": "RUSSIAN PILOT: මිසයිල විද්දා."
   },
   {
     "Id": "M7_CUT_11",
     "Mission": "Mission 7",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Too late!",
-    "Sinhala": "PRIBOI: ප්‍රමාද වැඩියි!"
+    "Sinhala": "PRIBOI: දැන් නම් පරක්කු වැඩියි!"
   },
   {
     "Id": "M7_CUT_12",
     "Mission": "Mission 7",
     "Speaker": "JONES",
     "English": "JONES: Anya, we've been hit, mayday, mayday, going down, we're going to crash!",
-    "Sinhala": "JONES: ආන්‍යා, අපට ප්‍රහාරයක් එල්ල වුණා, මේඩේ, මේඩේ, යානය කඩා වැටෙනවා, අපි අනතුරට ලක්වෙනවා!"
+    "Sinhala": "JONES: අන්‍යා, අපිට මිසයිලයක් වැදුණා! මේඩේ! මේඩේ! යානය කඩාවැටෙනවා! අපි ක්‍රෑෂ් වෙන්නයි යන්නේ!"
   },
   {
     "Id": "M7_CUT_13",
     "Mission": "Mission 7",
     "Speaker": "EKK",
     "English": "EKK: Find Priboi. Bring him to me if he is still alive; otherwise burn the body at the crash site.",
-    "Sinhala": "EKK: ප්‍රිබෝයිව සොයන්න. ඔහු පණපිටින් සිටී නම් මා වෙත රැගෙන එන්න; එසේ නොමැති නම් අනතුර සිදු වූ ස්ථානයේදීම සිරුර පුළුස්සා දමන්න."
+    "Sinhala": "EKK: ප්‍රිබෝයිව හොයාගන්නවා. ඌ පණපිටින් ඉන්නවා නම් මගේ ළඟට අරන් එනවා; නැත්නම් වැටිච්ච තැනම දාලා මිනිය පුච්චලා දානවා."
   },
   {
     "Id": "M7_CUT_14",
     "Mission": "Mission 7",
     "Speaker": "RUSSIAN SOLDIER",
     "English": "RUSSIAN SOLDIER: And the English soldier?",
-    "Sinhala": "RUSSIAN SOLDIER: එතකොට ඉංග්‍රීසි සොල්දාදුවා?"
+    "Sinhala": "RUSSIAN SOLDIER: අර ඉංග්‍රීසි සොල්දාදුවා ගැන මොකද කරන්නේ?"
   },
   {
     "Id": "M7_CUT_15",
     "Mission": "Mission 7",
     "Speaker": "EKK",
     "English": "EKK: Kill him!, his road finishes here",
-    "Sinhala": "EKK: ඔහුව මරා දමන්න!, ඔහුගේ ගමන මෙතැනින් අවසන් වේ."
+    "Sinhala": "EKK: ඌව මරලා දානවා! උගේ ගමන මෙතනින් ඉවරයි!"
   },
   {
     "Id": "M8_CUT_01",
     "Mission": "Mission 8",
     "Speaker": "ANYA",
     "English": "ANYA: David - are you okay?",
-    "Sinhala": "ANYA: ඩේවිඩ් - ඔබ හොඳින්ද?"
+    "Sinhala": "ANYA: ඩේවිඩ් - ඔයාට අමාරුවක් නෑ නේද?"
   },
   {
     "Id": "M8_CUT_02",
     "Mission": "Mission 8",
     "Speaker": "JONES",
     "English": "JONES: Yeah. It's bloody cold Anya!",
-    "Sinhala": "JONES: ඔව්. මෙහේ පුදුම සීතලක් තියෙන්නේ ආන්‍යා!"
+    "Sinhala": "JONES: ඔව්. ඒත් මෙහෙ මාරම සීතලයි අන්‍යා!"
   },
   {
     "Id": "M8_CUT_03",
     "Mission": "Mission 8",
     "Speaker": "ANYA",
     "English": "ANYA: I know. I've got a fix on both you and the map computer. The distress beacon has kicked in.",
-    "Sinhala": "ANYA: මම දන්නවා. මම ඔබ සහ සිතියම් පරිගණකය යන දෙකම ඇති ස්ථානය සොයා ගත්තා. හදිසි ආපදා සංඥාව ක්‍රියාත්මක වී ඇත."
+    "Sinhala": "ANYA: මම දන්නවා. මම ඔයාවයි මැප් කොම්පියුටර් එකයි දෙකම ලොකේට් කරගත්තා. ඩිස්ට්‍රස් බීකන් එක වැඩ කරන්න පටන් අරන් තියෙන්නේ."
   },
   {
     "Id": "M8_CUT_04",
     "Mission": "Mission 8",
     "Speaker": "ANYA",
     "English": "ANYA: Listen - you're in a forward base of rapid reaction force - that's means...",
-    "Sinhala": "ANYA: අහන්න - ඔබ සිටින්නේ කඩිනම් ප්‍රතික්‍රියා බලකායේ ඉදිරි කඳවුරකයි - එයින් අදහස් කරන්නේ..."
+    "Sinhala": "ANYA: අහන්න - ඔයා ඉන්නේ රැපිඩ් රියැක්ෂන් ෆෝස් එකේ ඉදිරි කඳවුරක - ඒ කියන්නේ..."
   },
   {
     "Id": "M8_CUT_05",
     "Mission": "Mission 8",
     "Speaker": "JONES",
     "English": "JONES: Mechanised infantry, supporting armour, integrated aerial support - I haven't forgotten that much.",
-    "Sinhala": "JONES: යාන්ත්‍රික පාබල හමුදාව, සන්නද්ධ රථ, ගුවන් සහාය - මට ඒ තරම් දේවල් අමතක වෙලා නැහැ."
+    "Sinhala": "JONES: සන්නද්ධ පාබල හමුදාව, යුද ටැංකි, ගුවන් හමුදා සහය - මට ඔච්චර ඉක්මනට ඒවා අමතක වෙලා නෑ."
   },
   {
     "Id": "M8_CUT_06",
     "Mission": "Mission 8",
     "Speaker": "ANYA",
     "English": "ANYA: Sorry. Look, the truck is close to the infantry barracks. The map computer is broadcasting from a ammunition bunker, in a repair yard, approximately 1km away.",
-    "Sinhala": "ANYA: සමාවෙන්න. බලන්න, ට්‍රක් රථය පාබල හමුදා බැරැක්ක අසල ඇත. සිතියම් පරිගණකය සංඥා විකාශනය කරන්නේ කිලෝමීටර 1 ක් පමණ ඈතින් ඇති අලුත්වැඩියා අංගනයක පතොරම් බංකරයක සිටයි."
+    "Sinhala": "ANYA: සොරි. මෙන්න මෙහෙමයි, ලොරිය තියෙන්නේ පාබල හමුදා බැරැක්කය ළඟ. මැප් කොම්පියුටරේ තියෙන්නේ කිලෝමීටරයක් විතර ඈතින් තියෙන රෙපයාර් යාඩ් එකේ උණ්ඩ බංකරයක් ඇතුළේ."
   },
   {
     "Id": "M8_CUT_07",
     "Mission": "Mission 8",
     "Speaker": "ANYA",
     "English": "ANYA: Here are your orders. Get out of there, David and find the repair yard. Get yourself to the workshop and retrieve the map computer. I've already sourced the evac. Move it soldier.",
-    "Sinhala": "ANYA: ඔබේ නියෝග මෙන්න. එතැනින් පිටවී අලුත්වැඩියා අංගනය සොයා ගන්න ඩේවිඩ්. වැඩපළට ගොස් සිතියම් පරිගණකය නැවත ලබා ගන්න. මම දැනටමත් පිටවීමේ මාර්ගයක් සූදානම් කර ඇත. කඩිනම් වන්න සොල්දාදුවා."
+    "Sinhala": "ANYA: මෙන්න ඔයාගේ ඕඩර්ස්. එතනින් පැනලා රෙපයාර් යාඩ් එක හොයාගන්න ඩේවිඩ්. වර්ක්ෂොප් එකට ගිහින් මැප් කොම්පියුටරේ ආපහු ගන්න. මම ඔයාව අරන් යන්න ප්ලෑන් එක දාලා තියෙන්නේ. ඉක්මන් කරන්න සොල්දාදුවා."
   },
   {
     "Id": "M9_CUT_01",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: Jones - I've been thinking this through. Priboi. On a train, being taken where? To whom?",
-    "Sinhala": "ANYA: ජෝන්ස් - මම මේ ගැන ගැඹුරින් කල්පනා කළා. ප්‍රිබෝයිව දුම්රියකින් ගෙන යන්නේ කොහාටද? කා ළඟටද?"
+    "Sinhala": "ANYA: ජෝන්ස් - මම මේ ගැන හොඳට කල්පනා කළා. ප්‍රිබෝයි කෝච්චියක, කොහෙටද ඌව අරන් යන්නේ? කා ළඟටද?"
   },
   {
     "Id": "M9_CUT_02",
     "Mission": "Mission 9",
     "Speaker": "JONES",
     "English": "JONES: Hmm, my money is on the voice that got me shot down.",
-    "Sinhala": "JONES: ම්ම්, මගේ සැකය තියෙන්නේ මගේ යානයට වෙඩි තැබීමට අණ දුන් හඬ පිටුපස සිටින තැනැත්තා ගැනයි."
+    "Sinhala": "JONES: ම්ම්, මගේ සැකය තියෙන්නේ මගේ යානයට වෙඩි තියන්න අණ දීපු කටහඬ පිටුපස ඉන්න කෙනා ගැනයි."
   },
   {
     "Id": "M9_CUT_03",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: Agreed. But Priboi on a train?!?. Isn't that a strange way to transport someone?",
-    "Sinhala": "ANYA: එකඟයි. නමුත් ප්‍රිබෝයි දුම්රියක?!?. ඒක පුද්ගලයෙක් ගෙනියන්න අමුතු ක්‍රමයක් නෙවෙයිද?"
+    "Sinhala": "ANYA: ඒක ඇත්ත. ඒත් ප්‍රිබෝයි කෝච්චියක?! කාට හරි ප්‍රවාහනය කරන්න ඒක පුදුම විදිහක් නේද?"
   },
   {
     "Id": "M9_CUT_04",
     "Mission": "Mission 9",
     "Speaker": "JONES",
     "English": "JONES: Yeah. If Priboi's that important, why not use air transport, or a military convoy?",
-    "Sinhala": "JONES: ඔව්. ප්‍රිබෝයි එතරම් වැදගත් නම්, ගුවන් මගින් හෝ හමුදා රථ පෙළකින් ඔහුව ගෙන නොගියේ ඇයි?"
+    "Sinhala": "JONES: ඔව්. ප්‍රිබෝයි එච්චරටම වැදගත් නම්, ගුවන් යානයකින් හරි මිලිටරි කොන්වෝයි එකකින් හරි ගෙනියන්න තිබුණනේ?"
   },
   {
     "Id": "M9_CUT_05",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: Exactly! Our mystery caller isn't so powerful.",
-    "Sinhala": "ANYA: හරියටම! අපේ අභිරහස් ඇමතුම්කරු එතරම් බලවත් කෙනෙක් නොවේ."
+    "Sinhala": "ANYA: හරියටම හරි! අර අභිරහස් ඇමතුම්කරු අපි හිතන තරම් බලවත් නෑ."
   },
   {
     "Id": "M9_CUT_06",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: I really believe that we're dealing with a small group, possibly rogue army officers, perhaps a political extremist.",
-    "Sinhala": "ANYA: මම විශ්වාස කරන්නේ අප කටයුතු කරන්නේ කුඩා කණ්ඩායමක් සමඟ බවයි, බොහෝ විට කැරලිකාර හමුදා නිලධාරීන් හෝ දේශපාලන අන්තවාදියෙකු විය හැකියි."
+    "Sinhala": "ANYA: මට නම් හිතෙන්නේ අපි ගේම ගහන්නේ පොඩි ගෲප් එකක් එක්ක, සමහරවිට හමුදාවෙන් පැනලා ආපු නිලධාරීන් ටිකක්, නැත්නම් දේශපාලන අන්තවාදියෙක්."
   },
   {
     "Id": "M9_CUT_07",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: But they're in a rush; they need to see Priboi fast. He's important to them. Sure, but why?",
-    "Sinhala": "ANYA: නමුත් ඔවුන් කලබලයකින් ඉන්නේ; ඔවුන්ට ප්‍රිබෝයිව ඉක්මනින් දැකීමට අවශ්‍යයි. ඔහු ඔවුන්ට වැදගත්. ඒ ඇයි?"
+    "Sinhala": "ANYA: හැබැයි ඒගොල්ලෝ ඉන්නේ හදිස්සියක; උන්ට ප්‍රිබෝයිව ඉක්මනට හම්බවෙන්න ඕන. ඌ උන්ට ගොඩක් වැදගත්. ඒත් ඒ ඇයි?"
   },
   {
     "Id": "M9_CUT_08",
     "Mission": "Mission 9",
     "Speaker": "JONES",
     "English": "JONES: Well, he's the only link - from us to them. They want to know how big a threat we pose. Otherwise, Priboi would be dead, not on a train.",
-    "Sinhala": "JONES: ඔහු තමයි එකම සම්බන්ධය - අපෙන් ඔවුන් වෙතට. අපෙන් ඔවුන්ට ඇති තර්ජනය කෙතරම්දැයි දැන ගැනීමට ඔවුන්ට අවශ්‍යයි. එසේ නොමැති නම් ප්‍රිබෝයි දුම්රියක නොව දැනටමත් මියගොස් සිටිය යුතුයි."
+    "Sinhala": "JONES: මෙහෙමයි, ඌ තමයි අපි අතරේ තියෙන එකම සම්බන්ධය. අපිගෙන් උන්ට තියෙන තර්ජනය කොච්චරද කියලා උන්ට දැනගන්න ඕන. එහෙම නැත්නම් ප්‍රිබෝයි මෙලහකටත් මැරිලා, කෝච්චියක නෙවෙයි."
   },
   {
     "Id": "M9_CUT_09",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: You have to get Priboi back, gangster or not - he's the link from them to us.",
-    "Sinhala": "ANYA: ඔබට ප්‍රිබෝයිව නැවත ලබා ගැනීමට සිදුවේ, ඔහු මැරයෙක් වුවත් නැතත් - ඔහු තමයි ඔවුන් සහ අප අතර ඇති එකම සම්බන්ධය."
+    "Sinhala": "ANYA: කොහොම හරි ප්‍රිබෝයිව ආපහු ගන්නම වෙනවා, ඌ මැරයෙක් වුණත් නැතත් - අපිට උන්ව හොයාගන්න තියෙන එකම සාක්ෂිය ඌ විතරයි."
   },
   {
     "Id": "M9_CUT_10",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: His train will be coming through this rail yard. It's used to store decommissioned missiles. Jones, you have to get aboard that train.",
-    "Sinhala": "ANYA: ඔහුගේ දුම්රිය මෙම දුම්රිය අංගනය හරහා ගමන් කරනු ඇත. එය භාවිතයෙන් ඉවත් කළ මිසයිල ගබඩා කිරීමට භාවිතා කරයි. ජෝන්ස්, ඔබ එම දුම්රියට නැගිය යුතුය."
+    "Sinhala": "ANYA: උගේ කෝච්චිය එන්නේ මේ දුම්රිය මිදුල හරහා. මේක පරණ මිසයිල ගබඩා කරන්න පාවිච්චි කරන තැනක්. ජෝන්ස්, ඔයා කොහොම හරි ඒ කෝච්චියට නගින්න ඕන."
   },
   {
     "Id": "M9_CUT_11",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: These are your objectives. First, penetrate the rail yard perimeter. When the train arrives, get onto the train.",
-    "Sinhala": "ANYA: ඔබේ ඉලක්ක මෙන්න. පළමුව, දුම්රිය අංගනයේ සීමාව තුළට ඇතුළු වන්න. දුම්රිය පැමිණි විට, දුම්රියට ගොඩවන්න."
+    "Sinhala": "ANYA: මෙන්න ඔයාගේ ඉලක්ක. මුලින්ම රේල් යාඩ් එක ඇතුළට රිංගන්න. කෝච්චිය ආපු ගමන්, ඒකට පනින්න."
   },
   {
     "Id": "M9_CUT_12",
     "Mission": "Mission 9",
     "Speaker": "ANYA",
     "English": "ANYA: Remember if there's a security alert, the train probably won't enter the base, we can't take that risk so don't leave the alarms running. Get going David - good luck",
-    "Sinhala": "ANYA: මතක තබා ගන්න, අනතුරු ඇඟවීමේ සංඥාවක් නාද වුවහොත් දුම්රිය කඳවුරට ඇතුළු නොවනු ඇත, අපට එම අවදානම ගත නොහැකි බැවින් සයිරන් නලා ක්‍රියාත්මක වීමට ඉඩ නොදෙන්න. පිටත් වන්න ඩේවිඩ් - වාසනාව!"
+    "Sinhala": "ANYA: මතක තියාගන්න සිකියුරිටි ඇලර්ට් එකක් වැදුණොත් කෝච්චිය බේස් එකට එන එකක් නෑ, අපිට ඒ රිස්ක් එක ගන්න බෑ, ඒ නිසා එලාම් වදින්න තියන්න එපා. යන්න ඩේවිඩ් - ගුඩ් ලක්."
   },
   {
     "Id": "M10_CUT_01",
     "Mission": "Mission 10",
     "Speaker": "JONES",
     "English": "JONES: Anya, I've found Priboi! The train is secure. I've finally got there.",
-    "Sinhala": "JONES: ආන්‍යා, මම ප්‍රිබෝයිව සොයාගත්තා! දුම්රිය දැන් ආරක්ෂිතයි. මම අවසානයේ එතනට ආවා."
+    "Sinhala": "JONES: අන්‍යා, මම ප්‍රිබෝයිව හොයාගත්තා! කෝච්චිය අපේ පාලනය යටතේ තියෙන්නේ. අන්තිමේදී වැඩේ ගොඩදාගත්තා."
   },
   {
     "Id": "M10_CUT_02",
     "Mission": "Mission 10",
     "Speaker": "ANYA",
     "English": "ANYA: At last!",
-    "Sinhala": "ANYA: අන්තිමේදී!"
+    "Sinhala": "ANYA: ඇති යාන්තම්!"
   },
   {
     "Id": "M10_CUT_03",
     "Mission": "Mission 10",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: You took your time. First you kidnap me, and then you loose me. I thought you were a professional",
-    "Sinhala": "PRIBOI: ඔයා සෑහෙන වෙලාවක් ගත්තා. මුලින්ම ඔයා මාව පැහැරගන්නවා, ඊළඟට මාව අතරමං කරනවා. මම හිතුවේ ඔයා වෘත්තීය මට්ටමේ කෙනෙක් කියලා."
+    "Sinhala": "PRIBOI: තමුසෙලා එන්න හොඳටම පරක්කු වුණා. මුලින් මාව පැහැරගන්නවා, ඊට පස්සෙ මාව අතරමං කරනවා. මම හිතුවෙ තමුසෙලා වැඩකාරයෝ කියලා!"
   },
   {
     "Id": "M10_CUT_04",
     "Mission": "Mission 10",
     "Speaker": "ANYA",
     "English": "ANYA: Jones - there's two planes approaching",
-    "Sinhala": "ANYA: ජෝන්ස් - ගුවන් යානා දෙකක් ළඟා වෙමින් පවතිනවා."
+    "Sinhala": "ANYA: ජෝන්ස් - ෆයිටර් ජෙට් දෙකක් කඩාගෙන එනවා!"
   },
   {
     "Id": "M10_CUT_05",
     "Mission": "Mission 10",
     "Speaker": "RUSSIAN PILOT",
     "English": "RUSSIAN PILOT: Victor Three to Command, we have visual contact with the train",
-    "Sinhala": "RUSSIAN PILOT: වික්ටර් ත්‍රී සිට අණදෙන මධ්‍යස්ථානයට, දුම්රිය අපගේ දර්ශනයට හසුවී ඇත."
+    "Sinhala": "RUSSIAN PILOT: වික්ටර් ත්‍රී සිට අණදෙන මූලස්ථානයට, කෝච්චිය අපේ ඇස් මානයේ තියෙනවා."
   },
   {
     "Id": "M10_CUT_06",
     "Mission": "Mission 10",
     "Speaker": "EKK",
     "English": "EKK: Stop that train. Fire, fire!",
-    "Sinhala": "EKK: ඒ දුම්රිය නවත්වන්න. වෙඩි තබන්න, වෙඩි තබන්න!"
+    "Sinhala": "EKK: අර කෝච්චිය නවත්තනවා. වෙඩි තියපල්ලා, වෙඩි තියපල්ලා!"
   },
   {
     "Id": "M10_CUT_07",
     "Mission": "Mission 10",
     "Speaker": "RUSSIAN PILOT",
     "English": "RUSSIAN PILOT: Missiles away!",
-    "Sinhala": "RUSSIAN PILOT: මිසයිල විදින ලදී!"
+    "Sinhala": "RUSSIAN PILOT: මිසයිල විද්දා!"
   },
   {
     "Id": "M10_CUT_08",
     "Mission": "Mission 10",
     "Speaker": "ANYA",
     "English": "ANYA: Jones - hold on tight.",
-    "Sinhala": "ANYA: ජෝන්ස් - තදින් අල්ලා ගන්න."
+    "Sinhala": "ANYA: ජෝන්ස් - තදින් අල්ලගන්න!"
   },
   {
     "Id": "M10_CUT_09",
     "Mission": "Mission 10",
     "Speaker": "JONES",
     "English": "JONES: Arghhhhh!",
-    "Sinhala": "JONES: ආඅඅආඅආ!"
+    "Sinhala": "JONES: ආආආආහ්!"
   },
   {
     "Id": "M10_CUT_10",
     "Mission": "Mission 10",
     "Speaker": "PRIBOI",
     "English": "PRIBOI: Arghhhhh!",
-    "Sinhala": "PRIBOI: ආඅඅආඅආ!"
+    "Sinhala": "PRIBOI: අම්මෝඕඕඕහ්!"
   },
   {
     "Id": "M11_CUT_01",
     "Mission": "Mission 11",
     "Speaker": "JONES",
     "English": "JONES: I met the chopper crew as you requested, 05:00 was damn early. Where are we heading? You've told me nothing. What about the bomb? What about Ekk?",
-    "Sinhala": "JONES: ඔබ ඉල්ලූ පරිදි මම හෙලිකොප්ටර් කාර්ය මණ්ඩලය හමුවුණා, උදෑසන 05:00 කියන්නේ හරිම වේලාසනයි. අපි කොහෙද යන්නේ? ඔබ මට කිසිවක් කීවේ නැහැ. බෝම්බය ගැන මොකද? එක් ගැන මොකද?"
+    "Sinhala": "JONES: ඔයා කියපු විදිහටම මම පාන්දර 05:00ට හෙලිකොප්ටර් කෲ එක හම්බවුණා, ඒ වෙලාව නම් මාරම කලින්. අපි මේ කොහෙද යන්නේ? ඔයා මට මුකුත් කිව්වෙ නෑනේ. බෝම්බෙට මොකද වුණේ? එක් ගැන මොකද තත්ත්වේ?"
   },
   {
     "Id": "M11_CUT_02",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: Ekk used an old KGB redoubt as a training camp, that's where she would have taken the bomb. Her camp is located in the ruins of a castle. The castle is perched up on a rocky outcrop, about 50 ks from your present position.",
-    "Sinhala": "ANYA: එක් පැරණි කේ.ජී.බී. (KGB) බලකොටුවක් පුහුණු කඳවුරක් ලෙස භාවිත කර ඇත, ඇය බෝම්බය ගෙන යන්නට ඇත්තේ එතැනටයි. ඇගේ කඳවුර පිහිටා ඇත්තේ බලකොටුවක නටබුන් තුළ ය. බලකොටුව පිහිටා ඇත්තේ ඔබේ වත්මන් ස්ථානයේ සිට කිලෝමීටර් 50 ක් පමණ ඈතින් පිහිටි ගල් කඳු මුදුනකය."
+    "Sinhala": "ANYA: එක් පාවිච්චි කරලා තියෙන්නේ පරණ කේ.ජී.බී. කඳවුරක් ට්‍රේනින් කැම්ප් එකක් විදිහට, ෂුවර් එකටම ඒකි බෝම්බෙ අරන් යන්න ඇත්තෙ එහාට. ඒ කැම්ප් එක තියෙන්නේ පරණ බලකොටුවක නටබුන් අස්සේ. ඒක තියෙන්නේ ඔයා ඉන්න තැන ඉඳන් කිලෝමීටර් 50ක් විතර ඈතින් උස් ගල් පර්වතයක් මුදුනේ."
   },
   {
     "Id": "M11_CUT_03",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: Access is restricted to cable car only. I can't risk you and the chopper going in close, a shoulder launched SAM could bring you down too easily.",
-    "Sinhala": "ANYA: පිවිසිය හැක්කේ කේබල් කාර් රථයකින් පමණි. ඔබට සහ හෙලිකොප්ටරයට ළඟට යාමට අවදානමක් ගත නොහැක, උරහිස මත තබා විදින SAM මිසයිලයකින් ඔබව පහසුවෙන් බිම හෙළිය හැකිය."
+    "Sinhala": "ANYA: එහාට යන්න තියෙන්නේ කේබල් කාර් එකකින් විතරයි. ඔයාලව හෙලිකොප්ටරෙන් එච්චර ළඟට යවලා රිස්ක් එකක් ගන්න බෑ, උරහිසෙන් තියන සෑම් මිසයිලෙකින් ඔයාලව ලේසියෙන්ම බිම දාන්න පුළුවන්."
   },
   {
     "Id": "M11_CUT_04",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: Access to the cable car is located in a regular army training fort, located at the base of the mountain.",
-    "Sinhala": "ANYA: කේබල් කාර් රථයට ප්‍රවේශය පිහිටා ඇත්තේ කන්ද පාමුල පිහිටි සාමාන්‍ය හමුදා පුහුණු බලකොටුවකය."
+    "Sinhala": "ANYA: කේබල් කාර් එකට නගින්න තියෙන්නේ කන්ද පාමුල තියෙන සාමාන්‍ය හමුදා පුහුණු කඳවුර ඇතුළෙන්."
   },
   {
     "Id": "M11_CUT_05",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: We will drop you some distance away. A weapons cache has been prepared for you. One of Harrison's men left it for you.",
-    "Sinhala": "ANYA: අපි ඔබව මදක් ඈතින් බස්සවන්නෙමු. ඔබ වෙනුවෙන් ආයුධ තොගයක් සූදානම් කර ඇත. හැරිසන්ගේ මිනිසෙකු එය ඔබ වෙනුවෙන් තබා ඇත."
+    "Sinhala": "ANYA: අපි ඔයාව ටිකක් ඈතින් බස්සනවා. ඔයාට අවශ්‍ය ආයුධ තොගයක් ලෑස්ති කරලා තියෙන්නේ. හැරිසන්ගේ එකෙක් තමයි ඒක ඔයාට තියලා ගියේ."
   },
   {
     "Id": "M11_CUT_06",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: Collect the weapons cache, Proceed to the training fort, Ride the cable car up to the peak of the mountain.",
-    "Sinhala": "ANYA: ආයුධ තොගය ලබාගෙන, පුහුණු බලකොටුව වෙත ගොස්, කේබල් කාර් රථයෙන් කඳු මුදුනට යන්න."
+    "Sinhala": "ANYA: ආයුධ ටික අරගෙන, ට්‍රේනින් කඳවුරට ගිහින්, කේබල් කාර් එකෙන් කන්ද මුදුනටම යන්න."
   },
   {
     "Id": "M11_CUT_07",
     "Mission": "Mission 11",
     "Speaker": "ANYA",
     "English": "ANYA: David, I've managed to access building plans for the fort. My man in Moscow came up trumps. The cable car has it's own independent power supply. The power supply is off, I've checked. Locate the generator.",
-    "Sinhala": "ANYA: ඩේවිඩ්, මට බලකොටුවේ ගොඩනැගිලි සැලසුම් ලබා ගැනීමට හැකි විය. මොස්කව්හි මගේ ඔත්තුකරු වැඩේ සාර්ථකව කළා. කේබල් කාර් රථයට වෙනම ස්වාධීන විදුලි සැපයුමක් ඇත. විදුලි සැපයුම විසන්ධි කර ඇත, මම පරීක්ෂා කළා. ජනක යන්ත්‍රය (Generator) සොයා ගන්න."
+    "Sinhala": "ANYA: ඩේවිඩ්, මම කොහොම හරි මේ කඳවුරේ බිල්ඩින් ප්ලෑන්ස් හොයාගත්තා. මොස්කව් වල ඉන්න මගේ කන්ටැක්ට් එක වැඩේ ගොඩදාලා දුන්නා. කේබල් කාර් එකට වෙනම කරන්ට් සප්ලයි එකක් තියෙන්නේ. ඒක ඕෆ් කරලයි තියෙන්නේ, මම චෙක් කළා. ජෙනරේටරේ හොයාගන්න."
   },
   {
     "Id": "M12_CUT_01",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: The castle has been here since the 1300's - Ekk's been using it for the last year. The castle was originally KGB controlled but was transferred to the military in 1990.",
-    "Sinhala": "ANYA: මෙම බලකොටුව 1300 ගණන්වල සිට මෙහි පැවතුණි - එක් පසුගිය වසර පුරා එය භාවිතා කර ඇත. බලකොටුව මුලින් කේ.ජී.බී. පාලනය යටතේ තිබූ නමුත් 1990 දී හමුදාවට පවරා දෙන ලදී."
+    "Sinhala": "ANYA: මේ බලකොටුව 1300 ගණන් වල ඉඳන් තිබිච්ච එකක් - එක් මේක පහුගිය අවුරුද්ද පුරාම පාවිච්චි කරලා තියෙනවා. මේක මුලින් කේ.ජී.බී. එක යටතේ තිබිලා 1990දී හමුදාවට පවරලා තියෙන්නේ."
   },
   {
     "Id": "M12_CUT_02",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: The military had no use for it so left to rot. Ekk paid the local commander to turn a blind eye.",
-    "Sinhala": "ANYA: හමුදාවට එයින් ප්‍රයෝජනයක් නොතිබූ නිසා එය අත්හැර දමා තිබුණා. ප්‍රාදේශීය අණදෙන නිලධාරියාට අල්ලස් දී එක් මේ සියල්ල හොර රහසේ සිදු කරගෙන ගියා."
+    "Sinhala": "ANYA: හමුදාවට මේකෙන් වැඩක් නොතිබුණු නිසා නිකන් අතහැරලා දාලයි තිබුණේ. එක් එහෙ හිටපු ලොක්කාට සල්ලි දීලා කට වහගෙන ඉන්න කියලා තියෙන්නේ."
   },
   {
     "Id": "M12_CUT_03",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: Satellite imagery shows new constructions amongst the ruins. I don't have any hard data though.",
-    "Sinhala": "ANYA: චන්ද්‍රිකා ඡායාරූප මගින් නටබුන් අතර නව ඉදිකිරීම් පෙන්නුම් කරයි. කෙසේ වෙතත් මා සතුව නිශ්චිත තොරතුරු නොමැත."
+    "Sinhala": "ANYA: සැටලයිට් ෆොටෝ වල පේනවා නටබුන් අස්සේ අලුත් ඉදිකිරීම් කරලා තියෙනවා. හැබැයි මගේ ළඟ ස්ථිර තොරතුරු නෑ."
   },
   {
     "Id": "M12_CUT_04",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: Surveillance has identified about 30 troops, some training areas, nothing really heavy.",
-    "Sinhala": "ANYA: නිරීක්ෂණ මගින් සොල්දාදුවන් 30 දෙනෙකු පමණ හඳුනාගෙන ඇත, පුහුණු ප්‍රදේශ කිහිපයක් ඇත, විශාල බර අවි නැත."
+    "Sinhala": "ANYA: සෝදිසි කිරීම් වලින් සොල්දාදුවෝ 30ක් විතරයි, පුහුණු වෙන තැන් ටිකකුයි පෙනුණේ, ලොකු බර අවි මුකුත් නෑ."
   },
   {
     "Id": "M12_CUT_05",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: There is at least one chopper, expect a gunship.",
-    "Sinhala": "ANYA: අවම වශයෙන් එක් හෙලිකොප්ටරයක් තිබේ, ප්‍රහාරක හෙලිකොප්ටරයක් බලාපොරොත්තු වන්න."
+    "Sinhala": "ANYA: අඩුම ගානේ එක හෙලිකොප්ටරයක්වත් තියෙනවා, ඒක ගන්ෂිප් එකක් වෙන්න පුළුවන්."
   },
   {
     "Id": "M12_CUT_06",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: In short, enter the base. Find the bomb. Capture Ekk; if this is not possible, termination will satisfy the Chiefs of Staff.",
-    "Sinhala": "ANYA: කෙටියෙන් කිවහොත්, කඳවුරට ඇතුළු වන්න. බෝම්බය සොයා ගන්න. එක්ව අල්ලා ගන්න; එය කළ නොහැකි නම්, ඇයව ඝාතනය කිරීම ප්‍රධාන අණදෙන නිලධාරීන් තෘප්තිමත් කරනු ඇත."
+    "Sinhala": "ANYA: කෙටියෙන්ම කිව්වොත්, බේස් එකට ඇතුල් වෙන්න. බෝම්බෙ හොයාගන්න. එක්ව අල්ලගන්න; ඒක කරන්න බැරි වුණොත්, ඒකිව මරලා දැම්මත් හමුදා ප්‍රධානීන්ට ඇති."
   },
   {
     "Id": "M12_CUT_07",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: Then secure the area and we fly you and the bomb out. David, you must take care.",
-    "Sinhala": "ANYA: ඉන්පසු ප්‍රදේශය ආරක්ෂිත කර අපි ඔබව සහ බෝම්බය ගුවන් මගින් රැගෙන එන්නෙමු. ඩේවිඩ්, ඔබ ප්‍රවේශම් විය යුතුය."
+    "Sinhala": "ANYA: ඊට පස්සෙ ඒ හරිය සුරක්ෂිත කරගත්තම අපි ඔයාවයි බෝම්බෙයි අරගෙන පියාසර කරනවා. ඩේවිඩ්, පරිස්සමෙන් වැඩේ කරන්න."
   },
   {
     "Id": "M12_CUT_08",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: We've got so close; I don't want any thing to go wrong. Please, no rash mistakes.",
-    "Sinhala": "ANYA: අපි ඉලක්කයට ඉතා ආසන්නයි; කිසිවක් වැරදෙනවාට මම කැමති නැහැ. කරුණාකර, නොසැලකිලිමත් වැරදි කරන්න එපා."
+    "Sinhala": "ANYA: අපි දැන් ගේමට ගොඩක්ම ළඟයි; කිසිම දෙයක් වරදිනවට මම කැමති නෑ. අනේ, කලබල වෙලා වැරදි කරගන්න එපා."
   },
   {
     "Id": "M12_CUT_09",
     "Mission": "Mission 12",
     "Speaker": "JONES",
     "English": "JONES: Anya what happens now to Priboi?",
-    "Sinhala": "JONES: ආන්‍යා, දැන් ප්‍රිබෝයිට මොකද වෙන්නේ?"
+    "Sinhala": "JONES: අන්‍යා, දැන් ප්‍රිබෝයිට මොකක්ද වෙන්න යන්නේ?"
   },
   {
     "Id": "M12_CUT_10",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: He's, he's, that's classified.",
-    "Sinhala": "ANYA: ඔහු, ඔහු... එය රහස්‍ය තොරතුරක්."
+    "Sinhala": "ANYA: එයා... එයා... ඒක ක්ලැසිෆයිඩ් රහසක්."
   },
   {
     "Id": "M12_CUT_11",
     "Mission": "Mission 12",
     "Speaker": "JONES",
     "English": "JONES: What? Don't play around Anya, please don't.",
-    "Sinhala": "JONES: මොකක්ද? විහිළු කරන්න එපා ආන්‍යා, කරුණාකරලා."
+    "Sinhala": "JONES: මොකක්? විහිළු කරන්න එපා අන්‍යා, ඇත්ත කියන්න."
   },
   {
     "Id": "M12_CUT_12",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: He's on the payroll.",
-    "Sinhala": "ANYA: ඔහු අපේ වැටුප් ලේඛනයට ඇතුළත් කර තිබෙනවා (අපේ ඔත්තුකරුවෙක් කරගෙන)."
+    "Sinhala": "ANYA: මිනිහා දැන් ඉන්නේ අපේ පඩි ලැයිස්තුවේ."
   },
   {
     "Id": "M12_CUT_13",
     "Mission": "Mission 12",
     "Speaker": "JONES",
     "English": "JONES: What? Cheeky bastard!",
-    "Sinhala": "JONES: මොකක්? මුග්ධ නරුමයා!"
+    "Sinhala": "JONES: මොකක්? ඒ නසරාණියා!"
   },
   {
     "Id": "M12_CUT_14",
     "Mission": "Mission 12",
     "Speaker": "ANYA",
     "English": "ANYA: Don't be so na?ve Jones - he's a businessman, he's selling information and well, we're buying. Besides, we now keep really good tabs on Mr Jach Priboi.",
-    "Sinhala": "ANYA: එතරම් බොළඳ වෙන්න එපා ජෝන්ස් - ඔහු ව්‍යාපාරිකයෙක්, ඔහු තොරතුරු විකුණනවා, අපි ඒවා මිලදී ගන්නවා. අනික, අපි දැන් ජැක් ප්‍රිබෝයි ගැන දැඩි විමසිල්ලෙන් ඉන්නේ."
+    "Sinhala": "ANYA: ඔච්චර මෝඩ වෙන්න එපා ජෝන්ස් - මිනිහා බිස්නස්කාරයෙක්, මිනිහා තොරතුරු විකුණනවා, අපි ඒව සල්ලි දීලා ගන්නවා. අනික, දැන් අපි ජාක් ප්‍රිබෝයි ගැන හොඳටම ඇහැ ගහගෙනයි ඉන්නේ."
   },
   {
     "Id": "M13_CUT_01",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: This was a major plutonium refining plant during the cold war. It's now used for weapon research - anti missile technology - there's the link with Ekk!.",
-    "Sinhala": "ANYA: මෙය සීතල යුද්ධ සමයේ ප්‍රධාන ප්ලූටෝනියම් පිරිපහදු මධ්‍යස්ථානයක් විය. එය දැන් මිසයිල නාශක තාක්ෂණය සහ අවි පර්යේෂණ සඳහා භාවිත කෙරේ - එක් සමඟ ඇති සම්බන්ධය එයයි!"
+    "Sinhala": "ANYA: මේක සීතල යුද්ධ කාලේ ප්ලූටෝනියම් පිරිපහදු කරපු ප්‍රධාන ප්ලාන්ට් එකක්. දැන් මේක අවි ආයුධ පර්යේෂණ වලටයි පාවිච්චි කරන්නේ - මිසයිල නාශක තාක්ෂණය - අන්න එතනයි එක්ගේ සම්බන්ධය තියෙන්නේ!"
   },
   {
     "Id": "M13_CUT_02",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: The plant still houses a functional nuclear reactor.",
-    "Sinhala": "ANYA: මෙම කම්හල තුළ තවමත් ක්‍රියාකාරී න්‍යෂ්ටික ප්‍රතික්‍රියාකාරකයක් පවතී."
+    "Sinhala": "ANYA: මේ ප්ලාන්ට් එක ඇතුළේ තවමත් ක්‍රියාකාරී න්‍යෂ්ටික රියැක්ටරයක් තියෙනවා."
   },
   {
     "Id": "M13_CUT_03",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: Ekk has taken control of the installation for sure. We spotted these soldiers moving about - their uniforms are wrong. And see here - there has been gunfire recently.",
-    "Sinhala": "ANYA: එක් මෙම සංකීර්ණයේ පාලනය නිසැකවම අත්පත් කරගෙන ඇත. සෙබළුන් සැරිසරන අයුරු අප දුටුවා - ඔවුන්ගේ නිල ඇඳුම් මෙරට හමුදාවේ ඒවා නොවේ. මෙන්න බලන්න - මෑතකදී මෙහි වෙඩි තැබීම් සිදුවී තිබෙනවා."
+    "Sinhala": "ANYA: එක් ෂුවර් එකටම මේ තැන අල්ලගෙනයි ඉන්නේ. අපි දැක්කා මෙහෙ සොල්දාදුවෝ ගැවසෙනවා - උන්ගේ යුනිෆෝම්ස් වෙනස්. අනික මෙන්න මෙතන බලන්න - ළඟදි වෙඩි තැබීම් වෙලා තියෙනවා."
   },
   {
     "Id": "M13_CUT_04",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: We'll put you down close to the perimeter; you must secure the inner compound surrounding the communication post.",
-    "Sinhala": "ANYA: අපි ඔබව සීමාවට ආසන්නයෙන් බස්සවන්නෙමු; සන්නිවේදන මුරපොල අවට ඇති අභ්‍යන්තර සංකීර්ණය ඔබ ආරක්ෂා කරගත යුතුය."
+    "Sinhala": "ANYA: අපි ඔයාව මායිම ළඟින් බස්සනවා; ඔයා කොමියුනිකේෂන් පෝස්ට් එක වටේ තියෙන ඇතුල් කලාපය ක්ලියර් කරගන්න ඕන."
   },
   {
     "Id": "M13_CUT_05",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: Harrison, four of men and myself will then come in to land by chopper.",
-    "Sinhala": "ANYA: ඉන්පසු හැරිසන්, සෙබළුන් සිව්දෙනෙකු සහ මම හෙලිකොප්ටරයකින් ගොඩබසින්නෙමු."
+    "Sinhala": "ANYA: ඊට පස්සෙ හැරිසනුයි, එයාගේ මිනිස්සු හතර දෙනෙකුයි, මායි හෙලිකොප්ටරෙන් ලෑන්ඩ් කරන්න එනවා."
   },
   {
     "Id": "M13_CUT_06",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: I'm heading out to meet you now.",
-    "Sinhala": "ANYA: මම දැන් ඔබව හමුවීමට පිටත්ව එනවා."
+    "Sinhala": "ANYA: මම දැන් ඔයාව හම්බවෙන්න එමින් ගමන් ඉන්නේ."
   },
   {
     "Id": "M13_CUT_07",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: Once you have the comms post secure, we can access the plant's computer network - I'll find out what the hell she's done",
-    "Sinhala": "ANYA: සන්නිවේදන මුරපොල සුරක්ෂිත වූ පසු, අපට කම්හලේ පරිගණක ජාලයට පිවිසිය හැකියි - ඇය කර ඇති විනාශය කුමක්දැයි මම සොයා ගන්නම්."
+    "Sinhala": "ANYA: කොමියුනිකේෂන් පෝස්ට් එක අල්ලගත්තට පස්සේ, අපිට ප්ලාන්ට් එකේ කොම්පියුටර් නෙට්වර්ක් එකට ඇතුල් වෙන්න පුළුවන් - ඒකි මොන මගුලක් කරලද කියලා මම හොයාගන්නම්."
   },
   {
     "Id": "M13_CUT_08",
     "Mission": "Mission 13",
     "Speaker": "JONES",
     "English": "JONES: Area's clear.",
-    "Sinhala": "JONES: ප්‍රදේශය ආරක්ෂිතයි."
+    "Sinhala": "JONES: ඒරියා එක ක්ලියර්."
   },
   {
     "Id": "M13_CUT_09",
@@ -1089,146 +1089,146 @@
     "Mission": "Mission 13",
     "Speaker": "JONES",
     "English": "JONES: I've taken out most of Ekk's force above ground, there's bound to be some more skulking about like rats. Anya? Harrison? We need to start moving underground; we need Intel.",
-    "Sinhala": "JONES: මම පොළව මතුපිට සිටි එක්ගේ බොහෝ සෙබළුන් විනාශ කළා, තවත් සමහරු මීයන් මෙන් සැඟවී සිටිය හැකියි. ආන්‍යා? හැරිසන්? අප භූගතව ගමන් කළ යුතුය; අපට තොරතුරු අවශ්‍යයි."
+    "Sinhala": "JONES: පොළොව උඩ හිටපු එක්ගේ හමුදාවෙන් වැඩි හරියක් මම ඉවරයක් කළා, ඒත් තව උන් මීයෝ වගේ හැංගිලා ඇති. අන්‍යා? හැරිසන්? අපිට භූගත තලයට යන්න පටන් ගන්න වෙනවා; අපිට තොරතුරු ඕන."
   },
   {
     "Id": "M13_CUT_12",
     "Mission": "Mission 13",
     "Speaker": "ANYA",
     "English": "ANYA: I'll access the networks; you'll have that Intel shortly.",
-    "Sinhala": "ANYA: මම ජාලයට ප්‍රවේශ වන්නම්; ඔබට එම තොරතුරු ඉක්මනින් ලැබෙනු ඇත."
+    "Sinhala": "ANYA: මම නෙට්වර්ක් එකට ලොග් වෙන්නම්; ඔයාට ඉක්මනටම ඒ විස්තර ටික දෙන්නම්."
   },
   {
     "Id": "M13_CUT_13",
     "Mission": "Mission 13",
     "Speaker": "CAPT. HARRISON",
     "English": "CAPT. HARRISON: Leonard, you take 5 men, comb the entire area. Shoot to kill. Nagochi, Skinner, go with Jones, spread out and find how to get underground. Warren and I will stay here and cover Anya.",
-    "Sinhala": "CAPT. HARRISON: ලෙනාඩ්, මිනිසුන් 5 දෙනෙකු රැගෙන මුළු ප්‍රදේශයම පීරන්න. දුටු තැන වෙඩි තබන්න. නගෝචි, ස්කිනර්, ජෝන්ස් සමඟ ගොස් විසිරී භූගත මාර්ගය සොයා ගන්න. වොරන් සහ මම මෙහි නැවතී ආන්‍යාට ආරක්ෂාව සපයන්නෙමු."
+    "Sinhala": "CAPT. HARRISON: ලෙනාඩ්, මිනිස්සු 5 දෙනෙක් අරන් මුළු ඒරියා එකම පීරලා බලන්න. දැක්කොත් වෙඩි තියලා මරන්න. නගෝචි, ස්කිනර්, ජෝන්ස් එක්ක යන්න, බෙදිලා ගිහින් අන්ඩර්-ග්‍රවුන්ඩ් බහින තැන හොයාගන්න. වොරනුයි මායි මෙතන නැවතිලා අන්‍යාට කවර් එක දෙන්නම්."
   },
   {
     "Id": "M13_CUT_14",
     "Mission": "Mission 13",
     "Speaker": "JONES",
     "English": "JONES: Let's do it. IGI!",
-    "Sinhala": "JONES: අපි ඒක කරමු. IGI!"
+    "Sinhala": "JONES: වැඩේ පටන් ගමු. අයි.ජී.අයි!"
   },
   {
     "Id": "M14_CUT_01",
     "Mission": "Mission 14",
     "Speaker": "ANYA",
     "English": "ANYA: Jones! Our top priority is to find that bomb. When you do, secure the area until I arrive. I'll take responsibility for defusing the device.",
-    "Sinhala": "ANYA: ජෝන්ස්! අපගේ ප්‍රමුඛතම කාර්යය වන්නේ එම බෝම්බය සොයා ගැනීමයි. ඔබ එය සොයාගත් පසු, මා පැමිණෙන තෙක් ප්‍රදේශය සුරක්ෂිත කරන්න. බෝම්බය අක්‍රිය කිරීමේ වගකීම මම බාර ගන්නම්."
+    "Sinhala": "ANYA: ජෝන්ස්! අපේ පළවෙනිම වැඩේ අර බෝම්බෙ හොයාගන්න එක. හම්බවුණු ගමන් මම එනකල් ඒ හරිය ආරක්ෂා කරගෙන ඉන්න. බෝම්බෙ ඩිෆියුස් කරන වගකීම මම බාරගන්නම්."
   },
   {
     "Id": "M14_CUT_02",
     "Mission": "Mission 14",
     "Speaker": "JONES",
     "English": "JONES: You will?",
-    "Sinhala": "JONES: ඔබ?"
+    "Sinhala": "JONES: ඔයා?"
   },
   {
     "Id": "M14_CUT_03",
     "Mission": "Mission 14",
     "Speaker": "ANYA",
     "English": "ANYA: David, you're immensely practical but it takes more than a field knife and machine shop 101. A girl doesn't sweat through three years of electronics and nuclear physics for nothing.",
-    "Sinhala": "ANYA: ඩේවිඩ්, ඔබ ක්ෂේත්‍රයේ දක්ෂයෙක් විය හැකියි, නමුත් මෙයට හමුදා පිහියකට වඩා දැනුමක් අවශ්‍යයි. ගැහැණු ළමයෙක් ඉලෙක්ට්‍රොනික විද්‍යාව සහ න්‍යෂ්ටික භෞතික විද්‍යාව වෙනුවෙන් වසර තුනක් මහන්සි වුණේ නිකන් නෙවෙයි."
+    "Sinhala": "ANYA: ඩේවිඩ්, ඔයා ප්‍රායෝගික වැඩකාරයෙක් තමයි, ඒත් මේකට මන්න පිහියකටයි සාමාන්‍ය දැනුමකටයි වඩා දෙයක් ඕන. කෙල්ලෙක් ඉලෙක්ට්‍රොනික්ස් සහ නියුක්ලියර් ෆිසික්ස් අවුරුදු තුනක් තිස්සේ මහන්සි වෙලා ඉගෙන ගත්තේ නිකන් නෙවෙයි."
   },
   {
     "Id": "M14_CUT_04",
     "Mission": "Mission 14",
     "Speaker": "JONES",
     "English": "JONES: Heh! Fine!",
-    "Sinhala": "JONES: හේහ්! හොඳයි!"
+    "Sinhala": "JONES: හහ්! හොඳයි එහෙනම්!"
   },
   {
     "Id": "M14_CUT_05",
     "Mission": "Mission 14",
     "Speaker": "ANYA",
     "English": "ANYA: If you see Ekk,",
-    "Sinhala": "ANYA: ඔබට එක්ව දුටුවහොත්,"
+    "Sinhala": "ANYA: ඔයාට එක්ව දැක්කොත්,"
   },
   {
     "Id": "M14_CUT_06",
     "Mission": "Mission 14",
     "Speaker": "JONES",
     "English": "JONES: Don't worry; I just need one clean shot.",
-    "Sinhala": "JONES: බය වෙන්න එපා; මට අවශ්‍ය එක නිවැරදි වෙඩි පහරක් පමණයි."
+    "Sinhala": "JONES: බයවෙන්න එපා; මට ඕන හරියටම වදින එක ෂොට් එකක් විතරයි."
   },
   {
     "Id": "M14_CUT_07",
     "Mission": "Mission 14",
     "Speaker": "ANYA",
     "English": "ANYA: I've access to the security records. Here's how Ekk got in here, she waited until the weekend staff changed, then her guards came in disguised as support staff.",
-    "Sinhala": "ANYA: මට ආරක්ෂක වාර්තා වෙත ප්‍රවේශය ලැබුණා. එක් මෙහි ඇතුළු වූ ආකාරය මෙන්න, ඇය සති අන්තයේ කාර්ය මණ්ඩලය මාරු වන තෙක් බලා සිට, ඇගේ ආරක්ෂකයින් සහායක සේවකයින් ලෙස වෙස්වලාගෙන ඇතුළු වී තිබෙනවා."
+    "Sinhala": "ANYA: මට සිකියුරිටි රෙකෝඩ්ස් වලට ඇතුල් වෙන්න පුළුවන් වුණා. මෙන්න මෙහෙමයි එක් මෙහාට ඇවිත් තියෙන්නේ, සති අන්තේ ස්ටාෆ් එක මාරු වෙනකල් ඉඳලා, ඒකිගේ ගාඩ්ස්ලා ඇවිත් තියෙන්නේ වැඩකරන කට්ටිය වගේ වෙස්වලාගෙන."
   },
   {
     "Id": "M14_CUT_08",
     "Mission": "Mission 14",
     "Speaker": "NARRATOR",
     "English": "They took control of the security and ventilation system, either locking out or gassing any opposition. I'm deactivating Ekk's security access, but it'll take time.",
-    "Sinhala": "ඔවුන් ආරක්ෂක සහ වාතාශ්‍රය පද්ධතියේ පාලනය අත්පත් කරගෙන, විරුද්ධ වන ඕනෑම කෙනෙකු සිරකර හෝ විෂ වායු මුදාහැර මරා දමා ඇත. මම එක්ගේ ආරක්ෂක ප්‍රවේශයන් අක්‍රිය කරමින් සිටිමි, නමුත් එයට යම් කාලයක් ගතවනු ඇත."
+    "Sinhala": "NARRATOR: උන් සිකියුරිටි සහ වාතාශ්‍ර පද්ධති අල්ලගෙන, විරුද්ධ වුණු හැමෝවම කාමර වල හිර කරලා හරි විෂ වායු ගහලා හරි අයින් කරලා. මම එක්ගේ සිකියුරිටි ඇක්සස් කැන්සල් කරනවා, ඒත් ඒකට ටිකක් වෙලා යයි."
   },
   {
     "Id": "M14_CUT_09",
     "Mission": "Mission 14",
     "Speaker": "JONES",
     "English": "JONES: Um, Anya - anything else active?",
-    "Sinhala": "JONES: ම්ම්, ආන්‍යා - වෙන කිසිවක් සක්‍රියව තිබෙනවාද?"
+    "Sinhala": "JONES: අන්‍යා... තව මොනවා හරි ඇක්ටිව් වෙලා තියෙනවද?"
   },
   {
     "Id": "M14_CUT_10",
     "Mission": "Mission 14",
     "Speaker": "ANYA",
     "English": "ANYA: Jesus! Sorry David, security guns are currently active - they'll be down soon. Be careful, her men could be anywhere.",
-    "Sinhala": "ANYA: දෙවියනේ! සමාවෙන්න ඩේවිඩ්, ආරක්ෂක ස්වයංක්‍රීය තුවක්කු දැනට සක්‍රියයි - ඒවා ඉක්මනින් අක්‍රිය වනු ඇත. ප්‍රවේශම් වන්න, ඇගේ සෙබළුන් ඕනෑම තැනක සිටිය හැක."
+    "Sinhala": "ANYA: දෙයියනේ! සොරි ඩේවිඩ්, සිකියුරිටි තුවක්කු දැනට ඇක්ටිව් වෙලයි තියෙන්නේ - මම ඉක්මනටම ඒව ඕෆ් කරන්නම්. පරිස්සමෙන්, ඒකිගේ උන් ඕනම තැනක ඉන්න පුළුවන්."
   },
   {
     "Id": "M14_CUT_11",
     "Mission": "Mission 14",
     "Speaker": "Remember",
     "English": "Remember: - Find the bomb; secure the area until I arrive. Kill Ekk if you see her.",
-    "Sinhala": "මතක තබා ගන්න: - බෝම්බය සොයා ගන්න; මා පැමිණෙන තෙක් ප්‍රදේශය සුරක්ෂිත කරන්න. එක්ව දුටුවහොත් ඇයව මරා දමන්න."
+    "Sinhala": "Remember: - බෝම්බෙ හොයාගන්න; මම එනකල් ඒ හරිය ආරක්ෂා කරගන්න. එක්ව දැක්කොත් මරලා දාන්න."
   },
   {
     "Id": "OUTRO_1",
     "Mission": "Outro Cutscene",
     "Speaker": "JONES",
     "English": "JONES: Are you...you're.. OK??",
-    "Sinhala": "JONES: ඔයාට... ඔයා... හොඳින්ද??"
+    "Sinhala": "JONES: ඔයාට... ඔයාට හොඳින් නේද??"
   },
   {
     "Id": "OUTRO_2",
     "Mission": "Outro Cutscene",
     "Speaker": "ANYA",
     "English": "ANYA: ...yeah",
-    "Sinhala": "ANYA: ...ඔව්"
+    "Sinhala": "ANYA: ...ඔව්."
   },
   {
     "Id": "OUTRO_3",
     "Mission": "Outro Cutscene",
     "Speaker": "JONES",
     "English": "JONES: We don't have any clearance for what we've done, do we?? This was a black op...",
-    "Sinhala": "JONES: අපි කරපු දේට අපිට කිසිම නිල අවසරයක් තිබුණේ නැහැ නේද?? මේක රහසිගත මෙහෙයුමක් (Black Op)..."
+    "Sinhala": "JONES: අපි කරපු දේවල් වලට අපිට කිසිම අවසරයක් තිබුණෙ නෑ නේද?? මේක බ්ලැක් ඔප් එකක්..."
   },
   {
     "Id": "OUTRO_4",
     "Mission": "Outro Cutscene",
     "Speaker": "LOUDSPEAKER",
     "English": "LOUDSPEAKER: This is is Rapid Reaction Force Draka Tyegrus. Surrender Immediately! All armed persons will be treated as hostile and will be shot on sight!",
-    "Sinhala": "LOUDSPEAKER: මෙය ඩ්‍රාකා ටයිග්‍රස් කඩිනම් ප්‍රතික්‍රියා බලකායයි. වහාම යටත් වන්න! සන්නද්ධ සියලු දෙනා සතුරන් ලෙස සලකනු ලබන අතර දුටු තැන වෙඩි තබනු ලැබේ!"
+    "Sinhala": "LOUDSPEAKER: මේ රැපිඩ් රියැක්ෂන් ෆෝස් ඩ්‍රාකා ටයිග්‍රස්. වහාම යටත් වෙයල්ලා! අවි ආයුධ අතැති සියලු දෙනාම සතුරන් ලෙස සලකා දුටු තැන වෙඩි තබනු ලැබේ!"
   },
   {
     "Id": "OUTRO_5",
     "Mission": "Outro Cutscene",
     "Speaker": "ANYA",
     "English": "ANYA: Damn...There must be hundreds of soldiers between the FRV and us.",
-    "Sinhala": "ANYA: දෙවියනේ... FRV එක සහ අප අතර සොල්දාදුවන් සිය ගණනක් සිටිය යුතුයි."
+    "Sinhala": "ANYA: මගුලයි... අපි අතරෙයි හමුවීමේ තැනයි අතරේ සොල්දාදුවෝ සිය ගාණක් ඉන්නවා ඇති."
   },
   {
     "Id": "OUTRO_6",
     "Mission": "Outro Cutscene",
     "Speaker": "JONES",
     "English": "JONES: I'm going in!",
-    "Sinhala": "JONES: මම සටනට බහිනවා!"
+    "Sinhala": "JONES: මම ගේමට බහිනවා!"
   }
 ]
