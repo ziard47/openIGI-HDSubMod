@@ -51,8 +51,16 @@ It replaces the low-resolution retail bitmap cutscene font with crisp, modern Tr
     - `bamini.ttf` with standard visual glyph encoding for Tamil script, ensuring flawless pre-positioned kombu (`ெ`, `ே`, `ை`), pulli virama dots, and conjuncts.
     - `kruti-dev-010.ttf` with classic typewriter encoding for Hindi (Devanagari) script, ensuring proper pre-base short 'i' matras (`ि`), half-letter conjuncts, and reph accents.
   - Dedicated multi-font speaker rendering guarantees that character names (`ANYA:`, `JONES:`, `PRIBOI:`) always render in clean Google Sans Latin with zero missing glyph boxes (`[][][][]`).
+- **🎙️ Audio Speech Synchronization (Typewriter Reveal)**:
+  - Subtitle text reveals progressively character-by-character in exact sync with cutscene voice audio, instead of popping the full sentence up front.
+  - Character speaker tags (`ANYA:`, `JONES:`) appear immediately in their highlight color upon speech onset, followed by dialogue typing out smoothly.
+  - Built-in layout stabilization prevents text jumping or line reflowing during reveal.
+  - Smart diacritic snap ensures pre-base vowels (such as Sinhala Kombuwa `ෙ` and Hindi short-i `ि`) are never displayed without their base consonants.
+  - Can be toggled on/off anytime via the OpenIGI Launcher mod settings (`sync_subtitles`).
 - **⚙️ In-Game Mod Settings**:
-  - Select your preferred subtitle language anytime via the OpenIGI Launcher (`Settings` → `Mods` → `HDSubMod`).
+  - Customize mod settings via the OpenIGI Launcher (`Settings` → `Mods` → `HDSubMod`):
+    - **Language**: English, Sinhala, Tamil, Hindi, Russian, Spanish, German.
+    - **Subtitle Audio Sync**: Toggle progressive speech-synced typewriter reveal vs. instant full sentence display.
 - **🛡️ Full HUD Preservation**:
   - Implements `IHudIconSource` to guarantee that all in-game HUD elements (weapons, health bars, interaction timers, ammo, and radar) remain 100% intact.
   - Standard in-game gameplay dialogue forwards directly to OpenIGI's native HUD.

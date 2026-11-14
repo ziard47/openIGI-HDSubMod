@@ -66,6 +66,10 @@ public sealed class Mod : IOpenIgiMod
             "language",
             SubtitleLanguage.English,
             "Subtitle language for cutscenes and briefings.");
+        BoolCVar syncSubtitles = builder.Settings.Bool(
+            "sync_subtitles",
+            true,
+            "Synchronize subtitle reveal with spoken audio (typewriter effect).");
 
         builder.Presenters(presenters =>
         {
@@ -76,7 +80,7 @@ public sealed class Mod : IOpenIgiMod
                 var original = (IHudPresenter)Activator.CreateInstance(ssType, request.Device, request.Logger)!;
                 var hdStatusRenderer = new StatusMessageRenderer(request.Device, request.Logger);
 
-                return new CustomHudPresenter(original, hdStatusRenderer, request.Device, enabled, language, builder.Directory);
+                return new CustomHudPresenter(original, hdStatusRenderer, request.Device, enabled, language, syncSubtitles, builder.Directory);
             });
         });
     }
@@ -98,6 +102,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
     private readonly IGraphicsDevice _device;
     private readonly BoolCVar _enabled;
     private readonly EnumCVar<SubtitleLanguage> _language;
+    private readonly BoolCVar _syncSubtitles;
     private readonly string _modDirectory;
 
     private UiFont? _defaultFont;
@@ -111,6 +116,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
         IGraphicsDevice device,
         BoolCVar enabled,
         EnumCVar<SubtitleLanguage> language,
+        BoolCVar syncSubtitles,
         string modDirectory)
     {
         _inner = inner;
@@ -118,6 +124,7 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
         _device = device;
         _enabled = enabled;
         _language = language;
+        _syncSubtitles = syncSubtitles;
         _modDirectory = modDirectory;
         _bodyField = typeof(StatusMessageRenderer).GetField("_body", BindingFlags.NonPublic | BindingFlags.Instance);
 
@@ -429,6 +436,11 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             string rawText = msg.Text;
             string text = Translate(rawText, currentLang);
 
+            // Subtitle speech audio sync (progressive reveal)
+            float progress = _syncSubtitles.Value
+                ? Math.Clamp((float)msg.RevealedCharacters / Math.Max(1, msg.Text.Length), 0f, 1f)
+                : 1f;
+
             var (speaker, speakerColor) = ParseSpeaker(text);
 
             string wrapped = font.WrapText(text, fontSize, maxWidth);
@@ -440,6 +452,28 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
             // Center subtitle vertically in the cinematic bottom letterbox bar (~0.932f)
             float startY = (screenHeight * 0.932f) - (totalHeight * 0.5f);
 
+            bool hasSpeaker = speaker != null && lines[0].StartsWith(speaker + ":", StringComparison.OrdinalIgnoreCase);
+            int speakerPrefixLen = hasSpeaker ? speaker!.Length + 1 : 0;
+
+            // Compute total dialogue character count across wrapped lines
+            int totalDialogueChars = 0;
+            for (int j = 0; j < lines.Length; j++)
+            {
+                int lineDiaLen = (j == 0 && hasSpeaker)
+                    ? Math.Max(0, lines[0].Length - speakerPrefixLen)
+                    : lines[j].Length;
+                totalDialogueChars += lineDiaLen;
+            }
+
+            int visibleDialogueChars = (progress >= 1f)
+                ? totalDialogueChars
+                : (int)Math.Ceiling(progress * totalDialogueChars);
+
+            // Snap pre-base combining diacritics for Indic scripts (FM Sinhala, Bamini Tamil, Kruti Dev Hindi)
+            visibleDialogueChars = SnapIndicDiacritics(text, speaker, visibleDialogueChars, totalDialogueChars);
+
+            int remainingDialogueToDisplay = visibleDialogueChars;
+
             for (int i = 0; i < lines.Length; i++)
             {
                 string line = lines[i];
@@ -447,9 +481,9 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
 
                 float currentY = startY + (i * lineHeight);
 
-                if (i == 0 && speaker != null && line.StartsWith(speaker + ":", StringComparison.OrdinalIgnoreCase))
+                if (i == 0 && hasSpeaker)
                 {
-                    string prefix = line.Substring(0, speaker.Length + 1);
+                    string prefix = line.Substring(0, speakerPrefixLen);
                     string remainder = line.Substring(prefix.Length);
 
                     UiFont speakerFont = _defaultFont ?? font;
@@ -468,12 +502,16 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                         shadowColor,
                         shadowOffset);
 
-                    // 2. Draw dialog body in crisp white & drop shadow (using language font)
-                    if (!string.IsNullOrEmpty(remainder))
+                    // 2. Draw revealed portion of dialogue on Line 0
+                    if (!string.IsNullOrEmpty(remainder) && remainingDialogueToDisplay > 0)
                     {
+                        int charsToShow = Math.Min(remainingDialogueToDisplay, remainder.Length);
+                        string visibleRemainder = remainder.Substring(0, charsToShow);
+                        remainingDialogueToDisplay -= remainder.Length;
+
                         painter.DrawTextShadowed(
                             font,
-                            remainder.AsSpan(),
+                            visibleRemainder.AsSpan(),
                             new UiVec2(startX + prefixWidth, currentY),
                             fontSize,
                             defaultTextColor,
@@ -483,12 +521,21 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 }
                 else
                 {
+                    if (remainingDialogueToDisplay <= 0)
+                    {
+                        continue;
+                    }
+
+                    int charsToShow = Math.Min(remainingDialogueToDisplay, line.Length);
+                    string visibleLine = line.Substring(0, charsToShow);
+                    remainingDialogueToDisplay -= line.Length;
+
                     float lineWidth = font.MeasureWidth(line.AsSpan(), fontSize);
                     float startX = (screenWidth - lineWidth) * 0.5f;
 
                     painter.DrawTextShadowed(
                         font,
-                        line.AsSpan(),
+                        visibleLine.AsSpan(),
                         new UiVec2(startX, currentY),
                         fontSize,
                         defaultTextColor,
@@ -497,6 +544,29 @@ public sealed class CustomHudPresenter : IHudPresenter, IHudIconSource, IDisposa
                 }
             }
         }
+    }
+
+    private static int SnapIndicDiacritics(string fullText, string? speaker, int visibleChars, int totalChars)
+    {
+        if (visibleChars <= 0 || visibleChars >= totalChars) return visibleChars;
+
+        int offset = (speaker != null && fullText.StartsWith(speaker + ":", StringComparison.OrdinalIgnoreCase))
+            ? speaker.Length + 1
+            : 0;
+
+        int idx = offset + visibleChars;
+        if (idx > 0 && idx < fullText.Length)
+        {
+            char ch = fullText[idx - 1];
+            // If the last revealed character is a pre-base combining diacritic mark:
+            // FM Sinhala 'f' (Kombuwa), Kruti Dev 'f' (short-i), Bamini 'i', 'n', 'N' (kombu)
+            if (ch == 'f' || ch == 'i' || ch == 'n' || ch == 'N')
+            {
+                return Math.Min(totalChars, visibleChars + 1);
+            }
+        }
+
+        return visibleChars;
     }
 
     #region Localization & Translation System
